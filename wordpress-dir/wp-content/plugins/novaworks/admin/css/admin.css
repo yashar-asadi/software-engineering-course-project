@@ -1,0 +1,6 @@
+body.widgets-php.elementor-editor-active .block-editor-block-list__layout,
+body.widgets-php.elementor-editor-active .editor-block-list__layout,
+body.widgets-php.elementor-editor-inactive #elementor-editor,
+body.widgets-php.elementor-editor-inactive .elementor-switch-mode-on {
+  display: block;
+}

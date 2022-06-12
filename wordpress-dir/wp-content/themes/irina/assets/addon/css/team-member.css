@@ -1,0 +1,105 @@
+/**
+ * Foundation for Sites
+ * Version 6.6.3
+ * https://get.foundation
+ * Licensed under MIT Open Source
+ */
+.nova-tm-wrapper {
+  position: relative;
+}
+.nova-tm-wrapper .nova-tm-social-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.nova-tm-wrapper .nova-tm-social-links li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  vertical-align: top;
+}
+.nova-tm-wrapper .nova-tm-title-divider-wrap {
+  font-size: 0;
+  line-height: 1;
+}
+.nova-tm-wrapper li,
+.nova-tm-wrapper .nova-tm-social-icon,
+.nova-tm-wrapper .nova-tm-divider {
+  display: inline-block;
+}
+.nova-tm-wrapper .nova-tm:hover .nova-tm-overlay-content-wrap {
+  opacity: 1;
+  visibility: visible;
+}
+.nova-tm-wrapper .nova-tm-image {
+  display: inline-block;
+  position: relative;
+}
+
+.nova-tm-content-normal {
+  position: relative;
+  z-index: 1;
+}
+
+.nova-tm-overlay-content-wrap {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+.nova-tm-overlay-content-wrap:before {
+  background-color: #000;
+  content: "";
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  opacity: 0.5;
+  z-index: -1;
+}
+.nova-tm-overlay-content-wrap .nova-tm-content {
+  padding: 20px;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.nova-tm-social-icon-wrap {
+  display: inline-flex;
+  transition: all 0.3s ease-in-out;
+}
+
+.nova-tm-name a {
+  color: inherit;
+}
+
+.nova-tm-description p:last-child {
+  margin-bottom: 0;
+}
+
+/** About Us Style **/
+.about-us .nova-tm-wrapper {
+  border: solid 1px #E5E5E5;
+}
+.about-us .nova-tm-wrapper .nova-tm-position {
+  position: absolute;
+  top: -50%;
+  left: 40px;
+  background: #000;
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 0.3125rem 0.625rem;
+  text-transform: uppercase;
+  transform-origin: 0 0;
+  transform: rotate(90deg);
+}

@@ -1,0 +1,397 @@
+/*--------------------------------
+
+iNova Web Font
+Generated using nucleoapp.com
+
+-------------------------------- */
+@font-face {
+  font-family: 'iNova';
+  src: url('../../fonts/iNova.eot');
+  src: url('../../fonts/iNova.eot') format('embedded-opentype'), url('../../fonts/iNova.woff2') format('woff2'), url('../../fonts/iNova.woff') format('woff'), url('../../fonts/iNova.ttf') format('truetype'), url('../../fonts/iNova.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* --------------------------------
+
+Reset
+
+-------------------------------- */
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+* {
+  font: inherit;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video, hr {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+  font-family: system-ui, sans-serif;
+  color: hsl(240, 4%, 20%);
+  padding: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section, main, form legend {
+  display: block;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+button, input, textarea, select {
+  margin: 0;
+}
+
+a {
+  color: hsl(230, 93%, 66%);
+}
+
+/* --------------------------------
+
+Main components
+
+-------------------------------- */
+header {
+  text-align: center;
+  margin: 3em auto;
+}
+
+header h1 {
+  font-size: 2.6rem;
+  font-weight: 600;
+}
+
+header p {
+  font-size: 1rem;
+  margin-top: 1em;
+  color: hsla(0, 0%, 0%, 0.5);
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+ul li {
+  border-radius: .4em;
+  transition: background-color .2s;
+  user-select: none;
+  overflow: hidden;
+  text-align: center;
+  padding: 1em;
+}
+
+ul li:hover {
+  background: hsla(0, 0%, 0%, 0.05);
+}
+
+ul p, ul em, ul input {
+  display: block;
+  font-size: 0.75rem;
+  color: hsla(0, 0%, 0%, 0.5);
+  user-select: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  max-width: 6rem;
+}
+
+ul p {
+  padding: 8px 0 4px;
+}
+
+ul p::selection, ul em::selection {
+  background: hsl(230, 93%, 66%);
+  color: #fff;
+}
+
+ul p::-moz-selection, ul em::-moz-selection {
+  background: hsl(230, 93%, 66%);
+  color: #fff;
+}
+
+ul em {
+  margin-bottom: 4px;
+}
+
+ul em::before {
+  content: '[';
+}
+ul em::after {
+  content: ']';
+}
+
+ul input {
+  text-align: center;
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  outline: none;
+  font-family: auto;
+}
+
+/* --------------------------------
+
+icons
+
+-------------------------------- */
+.inova {
+  display: inline-block;
+  font: normal normal normal 32px/1 'iNova';
+  speak: none;
+  text-transform: none;
+  /* Better Font Rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*------------------------
+  font icons
+-------------------------*/
+
+.ic-down-arrow::before {
+  content: "\ea02";
+}
+
+.ic-star-rate::before {
+  content: "\ea03";
+}
+
+.ic-right-arrow::before {
+  content: "\ea04";
+}
+
+.ic-e-add::before {
+  content: "\ea05";
+}
+
+.ic-e-delete::before {
+  content: "\ea06";
+}
+
+.ic-storage-unit::before {
+  content: "\ea07";
+}
+
+.ic-support-email::before {
+  content: "\ea09";
+}
+
+.ic-support-phone::before {
+  content: "\ea0a";
+}
+
+.ic-support-chat::before {
+  content: "\ea0b";
+}
+
+.ic-arrow-left::before {
+  content: "\ea0c";
+}
+
+.ic-arrow-right::before {
+  content: "\ea0d";
+}
+
+.ic-f-dashboard::before {
+  content: "\ea0e";
+}
+
+.ic-single-01::before {
+  content: "\ea0f";
+}
+
+.ic-p-edit::before {
+  content: "\ea10";
+}
+
+.ic-left-arrow::before {
+  content: "\ea11";
+}
+
+.ic-up-arrow::before {
+  content: "\ea12";
+}
+
+.ic-e-remove::before {
+  content: "\ea13";
+}
+
+.ic-download::before {
+  content: "\ea14";
+}
+
+.ic-t-warning::before {
+  content: "\ea15";
+}
+
+.ic-s-info::before {
+  content: "\ea16";
+}
+
+.ic-dots::before {
+  content: "\ea17";
+}
+
+.ic-log-out::before {
+  content: "\ea18";
+}
+
+.ic-small-triangle-right::before {
+  content: "\ea19";
+}
+
+.ic-small-triangle-left::before {
+  content: "\ea1a";
+}
+
+.ic-load-more::before {
+  content: "\ea1b";
+}
+
+.ic-fav-empty::before {
+  content: "\ea1c";
+}
+
+.ic-c-remove::before {
+  content: "\ea1d";
+}
+
+.ic-money::before {
+  content: "\ea1e";
+}
+
+.ic-payment-method::before {
+  content: "\ea1f";
+}
+
+.ic-order::before {
+  content: "\ea20";
+}
+
+.ic-favorite::before {
+  content: "\ea21";
+}
+
+.ic-favorite-2::before {
+  content: "\ea22";
+}
+
+.ic-quote::before {
+  content: "\ea23";
+}
+
+.ic-zoom::before {
+  content: "\ea24";
+}
+
+.ic-submit::before {
+  content: "\ea25";
+}
+
+.ic-check-single::before {
+  content: "\ea26";
+}
+
+.ic-shopping-cart::before {
+  content: "\ea27";
+}
+
+.ic-bag-20::before {
+  content: "\ea28";
+}
+
+.ic-save-to-list::before {
+  content: "\ea29";
+}
+
+.ic-reply::before {
+  content: "\ea2a";
+}
+
+.ic-squares::before {
+  content: "\ea2b";
+}
+
+.ic-launch-app::before {
+  content: "\ea2e";
+}
+
+.ic-star::before {
+  content: "\ea2f";
+}
+
+.ic-star_empty::before {
+  content: "\ea30";
+}
+
+.ic-loading::before {
+  content: "\ea31";
+}
+
+.ic-play::before {
+  content: "\ea32";
+}
+
+.ic-quick-view::before {
+  content: "\ea34";
+}
+
+.ic-loop-cart::before {
+  content: "\ea35";
+}
+
+.ic-configuration-tools::before {
+  content: "\ea36";
+}
+
+.ic-setup-preferences::before {
+  content: "\ea37";
+}
+
+.ic-shopping-bag::before {
+  content: "\ea38";
+}
+
+.ic-options::before {
+  content: "\ea39";
+}
+
+.ic-slider-prev::before {
+  content: "\ea3a";
+}
+
+.ic-slider-next::before {
+  content: "\ea3b";
+}
+

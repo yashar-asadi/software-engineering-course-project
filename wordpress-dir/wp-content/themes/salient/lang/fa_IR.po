@@ -1,0 +1,4681 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Salient\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-01 04:26-0700\n"
+"PO-Revision-Date: 2021-10-29 12:38+0000\n"
+"Last-Translator: Mehdi Hatampour <m.hatampour@live.com>\n"
+"Language-Team: Persian (Iran)\n"
+"Language: fa-IR\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_IR\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"\n"
+"X-Loco-Parser: loco_parse_mo"
+
+msgid " To:"
+msgstr " به :"
+
+msgid "\"Salient Home Slider\" Plugin Not Active."
+msgstr "افزونه \"برجسته صفحه اصلی\" فعال نیست."
+
+msgid "post."
+msgstr "نوشته."
+
+msgid "regenerate thumbnails"
+msgstr "ترمیم تصاویر بندانگشتی"
+
+msgid "regenerate thumbnails function"
+msgstr "عملکرد تصاویر بندانگشتی را بازسازی کنید"
+
+msgid "release post"
+msgstr "رهایی نوشته"
+
+msgid "results found"
+msgstr "نتایج یافت شده"
+
+msgid "salient/woocommerce/cart/cart-shipping.php"
+msgstr "salient/woocommerce/cart/cart-shipping.php"
+
+msgid "salient/woocommerce/cart/cart-totals.php"
+msgstr "salient/woocommerce/cart/cart-totals.php"
+
+msgid "salient/woocommerce/cart/cart.php"
+msgstr "salient/woocommerce/cart/cart.php"
+
+msgid "salient/woocommerce/cart/shipping-calculator.php"
+msgstr "salient/woocommerce/cart/shipping-calculator.php"
+
+msgid "search"
+msgstr "جستجو"
+
+msgid ""
+"tags pasted in with the snippet. If unintentional tags like that are present,"
+" it will prevent the css from parsing correctly."
+msgstr ""
+"برچسب هایی که با قطعه قطعه شده اند. اگر برچسب های غیرعمدی مانند آن وجود "
+"داشته باشد ، از تجزیه صحیح css جلوگیری می کند."
+
+msgid ""
+"the \"Extended List\" option relies on the \"Material\" theme skin and will "
+"enable that skin, even if it is not selected."
+msgstr ""
+"گزینه \"لیست گسترده\" به پوسته \"متریال\" متکی است و پوست را فعال می کند ، "
+"حتی اگر انتخاب نشود."
+
+msgid "the next post link will be the next"
+msgstr "لینک نوشته بعدی بعدی خواهد بود"
+
+msgid "to set this."
+msgstr "برای تنظیم این."
+
+msgid "to various locations within Salient."
+msgstr "به مکان های مختلف در برجسته."
+
+msgid "warning(s) were found!"
+msgstr "اخطار یافت شد!!"
+
+msgid "was successfully added to your cart."
+msgstr "با موفقیت به سبد خرید شما اضافه شد."
+
+msgid ""
+"which is available in the Header Navigation ~ Transparent Header Effect tab."
+msgstr "که در زبانه اسکروکل نویگیشن سربرگ افکت شفاف موجود است."
+
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+"wp_remote_get() انجام نشد. این برای دریافت اطلاعات از سرورهای راه دور لازم "
+"است. با ارائه دهنده میزبان خود تماس بگیرید."
+
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+"wp_remote_post() شکست خورده است بسیاری از ویژگی های پیشرفته ممکن است عملکردی "
+"نداشته باشند. با ارائه دهنده خدمات میزبانی خود تماس بگیرید."
+
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+msgid "you are working in a localhost environment"
+msgstr "شما در حال کار در محیط لوکال هاست هستید"
+
+msgid "Use Facebook Icon"
+msgstr "استفاده از آیکون فیسبوک"
+
+msgid "Use Flickr Icon"
+msgstr "استفاده از آیکون فلیکر"
+
+msgid "Use GitHub Icon"
+msgstr "استفاده از آیکون گیت هاب"
+
+msgid "Use Google Icon"
+msgstr "استفاده از آیکون گوگل"
+
+msgid "Use Houzz Icon"
+msgstr "استفاده از آیکون Houzz"
+
+msgid "Use Image for Logo"
+msgstr "استفاده از تصویر به عنوان لوگو"
+
+msgid "Use Image for Markers"
+msgstr "از تصویر برای شناسایی محل استفاده می کنید"
+
+msgid "Use Instagram Icon"
+msgstr "استفاده از آیکون اینستاگرام"
+
+msgid "Use LinkedIn Icon"
+msgstr "استفاده از آیکون لینکدین"
+
+msgid "Use Medium Icon"
+msgstr "استفاده از آیکون Medium"
+
+msgid "Use Messenger Icon"
+msgstr "استفاده از آیکون مسنجر"
+
+msgid "Use Mixcloud Icon"
+msgstr "استفاده از آیکون Mixcloud"
+
+msgid "Use Phone Icon"
+msgstr "استفاده از آیکون تلفن"
+
+msgid "Use Pinterest Icon"
+msgstr "استفاده از آیکون پینترست"
+
+msgid "Use RSS Icon"
+msgstr "استفاده از آیکون فید"
+
+msgid "Use Slack Icon"
+msgstr "استفاده از آیکون Slack"
+
+msgid "Use Snapchat Icon"
+msgstr "استفاده از آیکون اسنپ چت"
+
+msgid "Use SoundCloud Icon"
+msgstr "استفاده از آیکون SoundCloud"
+
+msgid "Use Spotify Icon"
+msgstr "استفاده از آیکون شاپیفای"
+
+msgid "Use StackExchange Icon"
+msgstr "استفاده از آیکون StackExchange"
+
+msgid "Use Telegram Icon"
+msgstr "استفاده از آیکون تلگرام"
+
+msgid "Use TikTok Icon"
+msgstr "استفاده از آیکون TikTok"
+
+msgid "Use Transparent Header When Applicable"
+msgstr "در صورت استفاده از سربرگ شفاف استفاده کنید"
+
+msgid "Use Tripadvisor Icon"
+msgstr "استفاده از آیکون Tripadvisor"
+
+msgid "Use Tumblr Icon"
+msgstr "استفاده از آیکون تامبلر"
+
+msgid "Use Twitch Icon"
+msgstr "استنفاده از آیکون Twitch"
+
+msgid "Use Twitter Icon"
+msgstr "استفاده از آیکون توییتر"
+
+msgid "Use VK Icon"
+msgstr "استفاده از آیکون VK"
+
+msgid "Use Vimeo Icon"
+msgstr "استفاده از آیکون ویمیو"
+
+msgid "Use Vine Icon"
+msgstr "استفاده از آیکون Vine"
+
+msgid "Use WhatsApp Icon"
+msgstr "استفاده از آیکون واتس آپ"
+
+msgid "Use Yelp Icon"
+msgstr "استفاده از آیکون Yelp"
+
+msgid "Use Youtube Icon"
+msgstr "استفاده از آیکون یوتیوب"
+
+msgid "Use commas instead of %s to separate excluded categories."
+msgstr "استفاده از کاما بجای %s برای جدا کردن دسته بندی های حذف می شوند."
+
+msgid ""
+"Use the following options to control what meta information will be shown on "
+"your posts in the main post query."
+msgstr ""
+"برای کنترل اینکه چه اطلاعات متایی در پیام های شما در پرس و جو اصلی نوشته "
+"نمایش داده می شود ، از گزینه های زیر استفاده کنید."
+
+msgid ""
+"Use the following options to control what meta information will be shown on "
+"your single post template."
+msgstr ""
+"از گزینه های زیر برای کنترل اینکه چه اطلاعات متایی در الگوی نوشته شما نشان "
+"داده می شود استفاده کنید."
+
+msgid "Use this area to assign templates from your "
+msgstr "از این قسمت برای اختصاص الگوها از خود استفاده کنید "
+
+msgid ""
+"Use this to define a main color that will be used in combination with the "
+"greyscale option for your map"
+msgstr ""
+"از این گزینه برای تعریف یک رنگ اصلی استفاده کنید که در ترکیب با گزینه "
+"grayscale برای نقشه شما استفاده می شود"
+
+msgid "Use this to define the background color of form inputs"
+msgstr "از این برای تعریف رنگ پس زمینه ورودی های فرم استفاده کنید"
+
+msgid "Use this to define the border color of form inputs"
+msgstr "از این برای تعریف رنگ حاشیه ورودی ها استفاده کنید"
+
+msgid "Use this to define the border color on hover of form inputs"
+msgstr "از این برای تعیین رنگ حاشیه در ورودی فرم استفاده کنید"
+
+msgid "Use this to define the color of your page transition background."
+msgstr "از این برای تعیین رنگ پس زمینه انتقال صفحه خود استفاده کنید."
+
+msgid "Use this to define the second color of your page transition background."
+msgstr "از این برای تعریف رنگ دوم پس زمینه انتقال صفحه استفاده کنید."
+
+msgid "Use this to define the text color of form inputs"
+msgstr "از این برای تعریف رنگ متن ورودی های فرم استفاده کنید"
+
+msgid "Use video background?"
+msgstr "استفاده از پس زمینه های ویدئویی؟"
+
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+"مورد استفاده برای گرفتن اطلاعات از سرور های از راه دور برای به روز رسانی به "
+"روز رسانی."
+
+msgid "Used to send data to remote servers."
+msgstr "مورد استفاده برای ارسال داده به سرورهای از راه دور."
+
+msgid "Used when communicating with remote services with PHP."
+msgstr "در هنگام برقراری ارتباط با خدمات از راه دور با PHP استفاده می شود."
+
+msgid "User"
+msgstr "نام کاربری"
+
+msgid "User Account Button URL"
+msgstr "لینک دکمه حساب کاربری"
+
+msgid "Username"
+msgstr "نام‌کاربری"
+
+msgid "Username or email address"
+msgstr "نام کاربری یا آدرس ایمیل"
+
+msgid ""
+"Using a responsive sizing option will override the post height set on "
+"individual posts."
+msgstr ""
+"با استفاده از یک گزینه اندازه گیری واکنشگرایی ، ارتفاع نوشته تنظیم شده روی "
+"نوشته های جداگانه نادیده می گیرد."
+
+msgid ""
+"Using this will add navigation link(s) at the bottom of every post page."
+msgstr "با استفاده از این لینک های ناوبری اضافه می شود) در پایین هر صفحه پست."
+
+msgid ""
+"Using this will add related post links at the bottom of every post page."
+msgstr ""
+"با استفاده از این لینک های مربوط به نوشته در پایین هر صفحه نوشته اضافه می "
+"شود."
+
+msgid ""
+"Using this will cause the default background of your post header to use your "
+"featured image when no other post header image is supplied."
+msgstr ""
+"استفاده از این باعث می شود پس زمینه پیشفرض سربرگ نوشته شما در هنگام تهیه "
+"تصویر سربرگ نوشته دیگری ، از تصویر شاخص شما استفاده نکند."
+
+msgid ""
+"Using this will cause your products to show the first gallery image (if "
+"supplied) on hover"
+msgstr ""
+"با استفاده از این امر باعث می شود محصولات شما اولین تصویر گالری (در صورت "
+"تهیه) را روی شناور نشان دهند"
+
+msgid "Using this will create automatic excerpts for your posts."
+msgstr "با استفاده از این بخشهایی خودکار برای پستهای شما ایجاد می شود."
+
+msgid ""
+"Using this will remove the featured media (determined by the selected post "
+"format) from appearing in the top of your single blog posts."
+msgstr ""
+"با استفاده از این ، رسانه برجسته (تعیین شده با فرمت نوشته انتخاب شده) از "
+"قرار گرفتن در بالای نوشته های وبلاگ مجرد شما حذف خواهد شد."
+
+msgid ""
+"Using this will remove the sidebar from appearing on your single post page."
+msgstr ""
+"استفاده از این باعث می شود که نوار کناری در صفحه نوشته شما نشان داده نشود."
+
+msgid "VK URL"
+msgstr "آدرس VK"
+
+msgid ""
+"Value should be between 1-18, 1 being the entire earth and 18 being right at "
+"street level."
+msgstr "مقدار باید بین 1 تا 18 باشد ، 1 کل زمین و 18 درست در سطح خیابان باشد."
+
+msgid "Variable height & meta overlaid"
+msgstr "ارتفاع متغیر و متا روکش"
+
+msgid "Variable height minimal"
+msgstr "ارتفاع متغیر حداقل"
+
+msgid ""
+"Various elements in Salient display an animated underline when hovering over."
+" This option allows you to globally fine-tune the styling of that line."
+msgstr ""
+"عناصر مختلف در حالت برجسته هنگام چرخیدن روی صفحه ، یک زیر خط متحرک را نمایش "
+"می دهند. این گزینه به شما امکان می دهد تا در سطح عمومی یک شکل دقیق آن خط را "
+"تنظیم کنید."
+
+msgid "Version"
+msgstr "نسخه"
+
+msgid "Version %s"
+msgstr "نسخه %s"
+
+msgid "Very poor"
+msgstr "خیلی بد"
+
+msgid "View %s"
+msgstr "نمایش %s"
+
+msgid "View Changelog"
+msgstr "نمایش تغییرات"
+
+msgid "View Documentation"
+msgstr "مشاهده مستندات"
+
+msgid "View Larger"
+msgstr "مشاهده ی بزرگتر"
+
+msgid "View all posts in %s"
+msgstr "مشاهده تمام نوشته ها در%s"
+
+msgid "View our online user guide and documentation to get started."
+msgstr "برای شروع راهنمای کاربر و اسناد آنلاین ما را مشاهده کنید."
+
+msgid "Vimeo URL"
+msgstr "آدرس ویمو"
+
+msgid "Vine URL"
+msgstr "آدرس Vine"
+
+msgid "Visit plugin homepage"
+msgstr "مشاهده صفحه اصلی افزونه"
+
+msgid "Visited"
+msgstr "بازدید شده"
+
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr "اخطار! این همه ارزش گزینه موجود را بازنویسی، لطفا با احتیاط ادامه!"
+
+msgid "WP Content URL"
+msgstr "لینک محتوا وردپرس"
+
+msgid "WP Debug Mode"
+msgstr "حالت اشکال زدایی وردپرس"
+
+msgid "WP Memory Limit"
+msgstr "محدودیت حافظه وردپرس"
+
+msgid "WP Multisite"
+msgstr "وردپرس چندسایته"
+
+msgid "WP Version"
+msgstr "نسخه وردپرس"
+
+msgid "WP_DEBUG is enabled"
+msgstr "WP_DEBUG فعال است"
+
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+"آیا می خواهید برای شروع به سر؟ با استفاده از %1$s. آن را به یک موضوع تکیه "
+"کلامهای سفارشی و یا یک پوشه محیط مدیریت مستقل با همه چیز ردوکس به (با کمک "
+"زیرخط و TGM) ایجاد کنید. جویی در هزینه خود سردرد و امروز آن را امتحان کنید."
+
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr "هشدار : این پانل گزینه به درستی بدون جاوا اسکریپت کار نمی کنند!"
+
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+"ما یک پروژه منبع باز است که توسط توسعه دهندگان برای ساخت پانل های کنترل "
+"قدرتمند استفاده می شود."
+
+msgid ""
+"We reccomend using the more powerful \"Interactive Map\" page builder "
+"element instead of this."
+msgstr ""
+"توصیه می کنیم به جای این از عنصر سازنده صفحه قدرتمندتر \"نقشه تعاملی\" "
+"استفاده کنید."
+
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+"ما تشخیص می دهیم که بدون جامعه خود هیچ چیز نیستیم. ما می خواهیم از همه کسانی "
+"که به ردوکس کمک می کنند تا همان چیزی باشد که هست ، تشکر کنیم. ممنون از "
+"درگیری شما."
+
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank\">"
+"outlined here</a>."
+msgstr ""
+"ما نتوانستیم فایل های مورد نیاز را اصلاح کنیم. لطفا اطمینان حاصل کنید که "
+"<code>%1s</code> از مجوز خواندن و نوشتن مناسب برخوردار است ، یا فایل wp-"
+"config.php خود را اصلاح کنید تا اطلاعات ورود به سیستم FTP شما به عنوان <a "
+"href=\"%2s\" target=\"_blank\"> باشد در اینجا مشخص شده است </a>."
+
+msgid "Website"
+msgstr "وب سایت"
+
+msgid "Welcome To Salient"
+msgstr "به سالینت خوش آمدید"
+
+msgid "Welcome to Redux Framework"
+msgstr "به فریم ورک ردوکس خوش آمدید"
+
+msgid "Welcome to Redux Framework %s"
+msgstr "به فریم ورک ردوکس خوش آمدید %s"
+
+msgid "Welcome to the Redux Demo Panel"
+msgstr "به پنل ردوکس نسخه ی نمایشی خوش آمدید"
+
+msgid ""
+"Welcome to the Salient options panel! You can switch between option groups "
+"by using the left-hand tabs."
+msgstr ""
+"به پنل گزینه های برجسته خوش آمدید! با استفاده از زبانه های سمت چپ می توانید "
+"بین گروه های گزینه جابجا شوید."
+
+msgid "What is Redux Framework?"
+msgstr "فریم ورک ردوکس  چیست؟"
+
+msgid "What type of user are you?"
+msgstr "شما چه نوع کاربری هستید؟"
+
+msgid "What's New"
+msgstr "چه خبر"
+
+msgid "WhatsApp URL"
+msgstr "آدرس وات ساپ"
+
+msgid "When Menu Is Center Aligned"
+msgstr "وقتی فهرست در تراز وسط قرار دارد"
+
+msgid "When Menu Is left Aligned"
+msgstr "وقتی منو تراز شد"
+
+msgid ""
+"When a product category header image is supplied, this option will control "
+"the sizing of the header area."
+msgstr ""
+"هنگامی که یک تصویر سربرگ دسته بندی محصول ارائه می شود ، این گزینه اندازه "
+"گیری ناحیه سربرگ را کنترل می کند."
+
+msgid ""
+"When supplying extra content, a sidebar enabled page can get quite tall and "
+"feel empty on the right side. Enable this option to have your sidebar follow "
+"you down the page."
+msgstr ""
+"هنگام تهیه محتوای اضافی ، یک صفحه فعال شده با نوار کناری می تواند کاملا بلند "
+"شود و در سمت راست احساس خالی کند. این گزینه را فعال کنید تا نوار کناری شما "
+"را از پایین صفحه دنبال کند."
+
+msgid ""
+"When using the extended responsive design, the main content container will "
+"have 90px of padding set on left and right, use this option if you'd like to "
+"modify that."
+msgstr ""
+"هنگام استفاده از طراحی واکنشگرا گسترده ، در محتویات محتوای اصلی باید 90 "
+"پیکسل فاصله داخلی در سمت چپ و راست تنظیم شود ، اگر می خواهید آن را تغییر "
+"دهید از این گزینه استفاده کنید."
+
+msgid ""
+"When using the extended responsive design, your container will scale to a "
+"maximum width of 1425px, use this option if you'd like to increase that "
+"value."
+msgstr ""
+"در صورت استفاده از طرح واکنشگرا گسترده ، ظرف شما حداکثر عرض 1425px خواهد "
+"داشت ، اگر می خواهید این مقدار را افزایش دهید از این گزینه استفاده کنید."
+
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "وردپرس چندسایته را فعال کرده اید یا خیر."
+
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+"در حالی که بعضی ها به طور خاص برای توسعه دهندگان ساخته شده اند، پسوند هایی "
+"مانند فونت های سفارشی مطمئن هستند که هر کاربری راضی باشد."
+
+msgid "Wide"
+msgstr "عرض"
+
+msgid "Wide & Tall"
+msgstr "عرض و ارتفاع"
+
+msgid "Width"
+msgstr "عرض"
+
+msgid "Will apply for all non full screen page headers."
+msgstr "برای همه عناوین صفحه غیر تمام صفحه اعمال می شود."
+
+msgid ""
+"Will apply to all page headers that have an image/video set (bg color only "
+"won't show the effect)."
+msgstr ""
+"برای همه سربرگ های صفحه که دارای مجموعه تصویر/فیلم هستند اعمال می شود (رنگ "
+"bg فقط افکت را نشان نمی دهد)."
+
+msgid ""
+"Will automatically adjust the height of your header depending on the content."
+msgstr "ارتفاع سربرگ شما به طور خودکار بسته به محتوا تنظیم می شود."
+
+msgid "With fade"
+msgstr "همراه با محو شدن"
+
+msgid "WooCommerce"
+msgstr "ووکامرس"
+
+msgid "WooCommerce Product Secondary Font"
+msgstr "فونت دوم محصولات ووکامرس"
+
+msgid "WooCommerce Product Title Font"
+msgstr "فونت عنوان محصولات ووکامرس"
+
+msgid "WooCommerce Social Sharing Options"
+msgstr "گزینه های شبکه اجتماعی ووکامرس"
+
+msgid "WooCommerce tools"
+msgstr "ابزارهای ووکامرس"
+
+msgid "Word Spacing"
+msgstr "فاصله کلمات"
+
+msgid "WordPress Environment"
+msgstr "محیط وردپرس"
+
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+msgid "Working..."
+msgstr "کار کردن..."
+
+msgid ""
+"Would you like to have your sidebar follow down as your scroll in a sticky "
+"manner?"
+msgstr ""
+"آیا می خواهید نوار کناری خود را به عنوان حرکت خود را به صورت چسبان دنبال "
+"کنید؟"
+
+msgid "Would you like your portfolio items to be paginated?"
+msgstr "آیا می خواهید موارد نمونه کارها خود را در صفحه بندی قرار دهید؟"
+
+msgid ""
+"Would you prefer your background to scroll with your site or be fixed and "
+"not move"
+msgstr "بهترین حالت نمایش پشت زمینه را انتخاب کنید"
+
+msgid "Write a Review"
+msgstr "یک دیدگاه بنویسید"
+
+msgid "Yearly Archives"
+msgstr "بایگانی سالانه"
+
+msgid "Yelp URL"
+msgstr "آدرس Yelp"
+
+msgid "Yes"
+msgstr "بله"
+
+msgid "You May Also Like"
+msgstr "شاید به این موارد هم علاقه مند باشید"
+
+msgid "You are customizing %s"
+msgstr "شما در حال شخصی سازی %s"
+
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+"تغییرات انجام شده که ذخیره نشده اند. آیا میخواهید تغییرات را ذخیره کنید؟"
+
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "تغییرات انجام شده ذخیره نشده اند. آیا میخواهید تغییرات را ذخیره کنید؟"
+
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr "برای ارسال دیدگاه باید %1$s وارد سایت %2$s شوید."
+
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"شما باید <a href=\"%s\">وارد سایت شوید </a>تا بتوانید دیدگاه خود را ارسال "
+"کنید ."
+
+msgid "You must be logged in to checkout."
+msgstr "جهت پرداخت وجه باید وارد حساب خود شوید ."
+
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr "شما نباید در این قسمت HTML وارد کنید ، همه برچسب های HTML حذف شده اند."
+
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+"شما نباید در این قسمت نویسه خاصی وارد کنید ، همه نویسه های خاص حذف شده اند."
+
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr "برای این گزینه باید یک لیست جدا از کاما از مقادیر عددی تهیه کنید."
+
+msgid "You must provide a numerical value for this option."
+msgstr "برای این گزینه باید یک مقدار عددی ارائه دهید."
+
+msgid "You must provide a valid URL for this option."
+msgstr "شما باید یک URL معتبر برای این گزینه تهیه کنید."
+
+msgid "You must provide a valid email for this option."
+msgstr "شما باید یک ایمیل معتبر برای این قسمت وارد کنید."
+
+msgid "YouTube link"
+msgstr "لینک یوتیوپ"
+
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"گزینه های شما جایگزین  مقدارهای ازقبل تعیین شده خواهد شد. آیا می خواهید "
+"ادامه دهید؟"
+
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"گزینه های فعلی با اطلاعات این پیشفرض جایگزین خواهد شد. آیا مایل به ادامه "
+"هستید؟"
+
+msgid ""
+"Your navigation will alternate between dark and light color schemes based on "
+"the intersecting row. When editing your pages, every row in the page builder "
+"has a field for"
+msgstr ""
+"ناوبری شما بین طرح های رنگی تیره و روشن بر اساس ردیف متقاطع متناوب خواهد شد. "
+"هنگام ویرایش صفحات ، هر سطر در صفحه سازنده یک زمینه برای"
+
+msgid "Your order"
+msgstr "سفارش شما"
+
+msgid "Your panel has no fields. Nothing to save."
+msgstr "پنل شما دارای زمینه ای نمی باشد. چیزی برای ذخیره کردن وجود ندارد."
+
+msgid "Your rating"
+msgstr "امتیاز شما"
+
+msgid "Your review"
+msgstr "دیدگاه شما"
+
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+"سرور شما fsockopen یا cURL را فعال نکرده است - cURL برای برقراری ارتباط با "
+"سرورهای دیگر مورد استفاده قرار می گیرد. لطفا با ارائه دهنده خدمات میزبانی "
+"خود تماس بگیرید."
+
+msgid "Youtube URL"
+msgstr "آدرس یوتیوب"
+
+msgid "account"
+msgstr "حساب کاربری"
+
+msgid "and"
+msgstr "و"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr "صفحه اصلی"
+
+msgctxt "by author"
+msgid "by %s"
+msgstr "توسط %s"
+
+msgid "donation"
+msgstr "کمک کردن مالی"
+
+msgid "e.g. Sort Portfolio"
+msgstr "مثلا فیلتر سازی دسته ها"
+
+msgid "effect is turned off"
+msgstr "افکت خاموش شد"
+
+msgid "enter in milliseconds (default is 5500)"
+msgstr "لطفا به میلی ثانیه درج کنید"
+
+msgid "error(s) were found!"
+msgstr "خطا یافت شد!"
+
+msgid "extensions directory"
+msgstr "پسوند دایرکتوری"
+
+msgid "for more information"
+msgstr "برای اطلاعات بیشتر"
+
+msgid ""
+"https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266"
+msgstr ""
+"https://themeforest.net/item/salient-responsive-multipurpose-theme/4363266"
+
+msgid "https://themeforest.net/user/themenectar"
+msgstr ""
+
+msgid "in the"
+msgstr "در"
+
+msgid "is available"
+msgstr "موجود است"
+
+msgid "leave us a favorable review on WordPress.org"
+msgstr "به ما یک امتیاز مطلوب در WordPress.org بدهید"
+
+msgid "link"
+msgstr "لینک"
+
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "آرشیو ماهانه با ساختار تاریخ"
+
+msgid "newest"
+msgstr "جدیدترین"
+
+msgid "official documentation"
+msgstr "اسناد رسمی"
+
+msgid "oldest"
+msgstr "قدیمی ترین"
+
+msgid "option and your single projects will behave like regular pages."
+msgstr "گزینه شما و تک پروژه های شما مانند صفحات عادی رفتار می کنند."
+
+msgid "option."
+msgstr "گزینه."
+
+msgid "our documentation"
+msgstr "اسناد و مدارک ما"
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "و"
+
+msgid ""
+"plugin to recrop any featured images that are already uploaded. You must "
+"upload your images at a minimum of these dimensions or larger - uploading "
+"smaller than the size chosen will result in an incorrect layout."
+msgstr ""
+"برای تولید مجدد تصاویر ساخص که قبلا بارگذاری شده اند ، به افزونه اضافه کنید "
+"شما باید تصاویر خود را حداقل در این ابعاد یا بیشتر بارگذاری کنید - بارگذاری "
+"کوچکتر از اندازه انتخاب شده منجر به یک طرح نادرست می شود."
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr "همه <span class=\"count\">(%s)</span>"
+
+msgid "Don't include \"px\" in the string. e.g. 30"
+msgstr "از پیکسل استفاده نکنید مانند: 30"
+
+msgid "Don't include \"px\" in the string. e.g. 6"
+msgstr "به پیکسل درج کنید"
+
+msgid "Don't include \"px\" in the string. e.g. 650"
+msgstr "\"px\" را در رشته وارد نکنید. به عنوان مثال، 650"
+
+msgid "Down Arrow Style"
+msgstr "طرح فلش رو به پایین"
+
+msgid "Download Data File"
+msgstr "فایل داده را دانلود کنید"
+
+msgid "Dribbble URL"
+msgstr "لینک دریبل"
+
+msgid "Dropcap"
+msgstr "رها کردن"
+
+msgid "Dropdown Background"
+msgstr "پس زمینه کشویی"
+
+msgid "Dropdown Background Hover"
+msgstr "پشت زمینه بعد بالا و پایین"
+
+msgid "Dropdown Description Font"
+msgstr "فونت توضیحات کشویی"
+
+msgid "Dropdown Description Font Hover"
+msgstr "هاور فونت توضیحات کشویی"
+
+msgid "Dropdown Font"
+msgstr "بعد از بالا پایین"
+
+msgid "Dropdown Font Hover"
+msgstr "هاور فونت کشویی"
+
+msgid "Dropdown Parent Link Toggles Submenu"
+msgstr "تغییر دهنده لینک والد زیر منو برای کشویی"
+
+msgid "Dropdown/Megamenu"
+msgstr "دراپ داون/مگامنو"
+
+msgid "Element ID"
+msgstr "شناسه المان"
+
+msgid "Email"
+msgstr "آدرس ایمیل"
+
+msgid "Email address"
+msgstr "آدرس ایمیل"
+
+msgid "Email link"
+msgstr "آدرس ایمیل"
+
+msgid "Enable Boxed Layout"
+msgstr "فعال‌سازی طرح جعبه‌ای"
+
+msgid "Enable Fancy Select Styling"
+msgstr "طرح انتخاب فانتزی را فعال کنید"
+
+msgid "Enable Map Zoom In/Out"
+msgstr "اجازه به کاربر برای بزرگنمایی"
+
+msgid "Enable Marker Animation"
+msgstr "انتخاب حالت انیمیشن نشانه"
+
+msgid "Enable Responsive Design"
+msgstr "فعال سازی طراحی واکنش گرا"
+
+msgid "Enable Social Icons"
+msgstr "فعال کردن آیکون‌های اجتماعی"
+
+msgid "Enable Sticky Sidebar"
+msgstr "نوار کناری چسبان را فعال کنید"
+
+msgid "Enable WooCommerce Cart In Nav"
+msgstr "نمایش سبد خرید در منو بالا صفحه"
+
+msgid "Enable WooCommerce Product Quick View"
+msgstr "نمایش سریع محصول ووکامرس را فعال کنید"
+
+msgid ""
+"Enable this option for a dark colored map (This will override the extra "
+"color choice) "
+msgstr ""
+"این گزینه را برای یک نقشه با رنگ تیره فعال کنید (این امر باعث انتخاب بیشتر "
+"رنگ خواهد شد) "
+
+msgid ""
+"Enable this to globally disable commenting on your single project layout"
+msgstr ""
+"این گزینه را فعال کنید تا اظهار نظر در مورد طرح پروژه شما در سطح عمومی "
+"غیرفعال شود"
+
+msgid ""
+"Enable this to remove the author name from displaying on your blog archive "
+"layout"
+msgstr "برای حذف نویسنده در طرح بایگانی وبلاگ خود این گزینه را فعال کنید"
+
+msgid ""
+"Enable this to remove the author name from displaying on your single post "
+"template"
+msgstr "برای حذف بیوگرافی نویسنده نوشته این گزینه را فعال کنید"
+
+msgid ""
+"Enable this to remove the comment count from displaying on your blog archive "
+"layout"
+msgstr ""
+"برای حذف تعداد دیدگاه ها در طرح بایگانی وبلاگ خود این گزینه را فعال کنید"
+
+msgid ""
+"Enable this to remove the comment count from displaying on your single post "
+"template"
+msgstr "برای حذف تعداد دیدگاه های نوشته این گزینه را فعال کنید"
+
+msgid ""
+"Enable this to remove the date from displaying on your blog archive layout"
+msgstr "برای حذف تاریخ نمایش در طرح بایگانی وبلاگ خود این گزینه را فعال کنید"
+
+msgid ""
+"Enable this to remove the date from displaying on your single post template"
+msgstr "برای حذف تاریخ ارسال نوشته این گزینه را فعال کنید"
+
+msgid ""
+"Enable this to remove the nectar love button from displaying on your blog "
+"archive layout in post styles that use it"
+msgstr ""
+"برای حذف دکمه نکتار دوست داشتن در طرح بایگانی وبلاگ خود این گزینه را فعال "
+"کنید"
+
+msgid ""
+"Enable this to remove the nectar love button from displaying on your single "
+"post template"
+msgstr "برای حذف دکمه نکتار دوست داشتن نوشته این گزینه را فعال کنید"
+
+msgid "Enabled by default in the Material theme skin."
+msgstr "به صورت پیشفرض در پوسته قالب فعال شده است."
+
+msgid ""
+"Enabling this will allow products to be added to the cart without causing a "
+"page refresh on the single product template and in the quickview modal."
+msgstr ""
+"فعال کردن این امکان باعث می شود محصولات بدون ایجاد تازه سازی صفحه در الگوی "
+"محصول واحد و در حالت نمایش سریع به سبد خرید اضافه شوند."
+
+msgid ""
+"Enabling this will allow your sidebar widget area to be toggled from a "
+"button above your products on all product archives."
+msgstr ""
+"فعال کردن این امکان باعث می شود که نلحیه بازارک نوار کناری شما از یک دکمه "
+"بالای محصولات شما در همه بایگانی محصولات ثبت شود."
+
+msgid ""
+"Enabling this will globally activate lazy loading for theme elements which "
+"support it."
+msgstr ""
+"فعال کردن این باعث بارگذاری تنبل در سطح عمومی برای عناصر موضوعی می شود که از "
+"آن پشتیبانی می کنند."
+
+msgid ""
+"Enabling this will load all featured images within the blog element via a "
+"lazy load method for higher performance."
+msgstr ""
+"با فعال کردن این گزینه ، همه تصاویر شاخص در عنصر وبلاگ از طریق روش بارگذاری "
+"تنبل برای عملکرد بالاتر بارگیری می شوند."
+
+msgid ""
+"Enabling this will load shop product images via a lazy load method for "
+"higher performance."
+msgstr ""
+"با فعال کردن این ، تصاویر محصول فروشگاه از طریق روش بارگذاری تنبل برای "
+"عملکرد بالاتر بارگیری می شود."
+
+msgid ""
+"Enter a small amount of text to display in your header navigation. e.g. a "
+"phone number, store address etc. The positioning of this content will be "
+"determined by the header layout that you are using."
+msgstr ""
+"مقدار کمی متن برای نمایش در پیمایش سربرگ خود وارد کنید. به عنوان مثال، شماره "
+"تلفن ، آدرس فروشگاه و غیره. موقعیت این محتوا با طرح سربرگی که استفاده می "
+"کنید تعیین می شود."
+
+msgid ""
+"Enter element ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+"شناسه عنصر را وارد کنید (نکته: مطمئن شوید که شناسه یکتا و معتبر باشد "
+"براساس<a href=\"%s\" target=\"_blank\">w3c specification</a>)."
+
+msgid ""
+"Enter in your social media locations here and then activate which ones you "
+"would like to display in your footer options & header options tabs. Remember "
+"to include the \"http://\" in all URLs!"
+msgstr ""
+"موقعیت های رسانه اجتماعی خود را اینجا وارد کنید و سپس کدام یک را می خواهید "
+"در برگه گزینه های پاورقی و گزینه های هدر خود نمایش دهید. به یاد داشته باشید "
+"که \"http: //\" را در همه URL ها قرار دهید!"
+
+msgid ""
+"Enter optional row ID. Make sure it is unique, and it is valid as w3c "
+"specification: %s (Must not have spaces)"
+msgstr ""
+"شناسه اختیاری سطر را وارد کنید.مطمئن شوید شناسه انتخابی را قبلا استفاده "
+"نکرده اید و اون معتبر است از لحاظ خصوصیات w3c : %s ( نباید فاصله داشته باشد )"
+
+msgid "Enter parallax speed ratio (Note: Default value is 1.5, min value is 1)"
+msgstr ""
+"سرعت پارالاکس را تنظیم کنید (نکته : پیشفرض 1.5 هست. کمترین مقدار 1 است)"
+
+msgid ""
+"Enter row ID (Note: make sure it is unique and valid according to <a "
+"href=\"%s\" target=\"_blank\">w3c specification</a>)."
+msgstr ""
+"درون ریزی شناسه ردیف ( مطمئن شوید اون معتبر و یکتا باشد <a href=\"%s\" "
+"target=\"_blank\">w3c specification</a> )"
+
+msgid "Enter the URL of your user account button"
+msgstr "لینک دکمه حساب کاربری خود را وارد کنید"
+
+msgid "Enter the time in milliseconds e.g. \"400\" - default is \"650\""
+msgstr "زمان را بر حسب میلی ثانیه وارد کنید \"400\" - پیشفرض \"650\" است"
+
+msgid "Envato guidelines"
+msgstr "دستورالعمل های انوتو"
+
+msgid "Equal height"
+msgstr "ارتفاع برابر"
+
+msgid "Error: %s"
+msgstr "خطا: %s"
+
+msgid "Excerpt Length"
+msgstr "طول خلاصه"
+
+msgid "Expand"
+msgstr "توسعه دادن"
+
+msgid "Export Options"
+msgstr "تنظیمات برون ریزی"
+
+msgid "Extended List"
+msgstr "لیست گسترده"
+
+msgid "Extended Responsive Design"
+msgstr "دیدن صفحه در 1000 درصد کار"
+
+msgid "Extensions"
+msgstr "افزونه‌ها"
+
+msgid "External Source"
+msgstr "منبع بیرونی"
+
+msgid "Extra Color #1"
+msgstr "رنگ اضافی 1"
+
+msgid "Extra Color #2"
+msgstr "رنگ اضافی 2"
+
+msgid "Extra Color #3"
+msgstr "رنگ اضافی 3"
+
+msgid "Extra Color 1"
+msgstr "رنگ اضافی 1"
+
+msgid "Extra Color 2"
+msgstr "رنگ اضافی 2"
+
+msgid "Extra Color 3"
+msgstr "رنگ اضافی 3"
+
+msgid "Extra Color Gradient"
+msgstr "رنگ گرادینت 1"
+
+msgid "Extra Color Gradient #2"
+msgstr "رنگ گرادینت 2"
+
+msgid "Extra class name"
+msgstr "نام کلاس اضافه"
+
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr "خاموش کردن حالت توسعه اجباری فعال شد"
+
+msgid "Facebook"
+msgstr "فیسبوک"
+
+msgid "Facebook URL"
+msgstr "ادرس فیسبوک"
+
+msgid "Fade In"
+msgstr "محو شدن در"
+
+msgid "Fade In From Bottom"
+msgstr "محو شدن در از پایین"
+
+msgid "Fade In Up"
+msgstr "محو شدن در"
+
+msgid "Fade with loading icon"
+msgstr "با آیکون بارگیری محو می شود"
+
+msgid "Favicon"
+msgstr "فاآیکون"
+
+msgid "Favicon Upload"
+msgstr "بارگذاری فاوایکون"
+
+msgid "Featured Image Left"
+msgstr "تصویر شاخص چپ"
+
+msgid "File Permission Issues"
+msgstr "مشکلات فایل اجازه نامه"
+
+msgid "Filters"
+msgstr "فیلترها"
+
+msgid ""
+"Fine-tune form input fields/textarea element padding. If left blank, "
+"defaults to 10px for all sides."
+msgstr ""
+"تنظیم دقیق ورود فرم ها/پر کردن عنصر ناحیه متنی. در صورت خالی ماندن ، برای "
+"همه طرفها 10px کنید."
+
+msgid ""
+"Fine-tune form submit button padding. If left blank, defaults to 15px for "
+"top/bottom and 20px for left/right."
+msgstr ""
+"فاصله داخلی دکمه ارسال فرم را تنظیم کنید. در صورت خالی ماندن ، به طور پیش "
+"فرض در 15 پیکسل برای بالا/پایین و 20 پیکسل برای چپ/راست قرار می گیرد."
+
+msgid "Fine-tune the border width of form inputs."
+msgstr "عرض حاشیه ورودی فرم را دقیق تنظیم کنید."
+
+msgid "Fine-tune the rounded edges of your buttons."
+msgstr "لبه های گرد دکمه هایتان را دقیق تنظیم کنید."
+
+msgid "Fixed"
+msgstr "فیکس"
+
+msgid "Flickr URL"
+msgstr "آدرس فلیکر"
+
+msgid "Focus"
+msgstr "تمرکز"
+
+msgid "Font Color"
+msgstr "رنگ فونت"
+
+msgid "Font Display Swap"
+msgstr "مبادله نمایش فونت"
+
+msgid "Font Family"
+msgstr "خانواده فونت"
+
+msgid "Font Size"
+msgstr "اندازه فونت"
+
+msgid "Font Subsets"
+msgstr "زیرمجموعه فوت ها"
+
+msgid "Font Variant"
+msgstr "متغییر فونت"
+
+msgid "Font Weight &amp; Style"
+msgstr "طرح &amp; وزن فونت"
+
+msgid "Font color"
+msgstr "رنگ فونت"
+
+msgid "Font family"
+msgstr "فونت"
+
+msgid "Font script"
+msgstr "اسکریپت فونت"
+
+msgid "Font style"
+msgstr "سبک فونت"
+
+msgid "Font subsets"
+msgstr "زیر مجموعه فونت ها"
+
+msgid "Footer"
+msgstr "پاورقی"
+
+msgid "Footer Add Line Above Copyright"
+msgstr "افزودن یک خط بالای کپی رایت در پاورقی"
+
+msgid "Footer Background Color"
+msgstr "رنگ پس زمینه پاورقی"
+
+msgid "Footer Background Image"
+msgstr "تصویر پس زمینه پاورقی"
+
+msgid "Footer Background Overlay"
+msgstr "همپوشانی پس زمینه پاورقی"
+
+msgid "Footer Columns"
+msgstr "ستون های پاورقی"
+
+msgid "Footer Copyright Font Color"
+msgstr "رنگ فونت کپی رایت پاورقی"
+
+msgid "Footer Copyright Icon Hover Color"
+msgstr "رنگ هاور آیکون کپی رایت پاورقی"
+
+msgid "Footer Copyright Layout"
+msgstr "طرح بندی کپی رایت پاورقی"
+
+msgid "Footer Copyright Section Text"
+msgstr "متن کپی رایت"
+
+msgid "Footer Copyright Top Border Color"
+msgstr "رنگ حاشیه بالا کپی رایت پاورقی"
+
+msgid "Footer Font Color"
+msgstr "رنگ متن پاورقی"
+
+msgid "Footer Full Width"
+msgstr "پاورقی تمام عرض"
+
+msgid "Footer Link Hover Effect"
+msgstr "افکت هاور لینک های پاورقی"
+
+msgid "Footer Reveal Effect"
+msgstr "افکت"
+
+msgid "Footer Reveal Shadow"
+msgstr "سایه اشکار شدن پاورقی"
+
+msgid "For Upgrading Users Coming From Version 10.5 Or Below"
+msgstr "برای بروزرسانی کاربران از نسخه 10.5 یا پایین"
+
+msgid "Force Dynamic CSS to Inline In Head"
+msgstr "داینامیک CSS را مجبور به اجرای درون خطی کنید"
+
+msgid "Form Input BG Color"
+msgstr "رنگ BG ورودی فرم"
+
+msgid "Form Input Border Color"
+msgstr "رنگ حاشیه ورودی فرم"
+
+msgid "Form Input Border Hover Color"
+msgstr "رنگ هاور حاشیه ورودی فرم"
+
+msgid "Form Input Border Width"
+msgstr "عرض حاشیه ورود فرم"
+
+msgid "Form Input Field Padding"
+msgstr "فاصله داخلی زمینه ورودی فرم"
+
+msgid "Form Input Field Text Size"
+msgstr "اندازه متن زمینه ورودی فرم"
+
+msgid "Form Input Text Color"
+msgstr "رنگ متن ورود فرم"
+
+msgid "Form Styling"
+msgstr "طرح فرم"
+
+msgid "Form Submit Button Padding"
+msgstr "فاصله داخلی دکمه ارسال فرم"
+
+msgid "Form Submit Button Style"
+msgstr "طرح دکمه ارسال فرم"
+
+msgid "Form and Category Labels"
+msgstr "برچسب های دسته بندی و فرم"
+
+msgid "From "
+msgstr "از جانب "
+
+msgid "From:"
+msgstr "از جانب:"
+
+msgid "Front Page"
+msgstr "سرصفحه"
+
+msgid "Front Page Display"
+msgstr "نمایش صفحه اصلی"
+
+msgid "Full Opacity"
+msgstr "تیرگی کامل"
+
+msgid "Full Screen Width"
+msgstr "عرض تمام صفحه"
+
+msgid "Full Width Header"
+msgstr "نمایش به صورت بالا صفحه بزرگ"
+
+msgid "Full Width Left/Right Padding"
+msgstr "فاصله داخلی راست/چپ عرض کامل"
+
+msgid "Full Width Page Builder"
+msgstr "صفحه سازنده عرض کامل"
+
+msgid "Full height row?"
+msgstr "ارتفاع کامل ردیف؟"
+
+msgid "Fullscreen Cover Fade"
+msgstr "پوشش تمام صفحه محو می شود"
+
+msgid "Fullscreen Cover Slide + Blur BG"
+msgstr "اسلاید پوشش تمام صفحه + تیرگی BG"
+
+msgid "Fullscreen Cover Split"
+msgstr "تقسیم پوشش تمام صفحه"
+
+msgid "Fullscreen with meta under"
+msgstr "تمام صفحه با متا"
+
+msgid "Fullwidth"
+msgstr "تمام عرض"
+
+msgid "Fullwidth Next & Prev Links"
+msgstr "عرض کامل و لینک های قبلی"
+
+msgid "Fullwidth Next Link Only"
+msgstr "عرض کامل فقط لینک بعدی"
+
+msgid "Fullwidth Under Images"
+msgstr "تصویر به صورت تمام صفحه"
+
+msgid "Fullwidth Under Images Stacked (No Tabs)"
+msgstr "عرض کامل زیر تصاویر انباشته (بدون زبانه ها)"
+
+msgid "Functionality"
+msgstr "کارکرد"
+
+msgid "General"
+msgstr "عمومی"
+
+msgid "General HTML elements"
+msgstr "اعتبار سنجHTML"
+
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+msgid "General WordPress Pages"
+msgstr "صفحات عمومی وردپرس"
+
+msgid "Generate a Support URL"
+msgstr "یک URL پشتیبانی ایجاد کنید"
+
+msgid "Get Support"
+msgstr "دریافت پشتیبانی"
+
+msgid "Get System Report"
+msgstr "دریافت گزارش سیستم"
+
+msgid "Getting Started"
+msgstr "شروع شدن"
+
+msgid "GitHub URL"
+msgstr "آدرس گیت هاب"
+
+msgid "Global Sections"
+msgstr "بخش های عمومی"
+
+msgid "Globally define a scroll effect for your blog header."
+msgstr "در سطح عمومی یک افکت پیمایش را برای عنوان وبلاگ خود تعریف کنید."
+
+msgid "Go to shop"
+msgstr "بازگشت به فروشگاه"
+
+msgid "Good"
+msgstr "خوب"
+
+msgid "Google Maps API Key"
+msgstr "کلید API گوگل مپ"
+
+msgid "Google URL"
+msgstr "آدرس گوگل پلاس"
+
+msgid "Google Webfonts"
+msgstr "وب فونت گوگل"
+
+msgid "Greyscale Color"
+msgstr "رنگ فعلی"
+
+msgid "H1 Phone"
+msgstr "H1 تلفن همراه"
+
+msgid "H1 Small Desktop"
+msgstr "H1 دکستاپ کوچک"
+
+msgid "H1 Tablet"
+msgstr "H1 تبلت"
+
+msgid "H2 Phone"
+msgstr "H2 تلفن همراه"
+
+msgid "H2 Small Desktop"
+msgstr "H2 دسکتاپ کوچک"
+
+msgid "H2 Tablet"
+msgstr "H2 تبلت"
+
+msgid "H3 Phone"
+msgstr "H3 تلفن همراه"
+
+msgid "H3 Small Desktop"
+msgstr "H3 دسکتاپ کوچک"
+
+msgid "H3 Tablet"
+msgstr "H3 تبلت"
+
+msgid "H4 Phone"
+msgstr "H4 تلفن همراه"
+
+msgid "H4 Small Desktop"
+msgstr "H4 دسکتاپ کوچک"
+
+msgid "H4 Tablet"
+msgstr "H4 تبلت"
+
+msgid "H5 Phone"
+msgstr "H6 دسکتاپ کوچک"
+
+msgid "H5 Small Desktop"
+msgstr "H5 دسکتاپ کوچک"
+
+msgid "H5 Tablet"
+msgstr "H5 تبلت"
+
+msgid "H6 Phone"
+msgstr "H6 تلفن همراه"
+
+msgid "H6 Small Desktop"
+msgstr "H6 دسکتاپ کوچک"
+
+msgid "H6 Tablet"
+msgstr "H6 تبلت"
+
+msgid ""
+"Have a Question? Head over to the forum and open a ticket so that we may "
+"assist you."
+msgstr ""
+"سوالی دارید؟ به بخش انجمن بروید و تیکت را باز کنید تا بتوانیم به شما کمک "
+"کنیم."
+
+msgid "Header BG Opacity"
+msgstr "شفافیت پس زمینه سربرگ"
+
+msgid "Header Background"
+msgstr "پشت زمینه سربرگ"
+
+msgid "Header Background Color"
+msgstr "رنگ پس زمینه سربرگ"
+
+msgid "Header Background Image"
+msgstr "تصویر پس زمینه سربرگ"
+
+msgid "Header Box Shadow"
+msgstr "سایه جعبه سربرگ"
+
+msgid "Header Button Link Style"
+msgstr "طرح لینک دکمه سربرگ"
+
+msgid "Header Color Scheme"
+msgstr "رنگ طرح سربرگ"
+
+msgid "Header Dark Text Color"
+msgstr "رنگ متن تاریک سربرگ"
+
+msgid "Header Dropdown Animation"
+msgstr "انیمیشن کشویی سربرگ"
+
+msgid "Header Dropdown Arrows"
+msgstr "فلش های کشویی سربرگ"
+
+msgid "Header Dropdown Box Shadow"
+msgstr "سایه جعبه کشویی سربرگ"
+
+msgid "Header Dropdown Display Descriptions"
+msgstr "توضیحات نمایش کشویی سربرگ"
+
+msgid "Header Dropdown Link Hover/Active Effect"
+msgstr "افکت فعال/هور لینک کشویی سربرگ"
+
+msgid "Header Dropdown Menu Item Icons"
+msgstr "آیکون مورد کشویی منو سربرگ"
+
+msgid "Header Dropdown Opacity"
+msgstr "شفافیت دراپ داون سربرگ"
+
+msgid "Header Dropdown Positioning"
+msgstr "تثبیت موقعیت کشویی سربرگ"
+
+msgid "Header Dropdown Roundness"
+msgstr "گرد بودن کشویی سربرگ"
+
+msgid "Header Font"
+msgstr "فونت سربرگ"
+
+msgid "Header Font Color"
+msgstr "رنگ فونت سربرگ"
+
+msgid "Header Font Hover"
+msgstr "فونت کلیک بالا"
+
+msgid "Header Hide Until Needed"
+msgstr "سربرگ مخفی کردن تا زمان مورد نیاز"
+
+msgid "Header Inherit Row Color"
+msgstr "رنگ ارث بری ردیف سربرگ"
+
+msgid "Header Layout"
+msgstr "چیدمان سربرگ"
+
+msgid "Header Link Hover/Active Effect"
+msgstr "سربرگ لینک شناور / اثر فعال"
+
+msgid "Header Logo Shrink Number (in px)"
+msgstr "لوگو سربرگ کوچک شماره (در پیکسل)"
+
+msgid "Header Mega Menu Width"
+msgstr "عرض مگامنو سربرگ"
+
+msgid "Header Menu Item Icons"
+msgstr "آیکون های مورد منوی سربرگ"
+
+msgid "Header Mobile Breakpoint"
+msgstr "نقطه انفصال سربرگ موبایل"
+
+msgid "Header Navigation"
+msgstr "پیمایش سربرگ"
+
+msgid "Header Padding"
+msgstr "فاصله داخلی سربرگ"
+
+msgid "Header Permanent Transparent"
+msgstr "سربرگ دائمی شفاف"
+
+msgid "Header Remove Desktop Stickiness"
+msgstr "سربرگ چسبان دسکتاپ را حذف کنید"
+
+msgid "Header Resize On Scroll"
+msgstr "تغییر اندازه سربرگ در زمان اسکرول"
+
+msgid "Header Search"
+msgstr "جستجو سربرگ"
+
+msgid "Header Search Typography"
+msgstr "تایپوگرافی جستجو سربرگ"
+
+msgid "Header Separators"
+msgstr "جدا کننده های سربرگ"
+
+msgid "Header Starting Dark Logo Upload"
+msgstr "لوگو تیره برای زمینه سفید"
+
+msgid "Header Starting Dark Mobile Only Logo Upload"
+msgstr "بارگذاری لوگو برای شروع سربرگ تیره موبایل"
+
+msgid "Header Starting Dark Retina Logo Upload"
+msgstr "فرایند بارگذاری لوگو صفحه نمایش رتینا تاریک"
+
+msgid "Header Starting Logo Upload"
+msgstr "بارگذاری لوگو شروع سربرگ"
+
+msgid "Header Starting Mobile Only Logo Upload"
+msgstr "بارگذاری لوگو شروع سربرگ موبایل"
+
+msgid "Header Starting Retina Logo Upload"
+msgstr "لوگو نمایشی در بالا پایین کردن صفحات"
+
+msgid "Header Starting Text Color"
+msgstr "رنگ متن بالا صفحه"
+
+msgid "Header Starting Text Opacity"
+msgstr "تاری متن شروع سربرگ"
+
+msgid "Header Sticky On Mobile"
+msgstr "سربرگ چسبان در موبایل"
+
+msgid "Header With Secondary Navigation Bar"
+msgstr "سربرگ با نوار پیمایش ثانویه"
+
+msgid "Heading 1"
+msgstr "هدینگ 1"
+
+msgid "Heading 2"
+msgstr "هدینگ 2"
+
+msgid "Heading 3"
+msgstr "هدینگ 3"
+
+msgid "Heading 4"
+msgstr "هدینگ 4"
+
+msgid "Heading 5"
+msgstr "هدینگ 5"
+
+msgid "Heading 6"
+msgstr "هدینگ 6"
+
+msgid "Height"
+msgstr "ارتفاع"
+
+msgid "Height Set Per Post"
+msgstr "تنظیم ارتفاع برای نوشته"
+
+msgid "Help"
+msgstr "کمک"
+
+msgid "Help improve Our Panel"
+msgstr "کمک به بهبود پنل ما"
+
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"در اینجا شما می توانید تنظیمات گزینه فعلی خود را کپی/دانلود کنید. امن نگه "
+"داریدش چون شما می توانید آن را به عنوان پشتیبان استفاده کنید و یا شما می "
+"توانید آن را برای بازگرداندن تنظیمات خود را در این سایت (یا هر سایت دیگر) "
+"استفاده کنید."
+
+msgid ""
+"Here you can find options related to general WordPress templates such as the "
+"search results template, 404 template etc."
+msgstr ""
+"در اینجا می توانید گزینه های مربوط به الگوهای عمومی وردپرس مانند الگوی نتایج "
+"جستجو ، الگوی 404 و غیره را پیدا کنید."
+
+msgid "Hide"
+msgstr "مخفی"
+
+msgid "Hide Details"
+msgstr "پنهان کردن جزئیات"
+
+msgid "Hide Featured Media on Single Post"
+msgstr "مخفی کردن رسانه ویژه در نوشته واحد"
+
+msgid "Hide Sidebar on Single Post"
+msgstr "مخفی کردن نوارکناری کناری در صفحات جداگانه مطالب"
+
+msgid ""
+"Hint: Auto Masonry based layouts load the fastest. This is because the "
+"layouts are calculated with pure CSS and do not rely on any scripting."
+msgstr ""
+"نکته: طرح بندی مبتنی بر طرح کاشی سریعترین بار را بارگیری می کند. دلیل این "
+"امر آنست که طرح بندی ها با CSS خالص محاسبه می شوند و به هیچگونه برنامه نویسی "
+"متکی نیستند."
+
+msgid ""
+"Hint: The navigation logo and links will alternative between dark and light "
+"based on what the intersecting row has set. When editing your pages, every "
+"row in the page builder has a field for"
+msgstr ""
+"لوگو و پیوندهای ناوبری بر اساس آنچه ردیف تقاطع تعیین کرده است بین تاریک و "
+"نور جایگزین خواهند شد. هنگام ویرایش صفحات ، هر سطر در صفحه سازنده یک زمینه "
+"برای"
+
+msgid "Hit enter to search or ESC to close"
+msgstr "اینتر را برای جستجو و یا ESC برای بستن بفشارید"
+
+msgid "Home - Recent Posts */"
+msgstr "صفحه اصلی - مطالب اخیر * /"
+
+msgid "Home - Recent Work */"
+msgstr "صفحه نخست - نمونه کار های اخیر * /"
+
+msgid "Home - Recent Work/Posts */"
+msgstr "صفحه اصلی - مطالب یا نمونه کار های اخیر * /"
+
+msgid "Home - Slider Only */"
+msgstr "صفحه اصلی - اسلایدر  تنها * /"
+
+msgid "Home Slider"
+msgstr "اسلایدر صفحه اصلی"
+
+msgid "Home URL"
+msgstr "لینک صفحه اصلی"
+
+msgid "Horizontal basic swipe"
+msgstr "کش رفتن پایه افقی"
+
+msgid "Horizontal multi layer swipe"
+msgstr "کش رفتن چند لایه افقی"
+
+msgid "Houzz URL"
+msgstr "آدرس Houzz"
+
+msgid "Hover"
+msgstr "شناور"
+
+msgid "Hover Dropdown"
+msgstr "هاور کشویی"
+
+msgid "Hover Off Canvas Basic"
+msgstr "پایه بوم خاموش هاور"
+
+msgid "How These Settings Work"
+msgstr "نحوه عملکرد این تنظیمات"
+
+msgid "How many of your portfolio items would you like to display per page?"
+msgstr "دوست دارید در هر صفحه چند آیتم نمایش داده شود؟"
+
+msgid ""
+"How many words would you like to display for your post excerpts? The default "
+"is 30."
+msgstr "چند کلمه در خلاصه نوشته نشان داده شود؟ پیشفرض 30 کلمه است."
+
+msgid "How to Get Support"
+msgstr "چگونه می توان پشتیبانی کرد"
+
+msgid "How would you like your background image to be aligned?"
+msgstr "چگونه می خواهید تصویر پس زمینه شما تراز شود ؟"
+
+msgid "I am a developer, building a product using Redux."
+msgstr "من یک توسعه دهنده هستم، ساخت یک محصول با استفاده از ردوکس."
+
+msgid "I am a user, using a pre-built product."
+msgstr "من یک کاربر هستم، با استفاده از یک محصول از پیش ساخته شده."
+
+msgid ""
+"If activated this will add a subtle shadow behind your transparent header to "
+"help with the visibility of your navigation items."
+msgstr ""
+"در صورت فعال شدن ، سایه ای ظریف در پشت سربرگ شفاف شما اضافه می شود تا در "
+"بازدید از موارد ناوبری شما کمک کند."
+
+msgid ""
+"If activated this will cause your header to be completely transparent before "
+"the user scrolls. Valid instances where this will get used include using a "
+"Page Header or using a Full width/screen Nectar Slider at the top of a page."
+msgstr ""
+"در صورت فعال شدن این امر باعث می شود که هدر شما قبل از اسکرول کاربر کاملا "
+"شفاف شود. موارد معتبر که در آن استفاده می شود شامل استفاده از یک سربرگ صفحه "
+"یا استفاده از یک اسلایدر با صفحه کامل/در بالای صفحه است."
+
+msgid "If checked columns will be set to equal height."
+msgstr "اگر این گزینه را انتخاب کنید ارتفاع ستون ها برابر می شود."
+
+msgid "If checked row will be set to full height."
+msgstr "اگر این گزینه انتخاب شود ردیف حداکثر ارتفاع را خواهد داشت."
+
+msgid ""
+"If checked the row won't be visible on the public side of your website. You "
+"can switch it back any time."
+msgstr ""
+"اگر تیک زده شود، این ردیف در سمت های وب سایت به صورت عمومی نمایش داده می شود."
+" شما می توانید آن را به زمانی عقب تر تغییر دهید."
+
+msgid "If checked, video will be used as row background."
+msgstr "اگر انتخاب شود ویدئو برای پس زمینه ردیف استفاده می شود."
+
+msgid ""
+"If left off, Salient will calculate the responsive typography settings for "
+"your h1-h6 tags & body automatically."
+msgstr ""
+"در صورت خاموش ماندن ، سالینت تنظیمات تایپوگرافی پاسخگو برای برچسب ها و بدن "
+"h1-h6 شما را بطور خودکار محاسبه می کند."
+
+msgid ""
+"If left unchecked, plain text will be used instead (generated from site name)"
+"."
+msgstr ""
+"اگر این تیک را بردارید ، متن ساده جایگزین خواهد شد (برگرفته از نام سایت)"
+
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+"در این صورت ، لطفا %1$s را در دیدگاه بگیرید و %2$s را برای ادامه روند پیشرفت "
+"ردوکس در دیدگاه بگیرید."
+
+msgid ""
+"If you are developing offline, please download and install the <a "
+"href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to "
+"bypass the our CDN and avoid this warning"
+msgstr ""
+"اگر به صورت آفلاین در حال توسعه هستید ، لطفا افزونه <a href=\"%s\" "
+"target=\"_blank\"> پشتیبانی از فروشندگان ردوکس </a> را بارگیری کرده و از این "
+"هشدار جلوگیری کنید"
+
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+"اگر شما یک برنامه نویس نیست، نویسنده قالب/افزونه خود را حمل با توسعه دهنده "
+"حالت را فعال کنید. تماس با آنها را به طور مستقیم به آن را تعمیر."
+
+msgid ""
+"If you are trying to have your header navigation completely see through "
+"before scrolling, setting this very low is not how to achieve it. The fully "
+"transparent style as shown on many of the demos is the option titled"
+msgstr ""
+"اگر سعی می کنید ناوبری سربرگ خود را قبل از پیمایش کاملاً دیدگاه کنید ، تعیین "
+"این مقدار کم نحوه دستیابی به آن نیست. طرح کاملاً شفاف همانطور که در بسیاری "
+"از دموها نشان داده شده گزینه ای است با عنوان"
+
+msgid ""
+"If you have an external RSS feed such as Feedburner, please enter it here. "
+"Will use built in Wordpress feed if left blank."
+msgstr ""
+"اگر شما یک خوراک RSS خارجی مانند Feedburner دارید، لطفا آن را در اینجا وارد "
+"کنید. استفاده اگر خالی باشد در خوراک وردپرس استفاده می شود."
+
+msgid ""
+"If you have any custom CSS you would like added to the site, please enter it "
+"here."
+msgstr "کد طرح دلخواه را وارد کنید."
+
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"//wordpress."
+"org/support/view/plugin-reviews/redux-framework?filter=5#postform\" "
+"target=\"_blank\" class=\"redux-rating-link\" data-rated=\"Thanks :)\">"
+"&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank you from Redux "
+"in advance!"
+msgstr ""
+"اگر دوست دارید <strong>ردوکس</strong> لطفا به ما امتیاز بدهید <a "
+"href=\"//wordpress.org/support/view/plugin-reviews/redux-framework?"
+"filter=5#postform\" target=\"_blank\" class=\"redux-rating-link\" data-"
+"rated=\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a>رتبه بندی پیشاپیش "
+"از ردوکس بسیار تشکر می کنم!"
+
+msgid ""
+"If you want your portfolio post type to have a custom slug in the url, "
+"please enter it here. You will still have to refresh your permalinks after "
+"saving this! This is done by going to Settings > Permalinks and clicking "
+"save."
+msgstr ""
+"اگر می خواهید نوع نوشته نمونه کارها شما دارای یک خلسه سفارشی در url باشد ، "
+"لطفا آن را در اینجا وارد کنید. بعد از صرفه جویی در این امر مجبورید مجدداً "
+"لینکهای مجدد خود را تازه کنید! این کار با رفتن به تنظیمات> پیوندهای ثابت و "
+"کلیک روی ذخیره انجام می شود."
+
+msgid ""
+"If you would like a button to be the link in the global call to action "
+"section, please enter the text for it here."
+msgstr ""
+"اگر می خواهید یک دکمه در بخش فراخوان عمومی به اقدام باشد ، لطفا متن آن را در "
+"اینجا وارد کنید."
+
+msgid ""
+"If you would like a color to overlay your background image, select it here."
+msgstr ""
+"اگر دوست دارید یک رنگ روی تصویر پس زمینه خود قرار دهید، آن را از اینجا "
+"انتخاب کنید."
+
+msgid ""
+"If you would like the search to only show results of a specific post type, "
+"select the post type here."
+msgstr ""
+"اگر می خواهید جستجو فقط نتایج یک نوع نوشته خاص را نشان دهد ، نوع نوشته را "
+"اینجا انتخاب کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your eighth "
+"location, please enter it here."
+msgstr ""
+"اگر مایل به نمایش متن در پنجره اطلاعات برای مکان هشتم خود هستید ، لطفا آن را "
+"در اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your fifth "
+"location, please enter it here."
+msgstr ""
+"اگر می خواهید برای پنجمین مکان خود متنی را در پنجره اطلاعات نمایش دهید ، "
+"لطفا آن را اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your first "
+"location, please enter it here."
+msgstr ""
+"اگر می خواهید متنی را برای اولین مکان خود در یک پنجره اطلاعات نمایش دهید ، "
+"لطفا آن را اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your fourth "
+"location, please enter it here."
+msgstr ""
+"اگر می خواهید برای چهارمین مکان خود متنی را در پنجره اطلاعات نمایش دهید ، "
+"لطفا آن را اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your second "
+"location, please enter it here."
+msgstr ""
+"اگر می خواهید متنی را در پنجره اطلاعات مکان دوم خود نمایش دهید ، لطفا آن را "
+"اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your seventh "
+"location, please enter it here."
+msgstr ""
+"اگر مایل هستید هر مکان را در یک پنجره اطلاعاتی برای مکان هفتم خود نمایش دهید "
+"، لطفا آن را در اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your sixth "
+"location, please enter it here."
+msgstr ""
+"اگر می خواهید متنی را در پنجره اطلاعات برای مکان ششم خود نمایش دهید ، لطفا "
+"آن را اینجا وارد کنید."
+
+msgid ""
+"If you would like to display any text in an info window for your third "
+"location, please enter it here."
+msgstr ""
+"اگر می خواهید متنی را برای پنجمین مکان برای مکان سوم خود نمایش دهید ، لطفا "
+"آن را اینجا وارد کنید."
+
+msgid ""
+"If you would rather simply use a solid color for your background, select one "
+"here."
+msgstr ""
+"اگر ترجیح می دهید از رنگ ثابت برای پس زمینه خود استفاده کنید ، یکی را اینجا "
+"انتخاب کنید."
+
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+"اگر میخواهید با همه چیز ردوکس روبرو شوید، لطفا به خبرنامه ما مشترک شوید"
+
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" "
+"target=\"_blank\">How to create a child theme</a>"
+msgstr ""
+"اگر شما در حال اصلاح فریم ورک ردوکس یا یک موضوع که شما شخصا ایجاد نکرده اید، "
+"توصیه می کنیم استفاده از یک چیلدتم. دیدن: <a href=\"%s\" target=\"_blank\">"
+"چگونه برای ایجاد یک چیلدتم</a>"
+
+msgid ""
+"If you're not seeing the Global Sections post type available in your setup, "
+"you likely need to update your version of the Salient Core plugin."
+msgstr ""
+"اگر نوع نوشته بخش های عمومی را در تنظیمات خود مشاهده نمی کنید ، احتمالاً "
+"باید نسخه افزونه Salient Core را بروز کنید."
+
+msgid ""
+"If you're trying to get third party forms to display without any styling "
+"from Salient, simply select the"
+msgstr ""
+"اگر می خواهید فرم های شخص ثالث را بدون هیچگونه طرح از سالینت نمایش دهید ، به "
+"سادگی گزینه را انتخاب کنید"
+
+msgid "Image"
+msgstr "تصویر"
+
+msgid "Image Zoom"
+msgstr "بزرگنمایی تصویر"
+
+msgid "Import"
+msgstr "درون ریزی"
+
+msgid "Import / Export"
+msgstr "درون ریزی/برون بری"
+
+msgid "Import Options"
+msgstr "تنظیمات درون ریزی"
+
+msgid "Import from File"
+msgstr "درون ریزی از فایل"
+
+msgid "Import from URL"
+msgstr "درون ریزی از آدرس"
+
+msgid "Important Salient Plugin Notice"
+msgstr "اعلان مهم افزونه شاخص سالینت"
+
+msgid "In"
+msgstr "در"
+
+msgid "In Project Header"
+msgstr "تنظیمات سربرگ"
+
+msgid "In Side Area"
+msgstr "نمایش در کنار"
+
+msgid "In accordance with new"
+msgstr "در نسخه جدید قالب سالینت"
+
+msgid ""
+"In order to use Google maps, you need to generate an API key and enter it "
+"here. Please see the"
+msgstr ""
+"لطفا برای استفاده از نقشه های گوگل ، باید یک کلید API تولید کنید و آن را "
+"اینجا وارد کنید"
+
+msgid ""
+"Increases the max number of related/upsell products to 8 and will enable a "
+"carousel display."
+msgstr ""
+"حداکثر تعداد محصولات مرتبط/فروخته شده را به 8 عدد افزایش می دهد و نمایش چرخ "
+"فلک را فعال می کند."
+
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+"نشان می دهد که اگر صرفه جویی بر اساس ایجکس برای این نمونه از ردوکس فعال باشد."
+
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr "نشان می دهد اگر حالت توسعه دهنده برای این نمونه از ردوکس فعال باشد."
+
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+"نشان می دهد اگر پرچم خروجی برای خاموش کردن تمام خروجی CSS برای این نمونه از "
+"ردوکس فعال شود."
+
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr "نشان می دهد اگر پرچم کامپایلر برای این نمونه از ردوکس فعال باشد."
+
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr "نشان دهنده پسوندهای ردوکس نصب شده و شماره نسخه آنها است."
+
+msgid "Infinite Scroll"
+msgstr "اسکرول بی نهایت"
+
+msgid "Information about the web server that is currently hosting your site."
+msgstr "اطلاعاتی درباره وب سروری که در حال حاضر سایت شما را میزبانی می کند."
+
+msgid "Inherit"
+msgstr "ارث بری"
+
+msgid "Inherit From Theme Skin"
+msgstr "ارث بری از پوسته قالب"
+
+msgid "Inherit Navigation Typography"
+msgstr "وارث تایپوگرافی پیمایش شوید"
+
+msgid "Inner Column"
+msgstr "ستون داخلی"
+
+msgid "Inner Row"
+msgstr "سطر داخلی"
+
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"URL را وارد کنید گزینه های سایت دیگری تنظیم شده و درون ریزی را بزنید تا "
+"گزینه ها از آن سایت بارگیری شود."
+
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"فایل پشتیبان خود را در زیر وارد کنید و برای درون ریزی گزینه های سایت از نسخه "
+"پشتیبان ، درون ریزی را فشار دهید."
+
+msgid "Instagram URL"
+msgstr "آدرس اینستاگرام"
+
+msgid "Install"
+msgstr "نصب"
+
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های لازم"
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما غیرفعال"
+
+msgid "Installed version:"
+msgstr "نسخه نصب شده :"
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "در حال نصب %1$s (%2$d/%3$d)"
+
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه ها : %s"
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعالسازی افزونه %1$s (%2$d/%3$d)"
+
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+"اعتبارنامه امنیتی نامعتبر است. لطفا صفحه را مجددا بارگذاری و دوباره تلاش "
+"کنید."
+
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+"صلاحیت کاربر نامعتبر است. لطفا صفحه را مجددا بارگذاری و دوباره تلاش کنید."
+
+msgid "Is the server running in a localhost environment."
+msgstr "آیا سرور در یک محیط محلی اجرا می شود."
+
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+"به دیدگاه می رسد که شما بسته کامل آوادا ریداکس را داخل قالب جاسازی کرده اید. "
+"شما تنها نیاز به جاسازی <strong> هسته ریداکس </strong>\n"
+" در پوشه دارید. جاسازی هرچیزی باعث جایگزینی آن با دیگر فایل ها خواهد شد. "
+"فایل های مشکوک بسته ریداکس:"
+
+msgid "Italic"
+msgstr "کج"
+
+msgid "Items Per page"
+msgstr "آیتم ها در هر برگه"
+
+msgid "Join the discussion"
+msgstr "پیوستن به بحث و گفتگو"
+
+msgid "Keep Back To Top Button On Mobile"
+msgstr "نگه دارید بازگشت به دکمه بالا در تلفن همراه"
+
+msgid "Keeps bottom bar sticky when scrolling."
+msgstr "نوار پایین را هنگام پیمایش چسبان نگه می دارد."
+
+msgid "Language"
+msgstr "زبان"
+
+msgid "Large"
+msgstr "بزرگ"
+
+msgid "Large & same color as footer BG"
+msgstr "بزرگ و همان رنگ پاورقی BG"
+
+msgid "Large With Bottom Line"
+msgstr "بزرگ با خط پایین"
+
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+msgid "Layout"
+msgstr "طرح بندی"
+
+msgid "Layout & Content Related"
+msgstr "چیدمان و مطالب مرتبط"
+
+msgid "Lazy Load Blog Images"
+msgstr "بارگذاری تنبل تصاویر وبلاگ"
+
+msgid "Lazy Load Page Builder Element Images"
+msgstr "تصاویر عنصر سازنده صفحه تنبل"
+
+msgid "Lazy Load Shop Images"
+msgstr "بارگذاری تنبل تصاویر فروشگاه"
+
+msgid "Learn More"
+msgstr "بیشتر بدانید"
+
+msgid "Leave a Reply"
+msgstr "دیدگاه خود را ثبت کنید"
+
+msgid "Leave a Reply to %s"
+msgstr "ارسال دیدگاه برای %s"
+
+msgid "Left"
+msgstr "چپ"
+
+msgid "Left / Right"
+msgstr "راست/چپ"
+
+msgid "Left Bottom"
+msgstr "پایین سمت چپ"
+
+msgid "Left Center"
+msgstr "مرکز سمت چپ"
+
+msgid "Left Header"
+msgstr "سربرگ سمت چپ"
+
+msgid "Left Header Dropdown Functionality"
+msgstr "عملکرد کشویی چپ سربرگ"
+
+msgid "Left Sidebar"
+msgstr "ستون کناری چپ"
+
+msgid "Left Thumbnails + Sticky Product Info"
+msgstr "چپ تصاویر بندانگشتی + اطلاعات مهم و مهم محصول"
+
+msgid "Left Top"
+msgstr "چپ بالا"
+
+msgid "Left Top Center Bottom"
+msgstr "پایین مرکز بالا سمت چپ"
+
+msgid "Left to Right Fancy"
+msgstr "چپ به راست فانتزی"
+
+msgid "Left to Right Simple"
+msgstr "چپ به راست ساده"
+
+msgid "Letter Spacing"
+msgstr "فاصله حروف"
+
+msgid "Light"
+msgstr "روشن"
+
+msgid "Like Redux?"
+msgstr "مثل ردوکس؟"
+
+msgid "Limit Search To Post Type"
+msgstr "محدود کردن جستجو به نوع نوشته"
+
+msgid "Line Height"
+msgstr "ارتفاع خط"
+
+msgid "LinkedIn URL"
+msgstr "آدرس لینکدین"
+
+msgid "List & Sidebar"
+msgstr "نوارکناری و لیست"
+
+msgid "List No Sidebar"
+msgstr "لیست نوار کناری وجود ندارد"
+
+msgid "List of template files overriding the default Redux template files."
+msgstr "فهرست پرونده های قالب را به طور پیشفرض فایل های قالب پیشفرض ردوکس."
+
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+"لیست زیر افزونه وردپرس یا قالب در سایت شما نصب شده است که از Redux Framework "
+"استفاده می کنند. ما به طور مستقیم از محصولات ایجاد شده با چارچوب ما پشتیبانی "
+"نمی کنیم. مسئولیت افزونه یا توسعه دهنده تم برای حمایت از کار آنهاست. شما "
+"باید با نویسنده (بازدید کنندگان) محصولات ذکر شده در زیر با سوالات پشتیبانی "
+"خود تماس بگیرید."
+
+msgid "Load In Animation"
+msgstr "انیمیشن بارگذاری"
+
+msgid "Load from Google"
+msgstr "بارگیری از گوگل"
+
+msgid "Load from Theme"
+msgstr "بارگیری از قالب"
+
+msgid "Loading Icon Coloring"
+msgstr "رنگ آیکون لودینگ"
+
+msgid "Loading Icon Style"
+msgstr "بارگذاری طرح آیکون"
+
+msgid "Loading Image CSS Animation"
+msgstr "بارگذاری انیمیشن CSS لودینگ"
+
+msgid "Localhost Environment"
+msgstr "وردپرس محیط لوکال"
+
+msgid "Location #1"
+msgstr "محل اول روی نقشه"
+
+msgid "Location #2"
+msgstr "آدرس 2"
+
+msgid "Location #3"
+msgstr "آدرس 3"
+
+msgid "Location #4"
+msgstr "آدرس 4"
+
+msgid "Location #5"
+msgstr "آدرس 5"
+
+msgid "Location #6"
+msgstr "آدرس 6"
+
+msgid "Location #7"
+msgstr "آدرس 7"
+
+msgid "Location #8"
+msgstr "آدرس 8"
+
+msgid "Log in"
+msgstr "ورود"
+
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"وارد شده به عنوان <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"خروج "
+"از این حساب کاربری\">خروج؟</a>"
+
+msgid "Login"
+msgstr "ورود"
+
+msgid "Logo & General Styling"
+msgstr "طرح دهی عمومی"
+
+msgid "Logo Font"
+msgstr "فونت لوگو"
+
+msgid "Logo Height"
+msgstr "ارتفاع لوگو"
+
+msgid "Logo Upload"
+msgstr "بارگذاری لوگو"
+
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+msgid "Lost your password?"
+msgstr "رمز عبور خود را فراموش کرده اید؟"
+
+msgid "Main Footer Area"
+msgstr "ناحیه پایین پاورقی"
+
+msgid "Main Layout"
+msgstr "طرح اصلی"
+
+msgid "Main Portfolio Page URL"
+msgstr "آدرس صفحه نمونه کار من"
+
+msgid "Main Shop Layout"
+msgstr "نمایش چینش فروشگاه"
+
+msgid "Map Center Latitude"
+msgstr "طول جغرافیایی"
+
+msgid "Map Center Longitude"
+msgstr "عرض جغرافیایی"
+
+msgid "Map Extra Color"
+msgstr "رنگ نقشه"
+
+msgid "Map Infowindow Text"
+msgstr "اطاعات نمایشی در کنار نشانه گر"
+
+msgid "Marker Icon Upload"
+msgstr "بارگذاری آیکون نشانگر"
+
+msgid "Masonry Blog Fullwidth"
+msgstr "وبلاگ طرح کاشی تمام عرض"
+
+msgid "Masonry Blog No Sidebar"
+msgstr "وبلاگ طرح کاشی بدون نوارکناری"
+
+msgid "Masonry Blog W/ Sidebar"
+msgstr "وبلاگ طرح کاشی با"
+
+msgid "Masonry Grid & Sidebar"
+msgstr "نوارکناری و طرح کاشی"
+
+msgid "Masonry Grid No Sidebar"
+msgstr "طرح شبکه کاشی بدون نوارکناری"
+
+msgid "Masonry Grid Sizing"
+msgstr "اندازه طرح کاشی"
+
+msgid "Masonry Size"
+msgstr "اندازه طرح کاشی"
+
+msgid "Masonry Style"
+msgstr "طرح کاشی"
+
+msgid "Material"
+msgstr "متریال"
+
+msgid "Material Design"
+msgstr "طراحی مواد"
+
+msgid "Material Design Product Item BG Color"
+msgstr "طراحی محصول متریال آیتم رنگ پس زمینه"
+
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+msgid "Max Website Container Width"
+msgstr "حداکثر عرض مخزن وب سایت"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Medium URL"
+msgstr "آدرس Medium"
+
+msgid "Mega Menu Heading Font"
+msgstr "فونت هدینگ مگامنو"
+
+msgid "Mega Menu Heading Font Hover"
+msgstr "هاور فونت هدینگ مگامنو"
+
+msgid "Megamenu Removes Transparent Header"
+msgstr "حذف سربرگ شفاف از مگامنو"
+
+msgid "Menu"
+msgstr "منو"
+
+msgid "Menu Bottom Bar"
+msgstr "نوار پایین منو"
+
+msgid "Menu Bottom Bar Alignment"
+msgstr "تراز بندی نوار پایین منو"
+
+msgid "Menu Bottom Bar Separator"
+msgstr "جدا کننده نوار پایین منو"
+
+msgid "Menu Item Spacing"
+msgstr "فاصله آیتم منو"
+
+msgid "Menu Item Style"
+msgstr "سبک گزینه های فهرست"
+
+msgid "Menu Left Aligned"
+msgstr "تراز بندی چپ منو"
+
+msgid "Messenger URL"
+msgstr "آدرس تلگرام"
+
+msgid "Meta + 3D Parallax on hover"
+msgstr "هاور در پارالاکس 3D + متا"
+
+msgid "Meta Overlaid"
+msgstr "متا تزیین"
+
+msgid "Meta below thumb w/ links on hover"
+msgstr "متا زیر انگشت شست /لینک در شناور"
+
+msgid "Meta below thumb w/ shadow hover"
+msgstr "متا زیر انگشت شست/هاور سایه"
+
+msgid "Meta from bottom on hover + entire thumb link"
+msgstr "متا از پایین بر روی شناور   کل لینک انگشت شست"
+
+msgid "Meta on hover + entire thumb link"
+msgstr "متا در شناور   کل لینک انگشت شست"
+
+msgid "Meta on hover w/ zoom + entire thumb link"
+msgstr "متا در حالت هاور با/بزرگنمایی + کل پیوند انگشتی است"
+
+msgid "Meta overlaid - bottom left aligned"
+msgstr "متا همپوشانی شده است - تراز پایین و پایین"
+
+msgid "Middle"
+msgstr "میانه"
+
+msgid "Minimal"
+msgstr "مینیمال"
+
+msgid "Minimal Design"
+msgstr "طراحی مینیمال"
+
+msgid "Minimal Design Product Item BG Color"
+msgstr "رنگ BG مورد پس زمینه طراحی مینیمال"
+
+msgid "Minimal Product Hover Effect"
+msgstr "حداقل اثر هاور محصول"
+
+msgid "Minimal Product Hover Layout"
+msgstr "طرح بندی هاور محصولا مینیمال"
+
+msgid "Minimal Product Text Alignment"
+msgstr "حداقل تراز بندی متن محصول"
+
+msgid "Minimum required version:"
+msgstr "پایین ترین نسخه مورد نیاز:"
+
+msgid "Mixcloud URL"
+msgstr "Mixcloud URL"
+
+msgid "Mobile Header"
+msgstr "سربرگ موبایل"
+
+msgid "Mobile Header Layout"
+msgstr "طرح بندی سربرگ موبایل"
+
+msgid "Mobile Logo Height"
+msgstr "ارتفاع لوگو موبایل"
+
+msgid "Mobile Only Logo Upload"
+msgstr "بارگذاری لوگو فقط برای موبایل"
+
+msgid "Monthly Archives"
+msgstr "بایگانی ماهانه"
+
+msgid "More Details"
+msgstr "جزئیات بیشتر"
+
+msgid "More Info"
+msgstr "اطلاعات بیشتر"
+
+msgid "More Information"
+msgstr "برای اطلاعات بیشتر کلیک  کنید"
+
+msgid "More posts by"
+msgstr "نوشته های بیشتر از"
+
+msgid "My comment is.."
+msgstr "دیدگاه من هست.."
+
+msgid "MySQL Version"
+msgstr "نسخه MySQL"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Navigation & Page Header"
+msgstr "کنترل و سربرگ صفحه"
+
+msgid "Navigation Dropdown Font"
+msgstr "ناوبری کشویی فونت"
+
+msgid "Navigation Font"
+msgstr "فونت نویگشیشن"
+
+msgid "Navigation Menu"
+msgstr "منوی ناوبری"
+
+msgid "Nectar Btn"
+msgstr "دکمه نکتار"
+
+msgid "Nectar Btn See Through"
+msgstr "مشاهد از طریق دکمه نکتار"
+
+msgid "Nectar Button"
+msgstr "دکمه نکتار"
+
+msgid "Nectar Specific elements"
+msgstr "عناصر خاص"
+
+msgid "Nectar/Home Slider Caption Font"
+msgstr "فونت توضیحات اسلایدر صفحه اصلی/نکتار"
+
+msgid "Nectar/Home Slider Heading Font"
+msgstr "فونت هیدنگ اسلایدر صفحه اصلی/نکتار"
+
+msgid "New %s"
+msgstr "جدید %s"
+
+msgid "New in this Release"
+msgstr "جدید در این نسخه"
+
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+msgid "Next"
+msgstr "بعدی"
+
+msgid "Next Post"
+msgstr "نوشته بعدی"
+
+msgid "No Comments"
+msgstr "بدون دیدگاه"
+
+msgid "No Footer */"
+msgstr "بدون  پاورقی * /"
+
+msgid "No Header & Footer */"
+msgstr "بدون سربرگ & پاورقی * /"
+
+msgid "No Header */"
+msgstr "بدون سربرگ * /"
+
+msgid "No Sidebar"
+msgstr "بدون نوارکناری"
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "کاری انجام نشد. افزونه %1$s از قبل فعال است."
+
+msgid "No animation will occur (default)."
+msgstr "هیچ انیمیشنی اجرا نمی شود (پیشفرض)."
+
+msgid "No items of this type were found."
+msgstr "از این نوع آیتم پیدا نشد."
+
+msgid "No media selected"
+msgstr "هیچ رسانه ای انتخاب نشده"
+
+msgid "No plugins are available to be activated at this time."
+msgstr "در حال حاضر افزونه ای برای بروزرسانی در دسترس نیست."
+
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ افزونه ی قابل نصبی در دسترس نیست."
+
+msgid "No plugins are available to be updated at this time."
+msgstr "در حال حاضر هیچ افزونه ی قابل بروزرسانی در دسترس نیست."
+
+msgid "No plugins to install, update or activate."
+msgstr "افزونه ای برای نصب، بروز رسانی یا فعال سازی وجود ندارد."
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ی قابل فعال شدنی انتخاب نشده بود. کاری انجام نشد."
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ی قابل نصبی انتخاب نشده بود. کاری انجام نشد."
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ی قابل بروزرسانی انتخاب نشده بود. کاری انجام نشد."
+
+msgid "No products in the cart."
+msgstr "هیچ محصولی در سبدخرید نیست."
+
+msgid "No-Repeat"
+msgstr "بدون تکرار"
+
+msgid "None"
+msgstr "هیچکدام"
+
+msgid "None (Hidden)"
+msgstr "هیچکدام (پنهان)"
+
+msgid "None:"
+msgstr "هیچکدام :"
+
+msgid "Not Installed"
+msgstr "نصب نشد"
+
+msgid "Not that bad"
+msgstr "بد نیست"
+
+msgid ""
+"Note - if you've pasted CSS in here from an external source, ensure no "
+"accidental"
+msgstr ""
+"توجه - اگر CSS را از منبع خارجی به اینجا منتقل کرده اید ، اطمینان حاصل کنید "
+"که اتفاقی نیست"
+
+msgid "Note:"
+msgstr "نکته :"
+
+msgid ""
+"Note: there are additional logo upload fields in the transparent header "
+"effect tab."
+msgstr "توجه: در تب جلوه سربرگ شفاف ، زمینه های اضافی بارگذاری لوگو وجود دارد."
+
+msgid "Off"
+msgstr "خاموش"
+
+msgid "Off Canvas Icon Style"
+msgstr "طرح آیکون بوم خاموش"
+
+msgid "Off Canvas Menu"
+msgstr "بوم خاموش منو"
+
+msgid "Off Canvas Menu Add Menu Label"
+msgstr "افزودن برچسب منو برای بوم خاموش منو"
+
+msgid "Off Canvas Menu Add Social"
+msgstr "فعال منو بوم افزودن اجتماعی"
+
+msgid "Off Canvas Menu Bottom Text"
+msgstr "فعال منو بوم پایین متن"
+
+msgid "Off Canvas Menu Dropdown Behavior"
+msgstr "رفتار کشویی برای پوشش منو را خاموش کنید"
+
+msgid "Off Canvas Menu Item Icons"
+msgstr "آیکون مورد بوم خاموش منو"
+
+msgid "Off Canvas Menu Item Images"
+msgstr "تصویر مورد بوم خاموش منو"
+
+msgid "Off Canvas Menu Mobile Nav Menu items"
+msgstr "فعال منو بوم موبایل بازگشت آیتم های منو"
+
+msgid "Off Canvas Menu Overlay Strength"
+msgstr "فعال منو بوم قدرت روکش"
+
+msgid "Off Canvas Menu Style"
+msgstr "طرح بوم خاموش منو"
+
+msgid "Off Canvas Navigation"
+msgstr "خاموش کردن بوم ناوبری"
+
+msgid "Off Canvas Navigation Background"
+msgstr "خاموش بوم ناوبری پس زمینه"
+
+msgid "Off Canvas Navigation Background 2 (Used for gradient)"
+msgstr "خاموش کردن بوم ناوبری پس زمینه 2 (استفاده از گرادیانت)"
+
+msgid "Off Canvas Navigation Close Button Background"
+msgstr "خاموش بوم ناوبری دکمه بستن پس زمینه"
+
+msgid "Off Canvas Navigation Close Button Icon"
+msgstr "خاموش کردن بوم ناوبری آیکون دکمه بستن"
+
+msgid "Off Canvas Navigation Headers"
+msgstr "خاموش کردن بوم ناوبری سربرگ ها"
+
+msgid "Off Canvas Navigation Link Hover"
+msgstr "خاموش کردن بوم ناوبری هاور لینک"
+
+msgid "Off Canvas Navigation Menu Button BG Color"
+msgstr "رنگ BG دکمه منو ناوبری بوم خاموش"
+
+msgid "Off Canvas Navigation Menu Button Color"
+msgstr "رنگ دکمه منوی ناوبری بوم خاموش"
+
+msgid "Off Canvas Navigation Text"
+msgstr "خاموش کردن بوم ناوبری متن"
+
+msgid "Off Canvas Navigation/Dropdown Description Text"
+msgstr "خاموش کردن متن توضیحات کشویی/پیمایش"
+
+msgid "On"
+msgstr "روشن"
+
+msgid ""
+"On some theme skins, helper text is shown under the main search bar. Enable "
+"this to remove that."
+msgstr ""
+"در برخی از پوسته های قالب ، متن راهنما در زیر نوار اصلی جستجو نشان داده می "
+"شود. این را فعال کنید تا حذف شود."
+
+msgid "One Comment"
+msgstr "یک دیدگاه"
+
+msgid "One Comment "
+msgstr "1 دیدگاه "
+
+msgid "One Page Scroll Support (Animated Anchor Links)"
+msgstr "نمایش صفحه پشتیبانی !!"
+
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"فقط مشتریانی که این محصول را خریداری کرده اند می توانند وارد دیدگاه شوند."
+
+msgid "Opacity/Color Change"
+msgstr "تغییر رنگ/تیرگی"
+
+msgid "Open Support Forum"
+msgstr "فرم پشتیبانی"
+
+msgid "Optional"
+msgstr "اختیاری"
+
+msgid "Optionally Included"
+msgstr "اختیاری گنجانده شده است"
+
+msgid ""
+"Optionally define a background color for your off canvas navigation button "
+"within the header. Useful in combination with the \"Permanent Transparent\" "
+"navigation option."
+msgstr ""
+"به صورت اختیاری یک رنگ پس زمینه را برای دکمه پیمایش بوم خاموش خود در سربرگ "
+"تعریف کنید. در ترکیب با گزینه ناوبری \"دائمی شفاف\" مفید است."
+
+msgid ""
+"Optionally set the max limit that text will display at before breaking to a "
+"new line. (Amount in px)"
+msgstr ""
+"به صورت اختیاری حداکثر حدی را که متن قبل از شکستن روی خط جدید نشان می دهد "
+"تنظیم کنید. (مقدار به px)"
+
+msgid "Options"
+msgstr "تنظیمات"
+
+msgid "Options Object"
+msgstr "گزینه های شی"
+
+msgid "Options Panel"
+msgstr "پنل تنظیمات"
+
+msgid "Options for the single project template."
+msgstr "گزینه هایی برای الگوی پروژه واحد."
+
+msgid "Options panel created using %1$s"
+msgstr "پنل تنظیمات ساخته شده توسط %1$s"
+
+msgid ""
+"Options that affect the styling of the portfolio archive pages (portfolio "
+"grid)."
+msgstr ""
+"گزینه هایی که بر طرح سازی صفحات بایگانی نمونه کارها تأثیر می گذارند (شبکه "
+"نمونه کارها)."
+
+msgid "Original"
+msgstr "اصلی"
+
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+"مارتن هسته اصلی ما در ردوکس سازگاری عقب است. با صدها هزار مورد در سراسر "
+"جهان، می توانید مطمئن باشید که ما از شما و مشتریان خود مراقبت خواهیم کرد."
+
+msgid "Overall Background Color"
+msgstr "رنگ کلی پس زمینه"
+
+msgid "Overall Font Color"
+msgstr "به طور کلی رنگ فونت"
+
+msgid "Overall Form Style"
+msgstr "طرح فرم کلی"
+
+msgid "PHP Display Errors"
+msgstr "خطاهای نمایش PHP"
+
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+msgid "PHP Memory Limit"
+msgstr "محدودیت حافظه PHP"
+
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+msgid "PHP Unit Testing"
+msgstr "تست واحد PHP"
+
+msgid "PHP Version"
+msgstr "نسخه PHP"
+
+msgid "Page"
+msgstr "برگه"
+
+msgid "Page Builder Element Animations On Mobile Devices"
+msgstr "انیمیشن های عناصر سازنده صفحه در دستگاه های تلفن همراه"
+
+msgid "Page Header"
+msgstr "سربرگ صفحه"
+
+msgid "Page Heading Font"
+msgstr "فونت سرصفحه برگه"
+
+msgid "Page Heading Subtitle Font"
+msgstr "فونت سرفصل هدینگ صفحه"
+
+msgid "Page Not Found"
+msgstr "صفحه پیدا نشد"
+
+msgid "Page Transition BG Color"
+msgstr "رنگ پس زمینه انتقال صفحات"
+
+msgid "Page Transition BG Color 2"
+msgstr "رنگ BG2 شفافیت صفحه"
+
+msgid "Page Transitions"
+msgstr "انیمیشن برگه"
+
+msgid "Page headers refer to any page header set in the page header meta box."
+msgstr ""
+"سربرگ های صفحه به هر سربرگ صفحه ای که در متاباکس صفحه تنظیم شده باشد ، اشاره "
+"می کنند."
+
+msgid ""
+"Page headers that are set to fullscreen will show an arrow at the bottom so "
+"the user knows there is more content below - select the style for that here."
+msgstr ""
+"سربرگ های صفحه که روی تمام صفحه تنظیم شده اند ، یک فلش را در پایین نشان می "
+"دهند تا کاربر بداند محتوای بیشتری در زیر وجود دارد - طرح مورد نظر را در "
+"اینجا انتخاب کنید...."
+
+msgid "Pages to Exclude the Call to Action Section"
+msgstr "این اطلاعیه در کجا نمایش داده بشود"
+
+msgid "Pagination Type"
+msgstr "نوع صفحه بندی"
+
+msgid "Parallax"
+msgstr "پارالاکس"
+
+msgid "Parallax speed"
+msgstr "سرعت پارالاکس"
+
+msgid "Parent Theme Author URL"
+msgstr "آدرس قالب والد"
+
+msgid "Parent Theme Name"
+msgstr "نام والد قالب"
+
+msgid "Parent Theme Version"
+msgstr "نسخه والد قالب"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Perfect"
+msgstr "عالی"
+
+msgid "Performance"
+msgstr "کارایی"
+
+msgid "Performance options related to asset reduction/loading optimization."
+msgstr "گزینه های عملکرد مربوط به کاهش دارایی/بهینه سازی بارگذاری."
+
+msgid "Permalink Structure"
+msgstr "ساختارپیوند یکتا"
+
+msgid "Perspective Fade In"
+msgstr "چشم انداز محو شدن در"
+
+msgid "Phone Link"
+msgstr "آدرس Phone"
+
+msgid "Photography Based"
+msgstr "مبتنی بر عکاسی"
+
+msgid "Pinterest URL"
+msgstr "لینک پینترست"
+
+msgid "Place content elements inside the column"
+msgstr "محل محتوای عنصر در داخل ستون"
+
+msgid "Place content elements inside the inner column"
+msgstr "محل محتوای عنصر در ستون داخلی"
+
+msgid "Place content elements inside the inner row"
+msgstr "محل محتوای عنصر در سطر داخلی"
+
+msgid "Place content elements inside the row"
+msgstr "عناصر محتوا را درون ردیف قرار دهید"
+
+msgid "Placeholder"
+msgstr "مکان نگهدارنده"
+
+msgid "Please Wait"
+msgstr "لطفا منتظر بمانید"
+
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+"از طریق برش و چسباندن - نشانی اینترنتی را در حاشیه زیر وارد کنید ابتدا مطمئن "
+"شوید."
+
+msgid ""
+"Please choose whether you would like your dropdowns to show a down arrow."
+msgstr ""
+"لطفا انتخاب کنید آیا دوست دارید بازشونده های شما یک پیکان پایین را نشان دهند."
+
+msgid ""
+"Please choose whether you would like your megamenu to be constrained to the "
+"same width of the header container or if you would prefer to be the full "
+"width of the page."
+msgstr ""
+"لطفا انتخاب کنید آیا می خواهید مگامنو شما به همان عرض کانتینر سربرگ محدود "
+"شود یا اینکه ترجیح می دهید عرض کل صفحه باشد."
+
+msgid "Please choose your desired lightbox script here"
+msgstr "لطفا اسکریپت دلخواه لایت باکس خود را اینجا انتخاب کنید"
+
+msgid "Please choose your desired size in px here. Default is 20px."
+msgstr ""
+"لطفا اندازه مورد دیدگاه خود را در px در اینجا انتخاب کنید. پیشفرض 20px است."
+
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک با مدیر سایت تماس بگیرید."
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با نویسنده افزونه تماس بگیرید و از او بخواهید افزونه خود را مطابق با "
+"استانداردهای وردپرس منتشر کنند."
+
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr "خواهشمندیمً در صورت درخواست پشتیبانی این اطلاعات را لحاظ کنید:"
+
+msgid "Please enter an optional URL for the secondary header text here."
+msgstr "لطفا یک URL اختیاری برای متن سربرگ ثانویه در اینجا وارد کنید."
+
+msgid ""
+"Please enter in any custom javascript you wish to add to the head of your "
+"pages. Requires opening and closing script tags."
+msgstr ""
+"لطفا هر جاوا اسکریپت سفارشی را که می خواهید به صفحه صفحات خود اضافه کنید ، "
+"وارد کنید. نیاز به باز و بسته شدن برچسب های اسکریپت دارد."
+
+msgid "Please enter in your Apple Music URL."
+msgstr "لطفاً آدرس Music Apple خود را وارد کنید."
+
+msgid "Please enter in your Artstation URL."
+msgstr "لطفا لینک Artstation خود را وارد کنید."
+
+msgid "Please enter in your Behance URL."
+msgstr "لطفا لینک Behance خود را وارد کنید."
+
+msgid "Please enter in your Discord URL."
+msgstr "لطفا لینک Discord خود وارد کنید."
+
+msgid "Please enter in your Dribbble URL."
+msgstr "لطفا لینک دربیل خود را وارد کنید."
+
+msgid "Please enter in your Facebook URL."
+msgstr "لطفا لینک فیسبوک خود را وارد کنید."
+
+msgid "Please enter in your Flickr URL."
+msgstr "لطفا لینک فلیکر خود را وارد کنید."
+
+msgid "Please enter in your GitHub URL."
+msgstr "لطفا لینک گیت هاب خود را وارد کنید."
+
+msgid "Please enter in your Google URL."
+msgstr "لطفا لینک گوگل پلاس خود را وارد کنید."
+
+msgid "Please enter in your Houzz URL."
+msgstr "لطفا لینک Houzz خود را وارد کنید."
+
+msgid "Please enter in your Instagram URL."
+msgstr "لطفا لینک اینستاگرام خود را وارد کنید."
+
+msgid "Please enter in your LinkedIn URL."
+msgstr "لطفا لینک لینکدین خود را وارد کنید."
+
+msgid "Please enter in your Medium URL."
+msgstr "لطفاً URL مدیوم خود را وارد کنید."
+
+msgid "Please enter in your Messenger URL."
+msgstr "لطفا لینک تلگرام خود را وارد کند."
+
+msgid "Please enter in your Mixcloud URL."
+msgstr "لطفا لینک Mixcloud را وارد کنید."
+
+msgid "Please enter in your Phone link."
+msgstr "لطفا لینک Phone خود را وارد کنید."
+
+msgid "Please enter in your Pinterest URL."
+msgstr "لطفا لینک پینترست خود را وارد کنید."
+
+msgid "Please enter in your Slack URL."
+msgstr "لطفا لینک Slack خود را وارد کنید."
+
+msgid "Please enter in your Snapchat URL."
+msgstr "لطفا لینک اسنپ چت خود را وارد کنید."
+
+msgid "Please enter in your SoundCloud URL."
+msgstr "لطفا لینک SoundCloud خود را وارد کنید."
+
+msgid "Please enter in your Spotify URL."
+msgstr "لطفا لینک شاپیفای خود را وارد کنید."
+
+msgid "Please enter in your StackExchange URL."
+msgstr "لطفاً آدرس StackExchange خود را وارد کنید."
+
+msgid "Please enter in your Telegram URL."
+msgstr "لطفا لینک تلگرام خود را وارد کنید."
+
+msgid "Please enter in your TikTok URL."
+msgstr "لطفاً آدرس TikTok خود را وارد کنید."
+
+msgid "Please enter in your Tripadvisor URL."
+msgstr "لطفا لینک Tripadvisor خود را وارد کنید."
+
+msgid "Please enter in your Tumblr URL."
+msgstr "لطفا آدرس وبلاگ تامبلر خود را وارد کنید."
+
+msgid "Please enter in your Twitch URL."
+msgstr "لطفاً آدرس Twitch URL خود را وارد کنید."
+
+msgid "Please enter in your Twitter URL."
+msgstr "لطفا لینک توییتر خود را وارد کنید."
+
+msgid "Please enter in your URL link."
+msgstr "لطفا آدرس ایمیل خود را وارد کنید."
+
+msgid "Please enter in your VK URL."
+msgstr "لطفا لینک VK خود را وارد کنید."
+
+msgid "Please enter in your Vimeo URL."
+msgstr "لطفا لینک ویمیو خود را وارد کنید."
+
+msgid "Please enter in your Vine URL."
+msgstr "لطفا لینک Vine خود را وارد کنید."
+
+msgid "Please enter in your WhatsApp URL."
+msgstr "لطفا لینک وات ساپ خود را وارد کنید."
+
+msgid "Please enter in your Yelp URL."
+msgstr "لطفا لینک Yelp خود را وارد کنید."
+
+msgid "Please enter in your Youtube URL."
+msgstr "لطفا لینک یوتیوب خود را وارد کنید."
+
+msgid "Please enter the URL for the call to action section here."
+msgstr "لطفا لینک مربوط به بخش اقدام به عمل را در اینجا وارد کنید."
+
+msgid ""
+"Please enter the copyright section text. e.g. All Rights Reserved, Salient "
+"Inc."
+msgstr "لطفا متن بخش حق چاپ را وارد کنید. به عنوان مثال، کلیه حقوق محفوظ است."
+
+msgid "Please enter the latitude for the maps center point."
+msgstr "لطفا عرض جغرافیایی را برای نقطه مرکز نقشه وارد کنید."
+
+msgid "Please enter the latitude for your eighth location."
+msgstr "لطفا برای مکان هشتم خود طول و عرض جغرافیایی را وارد کنید."
+
+msgid "Please enter the latitude for your fifth location."
+msgstr "لطفا عرض جغرافیایی مکان پنجم خود را وارد کنید."
+
+msgid "Please enter the latitude for your first location."
+msgstr "لطفا برای اولین مکان خود عرض جغرافیایی وارد کنید."
+
+msgid "Please enter the latitude for your fourth location."
+msgstr "لطفا برای مکان چهارم عرض جغرافیایی را وارد کنید."
+
+msgid "Please enter the latitude for your second location."
+msgstr "لطفا عرض جغرافیایی مکان دوم خود را وارد کنید."
+
+msgid "Please enter the latitude for your seventh location."
+msgstr "لطفا برای مکان هفتم خود طول و عرض جغرافیایی وارد کنید."
+
+msgid "Please enter the latitude for your sixth location."
+msgstr "لطفا عرض جغرافیایی مکان ششم خود را وارد کنید."
+
+msgid "Please enter the latitude for your third location."
+msgstr "لطفا عرض جغرافیایی مکان سوم خود را وارد کنید."
+
+msgid "Please enter the longitude for the maps center point."
+msgstr "لطفا طول مرکز نقشه را وارد کنید."
+
+msgid "Please enter the longitude for your eighth location."
+msgstr "لطفا طول جغرافیایی را برای مکان هشتم خود وارد کنید."
+
+msgid "Please enter the longitude for your fifth location."
+msgstr "لطفا طول مکان پنجم خود را وارد کنید."
+
+msgid "Please enter the longitude for your first location."
+msgstr "لطفا برای اولین مکان خود طول جغرافیایی را وارد کنید."
+
+msgid "Please enter the longitude for your fourth location."
+msgstr "لطفا طول جغرافیایی را برای مکان چهارم خود وارد کنید."
+
+msgid "Please enter the longitude for your second location."
+msgstr "لطفا طول جغرافیایی را برای مکان دوم خود وارد کنید."
+
+msgid "Please enter the longitude for your seventh location."
+msgstr "لطفا طول مکان هفتم خود را وارد کنید."
+
+msgid "Please enter the longitude for your sixth location."
+msgstr "لطفا طول جغرافیایی را برای مکان ششم خود وارد کنید."
+
+msgid "Please enter the longitude for your third location."
+msgstr "لطفا طول جغرافیایی را برای مکان سوم خود وارد کنید."
+
+msgid ""
+"Please enter your desired height for the home slider. The safe minimum "
+"height is 400. The theme demo uses 650."
+msgstr ""
+"لطفا ارتفاع مورد نظر خود را برای لغزنده خانه وارد کنید. حداقل ارتفاع ایمنی "
+"400 است. نسخه ی نمایشی 650 استفاده می کند."
+
+msgid "Please enter your desired your products per page (default is 12)"
+msgstr "لطفا محصولات خود را در هر صفحه وارد کنید (پیش فرض 12 است)"
+
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+"لطفا به ما کمک می کنیم تا پنل خود را با استفاده از آمارهای ناشناس استفاده "
+"جمع آوری کنیم ، بنابراین می دانیم که پیکربندی ها ،افزونه و قالب هاا برای "
+"آزمایش برای اطمینان از سازگاری می شناسیم."
+
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+"لطفا به ردیاب موضوع فریم ورک ردوکس بروید و URL زیر را برای ما ارسال کنید. "
+"لطفا همچنین هر گونه اطلاعاتی را ارائه دهید که به ما کمک می کند مسئله خود را "
+"دوباره تولید کنید."
+
+msgid ""
+"Please select how you would like the secondary header bar to display on "
+"mobile devices."
+msgstr ""
+"لطفا نحوه نمایش نوار سربرگ ثانویه را در دستگاه های تلفن همراه انتخاب کنید."
+
+msgid ""
+"Please select how you would like your dropdowns to align to the parent menu "
+"item."
+msgstr "لطفاً نحوه تراز کردن منوی کشویی با مورد منوی والد را انتخاب کنید."
+
+msgid "Please select how you would like your header content to align."
+msgstr "لطفاً نحوه تراز کردن محتوای سربرگ خود را انتخاب کنید."
+
+msgid ""
+"Please select how you would like your next/previous post links to function."
+msgstr "لطفاً نحوه عملکرد پیوندهای بعدی/قبلی خود را انتخاب کنید."
+
+msgid ""
+"Please select if you would like an additional header bar above the main "
+"navigation."
+msgstr ""
+"لطفا اگر می خواهید یک نوار هدر اضافی بالای ناوبری اصلی داشته باشید را انتخاب "
+"کنید."
+
+msgid "Please select layout you would like to use on your main shop page."
+msgstr ""
+"لطفا چیدمانی را که می خواهید در صفحه اصلی فروشگاه خود استفاده کنید را انتخاب "
+"کنید."
+
+msgid "Please select layout you would like to use on your single product page."
+msgstr "لطفا طرح مورد نظر خود را در صفحه محصول خود انتخاب کنید."
+
+msgid "Please select style for your quantity buttons."
+msgstr "لطفا برای دکمه های کمیت خود طرح انتخاب کنید."
+
+msgid ""
+"Please select the amount of spacing you would like for your auto masonry "
+"layout"
+msgstr ""
+"لطفا مقدار فاصله ای که می خواهید برای طرح کاشی خودکار خود را انتخاب کنید"
+
+msgid ""
+"Please select the color you desire for your header navigation links when the "
+"dark header is triggered. This occurs on dark Nectar Slides, dark rows when "
+"using permanent transparent etc."
+msgstr ""
+"لطفا هنگام فعال شدن سربرگ تیره ، رنگ مورد نظر خود را برای پیوندهای ناوبری "
+"سربرگ خود انتخاب کنید. این مورد در اسلایدهای نکتار تیره ، ردیف های تیره "
+"هنگام استفاده از شفاف دائمی و غیره رخ می دهد."
+
+msgid ""
+"Please select the color you desire for your header text before the user "
+"scrolls"
+msgstr ""
+"لطفا رنگ مورد دیدگاه خود را برای متن سربرگ خود قبل از حرکت کاربر انتخاب کنید"
+
+msgid ""
+"Please select the functionality for how dropdowns will behave in the left "
+"header navigation."
+msgstr ""
+"لطفاً عملکرد مربوط به نحوه عملکرد کشویی را در پیمایش سربرگ سمت چپ را انتخاب "
+"کنید."
+
+msgid ""
+"Please select the functionality for how dropdowns will behave in your off "
+"canvas menu."
+msgstr "لطفا عملکردهای کشویی را در فهرست خارج از بوم خود انتخاب کنید."
+
+msgid ""
+"Please select the grid layout for your masonry portfolio. This will change "
+"the dimensions of the \"Masonry Item Sizing\" field you choose for your "
+"projects in the project configuration metabox. After changing this, you will "
+"need to run the"
+msgstr ""
+"لطفا طرح شبکه را برای طرح کاشی نمونه کارهای خود را انتخاب کنید. این ابعاد "
+"قسمت \"اندازه طرح کاشی\" را که برای پروژه های خود در متاباکس پیکربندی پروژه "
+"انتخاب می کنید تغییر می دهد. پس از تغییر این ، شما نیاز به اجرای آن دارید"
+
+msgid "Please select the header text you would like above the related posts\""
+msgstr "لطفاً متن سربرگ مورد نظر خود را بالاتر از مطالب مرتبط انتخاب کنید \""
+
+msgid ""
+"Please select the hover effect you would like for links in your footer "
+"copyright area."
+msgstr ""
+"لطفا جلوه ای را که می خواهید برای پیوندها در منطقه حق چاپ صفحه خود انتخاب "
+"کنید ، انتخاب کنید."
+
+msgid "Please select the layout to use for your single project template."
+msgstr "لطفا طرح مورد استفاده برای الگوی تک پروژه خود را انتخاب کنید."
+
+msgid "Please select the layout you desire."
+msgstr "لطفا طرح مورد نظر خود را انتخاب کنید."
+
+msgid "Please select the layout you would like for your footer copyright area."
+msgstr "لطفا طرح مورد نظر خود را برای قسمت کپی رایت در پاورقی خود انتخاب کنید."
+
+msgid "Please select the loading animation you would like"
+msgstr "لطفا انیمیشن لودینگی را که دوست دارید، انتخاب کنید"
+
+msgid "Please select the navigation you would like your projects to use."
+msgstr "لطفا ناوبری شما می خواهم پروژه های خود را برای استفاده انتخاب کنید."
+
+msgid ""
+"Please select the number of columns you would like for your footer. Note: "
+"using the 1 Column layout will also center the copyright area."
+msgstr ""
+"لطفا تعداد ستونهایی را که برای پا می خواهید انتخاب کنید: توجه: با استفاده از "
+"طرح 1 ستون ، قسمت حق چاپ نیز مرکز خواهد شد."
+
+msgid "Please select the number of columns you would like for your portfolio."
+msgstr "لطفا تعداد ستون های مورد دیدگاه خود را برای نمونه کارها انتخاب کنید."
+
+msgid ""
+"Please select the opacity you desire for your header text before the user "
+"scrolls"
+msgstr ""
+"لطفا قبل از پیمایش کاربر ، تاری را که برای متن سربرگ خود می خواهید را انتخاب "
+"کنید"
+
+msgid "Please select the spacing you would like between your items"
+msgstr "لطفا فاصله مورد نظر خود را انتخاب کنید"
+
+msgid "Please select the style you would like for the related posts\""
+msgstr "لطفاً طرحی را که براین مطالب مرتبط می خواهید را انتخاب کنید \""
+
+msgid "Please select the style you would like for your AJAX cart."
+msgstr "لطفا طرحی را که برای سبد خرید AJAX خود می خواهید انتخاب کنید."
+
+msgid ""
+"Please select the style you would like your post navigation to display in."
+msgstr ""
+"لطفاً طرحی را که دوست دارید پیمایش نوشته شما در آن نمایش داده شود را انتخاب "
+"کنید."
+
+msgid ""
+"Please select the style you would like your posts to use when the masonry "
+"layout is displayed"
+msgstr ""
+"لطفا هنگام نمایش طرح کاشی ، طرحی را که مایلید از پستهایتان استفاده کنید را "
+"انتخاب کنید"
+
+msgid ""
+"Please select the style you would like your posts to use when the standard "
+"layout is displayed"
+msgstr ""
+"لطفا هنگام نمایش طرح استاندارد ، طرح را که مایلید از پستهایتان استفاده کنید "
+"را انتخاب کنید"
+
+msgid ""
+"Please select the style you would like your products to display in (single "
+"product page styling will also vary slightly with each)"
+msgstr ""
+"لطفا طرحی را که دوست دارید محصولات شما در آن نمایش داده شوند انتخاب کنید "
+"(طرح صفحه تک محصول نیز با هر کدام کمی متفاوت خواهد بود)"
+
+msgid ""
+"Please select the style you would like your projects to display in on your "
+"portfolio pages."
+msgstr ""
+"لطفا طرحی را که دوست دارید پروژه هایتان در صفحات نمونه کارها نشان دهند ، "
+"انتخاب کنید."
+
+msgid ""
+"Please select the type of shadow you would like to appear on your footer"
+msgstr "لطفا نوع سایه را انتخاب کنید"
+
+msgid ""
+"Please select what area you would like your tabs to display in on the single "
+"product page"
+msgstr "موقعیت نمایش زبانه را در صفحه محصول واحد انتخاب کنید"
+
+msgid ""
+"Please select what gallery type you would like on your single product page"
+msgstr "لطفا برای صفحه محصول واحد خود کدام نوع گالری را انتخاب کنید"
+
+msgid "Please select your blog format here."
+msgstr "لطفا قالب وبلاگ خود را اینجا انتخاب کنید."
+
+msgid "Please select your blog header format here."
+msgstr "لطفا قالب سبرگ وبلاگ خود را اینجا انتخاب کنید."
+
+msgid "Please select your dropdown box shadow here."
+msgstr "لطفا سایه کشویی خود را اینجا انتخاب کنید."
+
+msgid "Please select your dropdown opacity here"
+msgstr "لطفا شفافیت منوی دراپ داون خود را از اینجا انتخاب کنید"
+
+msgid "Please select your header box shadow here."
+msgstr "لطفا سایه جعبه سربرگ خود را اینجا انتخاب کنید."
+
+msgid ""
+"Please select your header color scheme here. Color pickers below will only "
+"be used when using \"Custom\" for the color scheme."
+msgstr ""
+"لطفا طرح رنگ سربرگ خود را اینجا انتخاب کنید. از انتخابگرهای رنگ زیر فقط "
+"هنگام استفاده از \"سفارشی\" برای طرح رنگ استفاده می شود."
+
+msgid "Please select your header dropdown link hover/active effect here."
+msgstr "لطف افکت هاور/فعال پیوند کشویی عنوان را در اینجا انتخاب کنید."
+
+msgid "Please select your header link hover/active effect here."
+msgstr "لطفا لینک سربرگ شناور / اثر فعال خود را اینجا انتخاب کنید."
+
+msgid "Please select your off canvas header icon style."
+msgstr "لطفا طرح آیکون سربرگ خاموش بوم خود را انتخاب کنید."
+
+msgid "Please select your off canvas menu overlay strength here."
+msgstr "لطفا قدرت پوشش منوی بوم خاموش خود را در اینجا انتخاب کنید."
+
+msgid ""
+"Please select your off canvas menu style here. The \"Slide Out From Right "
+"Hover Triggered\" style will force the \"Full Width Header\" option "
+"regardless of your selection."
+msgstr ""
+"لطفا طرح منوی خاموش بوم خود را اینجا انتخاب کنید. سبک \"اسلاید را از سمت "
+"راست حرکت کنید\" گزینه \"سربرگ تمام عرض\" را بدون در نظر گرفتن انتخاب شما "
+"مجبور می کند."
+
+msgid "Please select your pagination type here."
+msgstr "لطفا نوع صفحه بندی خود را اینجا انتخاب کنید."
+
+msgid "Please select your transition effect here"
+msgstr "لطفا افکت گذار خود را در اینجا انتخاب کنید"
+
+msgid "Please set your header BG opacity here."
+msgstr "لطفا تیرگی BG سربرگ خود را در اینجا تنظیم کنید."
+
+msgid "Please try again with different keywords."
+msgstr "لطفا دوباره با کلمات کلیدی مختلف امتحان کنید."
+
+msgid ""
+"Please upload an image that will be used for all the markers on your map."
+msgstr ""
+"لطفا تصویری را بارگذاری کنید که برای همه نشانگرهای نقشه شما استفاده می شود."
+
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+"لطفا چند دقیقه صبر کنید، سپس صفحه را بازخوانی کنید. قادر به بارگیری برخی از "
+"اسکریپتهای میزبان نمی باشد."
+
+msgid "Plugin"
+msgstr "افزونه"
+
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت نصب شد."
+
+msgid "Plugin activation failed."
+msgstr "فعالسازی افزونه با خطا مواجه شد."
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نشد. نسخه جدیدتری از %s برای این قالب نیاز است. لطفا افزونه را "
+"بروز کنید."
+
+msgid "Portfolio"
+msgstr "نمونه کار"
+
+msgid "Portfolio */"
+msgstr "نمونه کار */"
+
+msgid "Portfolio Caption/Excerpt"
+msgstr "نمونه کارها عنوان/انتصاب"
+
+msgid "Portfolio Item"
+msgstr "موارد نمونه کارها"
+
+msgid "Portfolio Pagination"
+msgstr "صفحه بندی کالا"
+
+msgid "Portfolio Sidebar Follow on Scroll"
+msgstr "نوار کناری نمونه کارها پیمایش را دنبال کنید"
+
+msgid "Portfolio Social Sharing Options"
+msgstr "گزینه های اشتراک اجتماعی نمونه کارها"
+
+msgid "Portfolio/Post Grid Filters"
+msgstr "فیلترهای طرح شبکه نوشته/نمونه کارها"
+
+msgid "Post Date Functionality"
+msgstr "عملکرد تاریخ نوشته"
+
+msgid "Post Meta"
+msgstr "اطلاعات نوشته"
+
+msgid "Post Navigation Links On Single Post Page"
+msgstr "ارسال پیوندهای پیمایش در صفحه نوشته واحد"
+
+msgid "Post Navigation Ordering"
+msgstr "بر اساس ناوربری نوشته"
+
+msgid "Post Navigation Style"
+msgstr "طرح ناوبری نوشته"
+
+msgid "Posts"
+msgstr "نوشته ها"
+
+msgid "Posts Page"
+msgstr "صفحه نوشته ها"
+
+msgid "Pre-Packaged"
+msgstr "از قبل آماده"
+
+msgid "Press enter to begin your search"
+msgstr "برای شروع جستجو اینتر را بزنید"
+
+msgid "Press return or enter to expand"
+msgstr "دکمه بازگشت را بزنید و یا اینتر را برای بسته شدن"
+
+msgid "Press return or enter to open"
+msgstr "بازگشت را فشار دهید و یا وارد برای باز کردن"
+
+msgid "Press return or enter to open this panel"
+msgstr "برای باز کردن این پانل فشار را فشار دهید یا وارد شوید"
+
+msgid "Previous"
+msgstr "قبلی"
+
+msgid "Previous Post"
+msgstr "نوشته قبلی"
+
+msgid "Price Hidden, Minimal Buttons"
+msgstr "دکمه های حداقل قیمت پنهان"
+
+msgid "Price Visible, Flex Buttons"
+msgstr "دکمه های فلکس قابل مشاهده است"
+
+msgid "Price/Star Ratings on Hover"
+msgstr "هاور در امتیازدهی ستاره/قیمت"
+
+msgid "Product"
+msgstr "محصول"
+
+msgid "Product Archive Page BG Color"
+msgstr "رنگ BG صفحه بایگانی محصول"
+
+msgid "Product Border Radius"
+msgstr "گردی حاشیه محصولات"
+
+msgid "Product Category Description"
+msgstr "توضیحات دسته بندی محصولات"
+
+msgid "Product Category Header Auto Height"
+msgstr "ارتفاع خودکار سربرگ دسته بندی محصولات"
+
+msgid "Product Category Header Max Content Width"
+msgstr "حداکثر عرض محتوا سربرگ دسته بندی محصولات"
+
+msgid "Product Category Header Parallax Scrolling"
+msgstr "پیمایش پارالاکس سربرگ دسته بندی محصولات"
+
+msgid "Product Category Header Roundness"
+msgstr "گردی سربرگ دسته بندی محصولات"
+
+msgid "Product Category Header Sizing"
+msgstr "اندازه سربرگ دسته بندی محصولات"
+
+msgid "Product Gallery BG Color"
+msgstr "رنگ BG گالری محصولات"
+
+msgid "Product Gallery Width Percent"
+msgstr "درصد عرض گالری محصولات"
+
+msgid "Product Price Typography"
+msgstr "تایپوگرافی قیمت محصول"
+
+msgid "Product Reviews Style"
+msgstr "طرح دیدگاه محصولات"
+
+msgid "Product Style"
+msgstr "طرح محصول"
+
+msgid "Product Tab Heading Typography"
+msgstr "تایپوگرافی عنوان زبانه محصول"
+
+msgid "Product Tab Position"
+msgstr "موقعیت زبانه محصول"
+
+msgid "Product Title Typography"
+msgstr "تایپوگرافی عنوان محصول"
+
+msgid "Product Variable Product Dropdown Style"
+msgstr "محصول متغیر سبک طزح محصول"
+
+msgid "Products"
+msgstr "محصولات"
+
+msgid "Products Per Page"
+msgstr "محصولات در هر صفحه"
+
+msgid "Project Item Spacing"
+msgstr "فاصله آیتم پروژه"
+
+msgid "Project Style"
+msgstr "نمایش با ظاهر اصلی"
+
+msgid "Quantity Button Style"
+msgstr "طرح دکمه تعداد"
+
+msgid "Quantity: "
+msgstr "تعداد : "
+
+msgid "Quick View"
+msgstr "نمایش سریع"
+
+msgid "RSS URL"
+msgstr "آدرس RSS"
+
+msgid "Rate&hellip;"
+msgstr "امتیاز &hellip;"
+
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+msgid "Recommended For You"
+msgstr "توصیه شده برای شما"
+
+msgid "Redux Boostrap Tests"
+msgstr "تست های بوت استرپ ردوکس"
+
+msgid "Redux Code Styles"
+msgstr "کد طرح ردوکس"
+
+msgid "Redux Data Directory Writable"
+msgstr "دایرکتوری ردوکس"
+
+msgid "Redux Extensions"
+msgstr "افزونه های ردوکس"
+
+msgid "Redux Framework"
+msgstr "فریمورک ریداکس"
+
+msgid "Redux Framework - A Community Effort"
+msgstr "فریم ورک ردوکس - یک تلاش جامعه"
+
+msgid "Redux Framework - Changelog"
+msgstr "فریم ورک ردوکس - تغییرات"
+
+msgid "Redux Framework - Extensions"
+msgstr "فریم ورک ردوکس - افزودنی ها"
+
+msgid "Redux Framework - Support"
+msgstr "فریم ورک ردوکس - پشتیبانی"
+
+msgid "Redux Framework - System Status"
+msgstr "فریم ورک ردوکس - وضعیت سیستم"
+
+msgid "Redux Framework Changelog"
+msgstr "گزارش تغییرات فریم ورک ردوکس"
+
+msgid "Redux Framework Status"
+msgstr "وضعیت فریم ورک ردوکس"
+
+msgid "Redux Framework Warning"
+msgstr "هشدار فریم ورک ردوکس"
+
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+"فریم ورک ردوکس هسته اصلی بسیاری از محصولات موجود در وب است. این یک چارچوب "
+"گزینه ای است که توسعه دهندگان از آن استفاده می کنند\n"
+"             محصولات خود را ارتقا دهید."
+
+msgid "Redux Generator"
+msgstr "ژنراتور ردوکس"
+
+msgid "Redux Instance: "
+msgstr "نمونه ردوکس : "
+
+msgid "Redux Plugin File"
+msgstr "فایل افزونه ردوکس"
+
+msgid "Redux Resting Diles"
+msgstr "Redux Resting Diles"
+
+msgid "Redux Unit Testing"
+msgstr "تست واحد ردوکس"
+
+msgid "Redux Version"
+msgstr "نسخه ردوکس"
+
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+"ردوکس و پسوندهای آن داده ها را در فهرست <code> بارگذاری ها </code> می نویسند."
+" این فهرست باید نوشته شود."
+
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+"ریداکس است توسط یک جامعه از توسعه دهندگان در سراسر جهان ایجاد شده است. "
+"میخواهید نامتان ذکر شود؟<a href=\"%d\" target=\"_blank\">تلاش جهت کمک به "
+"ریداکس</a>."
+
+msgid "Redux localization utilities"
+msgstr "محلی سازی کاربردپذیری ریداکس"
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Regular"
+msgstr "لستاندارد"
+
+msgid "Related Posts"
+msgstr "نوشته های مرتبط"
+
+msgid "Related Posts On Single Post Page"
+msgstr "مطالب مرتبط در صفحه نوشته واحد"
+
+msgid "Related Posts Style"
+msgstr "طرح مطالب مرتبط"
+
+msgid "Related Posts Title Text"
+msgstr "متن عنوان مطالب مرتبط"
+
+msgid "Related/Upsell Products Carousel"
+msgstr "چرخ فلک/محصولات پرفروش مرتبط"
+
+msgid "Related/Upsell Products Carousel Max Products"
+msgstr "چرخ فلک حداکثر محصولات مرتبط / محصولات پرفروش محصولات"
+
+msgid "Remember me"
+msgstr "مرا به خاطر بسپار"
+
+msgid "Remote Get"
+msgstr "دریافت از راه دور"
+
+msgid "Remote Post"
+msgstr "ارسال از راه دور"
+
+msgid "Remove"
+msgstr "حذف"
+
+msgid "Remove \"Additional Information\" Tab From Product Page"
+msgstr "زبانه \"اطلاعات اضافی\" را از صفحه محصول حذف کنید"
+
+msgid "Remove Block Editor (Gutenberg) CSS"
+msgstr "حذف CSS ویرایشگر بلوک (گوتنبرگ)"
+
+msgid "Remove Border On Transparent Header"
+msgstr "شفافیت حاشیه برای سربرگ را حذف کنید"
+
+msgid "Remove Comment Functionality On Projects"
+msgstr "حذف عملکرد نظر در پروژه ها"
+
+msgid "Remove Comment Number"
+msgstr "حذف تعداد دیدگاه ها"
+
+msgid "Remove Header search"
+msgstr "نمایش گزینه جستجو"
+
+msgid "Remove Images"
+msgstr "حذف تصاویر"
+
+msgid "Remove Legacy Icon CSS"
+msgstr "Legacy Icon CSS را حذف کنید"
+
+msgid "Remove Nectar Love Button"
+msgstr "حذف دکمه نکتار دوست داشتن"
+
+msgid "Remove Post Author"
+msgstr "حذف نویسنده نوشته"
+
+msgid "Remove Post Date"
+msgstr "حذف تاریخ نوشته"
+
+msgid "Remove SKU From Product Page"
+msgstr "حذف SKU از صفحه محصول"
+
+msgid "Remove Search Bottom Helper Text"
+msgstr "حذف متن راهنمای پایین جستجو"
+
+msgid "Remove Single Post Author"
+msgstr "حذف بیوگرافی نویسنده نوشته"
+
+msgid "Remove Single Post Comment Number"
+msgstr "حذف تعداد دیدگاه ها در نوشته واحد"
+
+msgid "Remove Single Post Date"
+msgstr "حذف تاریخ ارسال نوشته"
+
+msgid "Remove Single Post Nectar Love Button"
+msgstr "حذف دکمه نکتار دوست داشتن نوشته واحد"
+
+msgid "Remove Upload"
+msgstr "حذف بارگذاری"
+
+msgid "Remove WordPress Emoji Script/CSS"
+msgstr "حذف ایموجی CSS/JS وردپرس"
+
+msgid "Remove this item"
+msgstr "این مورد را بردارید"
+
+msgid "Removes extra fontawesome icon CSS for legacy users."
+msgstr "CSS نماد جذاب فونت آسم اضافی را برای کاربران قدیمی از بین می برد."
+
+msgid ""
+"Removes the WordPress Emoji assets which automatically convert emoticons to "
+"WP specific emojis."
+msgstr ""
+"ایموجی وردپرس را که به طور خودکار شکلک ها را به شکلک های خاص وردپرس تبدیل می "
+"کند ، حذف می کند."
+
+msgid "Removes the block editor element css."
+msgstr "CSS عنصر ویرایشگر بلوک را حذف می کند."
+
+msgid "Repeat"
+msgstr "با تکرار"
+
+msgid "Required"
+msgstr "لازم"
+
+msgid "Required Update not Available"
+msgstr "بروزرسانی مورد نیاز در دسترس نیست"
+
+msgid "Requires Update"
+msgstr "نیاز به بروزرسانی"
+
+msgid "Reset All"
+msgstr "ریست همه"
+
+msgid "Reset Section"
+msgstr "بخش تنظیم مجدد"
+
+msgid "Responsive Options"
+msgstr "تنظیمات واکنشگرایی"
+
+msgid "Responsive Settings"
+msgstr "تنظیمات واکنشگرایی"
+
+msgid "Responsive Sizing"
+msgstr "اندازه واکنشگرایی"
+
+msgid "Responsiveness"
+msgstr "واکنش گرایی"
+
+msgid "Results For"
+msgstr "نتایج برای"
+
+msgid "Retina Logo Upload"
+msgstr "بارگذاری لوگو رتینا"
+
+msgid ""
+"Retina version of the header starting dark logo.  (If nothing is uploaded, "
+"the default logo will be used)"
+msgstr "این لوگو نیز در زمینه سفید رنگ استفاده می شود !! توجه کنید !"
+
+msgid "Retina version of the header starting logo."
+msgstr "لوگو سربرگ برای نسخه صفحه نمایش رتینا."
+
+msgid "Return to Required Plugins Installer"
+msgstr "برگشت به نصب کننده افزونه های ضروری"
+
+msgid "Return to the Dashboard"
+msgstr "برگشت به پیشخوان"
+
+msgid "Reverse Order"
+msgstr "به صورت برعکس"
+
+msgid "Reverse Order:"
+msgstr "به صورت برعکس :"
+
+msgid "Right"
+msgstr "راست"
+
+msgid "Right Bottom"
+msgstr "پایین راست"
+
+msgid "Right Center"
+msgstr "راست مرکز"
+
+msgid "Right Sidebar"
+msgstr "نوارکناری راست"
+
+msgid "Right Top"
+msgstr "بالا راست"
+
+msgid "Rounded"
+msgstr "گرد شده"
+
+msgid "Rounded Circles With Shadow"
+msgstr "سایه حلقه های با گردی"
+
+msgid "Rounded W/ Shadow"
+msgstr "سایه/گرد شده"
+
+msgid "Row"
+msgstr "ردیف"
+
+msgid "Row ID"
+msgstr "شناسه ردیف"
+
+msgid "Row stretch"
+msgstr "ردیف کشش"
+
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN نصب شده"
+
+msgid "Salient"
+msgstr "سالینت"
+
+msgid "Salient Core"
+msgstr "Salient Core"
+
+msgid "Salient Demo Importer"
+msgstr "Salient Demo Importer"
+
+msgid "Salient Home Slider"
+msgstr "Salient Home Slider"
+
+msgid "Salient Nectar Slider"
+msgstr "Salient Nectar Slider"
+
+msgid "Salient Options"
+msgstr "تنظیمات سالینت"
+
+msgid "Salient Portfolio"
+msgstr "Salient Portfolio"
+
+msgid "Salient Shortcodes"
+msgstr "Salient Shortcodes"
+
+msgid "Salient Social"
+msgstr "Salient Social"
+
+msgid "Salient Version 13"
+msgstr "تنظیمات سالینت 13"
+
+msgid "Salient WPBakery Page Builder"
+msgstr "Salient WPBakery Page Builder"
+
+msgid "Salient Widgets"
+msgstr "Salient Widgets"
+
+msgid ""
+"Salient has been going strong for over 7 years and is constantly evolving. "
+msgstr "سالینت بیش از 7 سال است که قویتر است و دائما در حال پیشرفت است. "
+
+msgid ""
+"Salient has separated all of the custom post types and plugin territory "
+"functionality into individual plugins. Please install and activate the "
+"required plugins and any of the desired optional plugins which you wish to "
+"use on your site."
+msgstr ""
+"ویژگی های قالب به صورت تفکیک شده میباشند و شما باید آن ها را با نصب افزونه "
+"مورد نیاز به قالب خود اضافه کنید. پس افزونه های زیر را با دقت دیدگاه و سپس "
+"موارد مورد نیاز را نصب کنید."
+
+msgid ""
+"Salient has separated all of the custom post types and plugin territory "
+"functionality into individual plugins. Please install and activate the "
+"required plugins and any of the desired optional plugins which you wish to "
+"use on your site:"
+msgstr ""
+"سالینت همه نوع ارسال های سفارشی و عملکرد فونت افزونه را در افزونه های "
+"جداگانه قرار داده است. لطفا افزونه های مورد نیاز و هر یک از افزونه های "
+"اختیاری مورد دیدگاه را که می خواهید در سایت خود استفاده کنید نصب و فعال کنید:"
+
+msgid ""
+"Salient will use the accent color with the light/dark schemes. To create "
+"your own color scheme and use the color pickers below, ensure that you choose"
+msgstr ""
+"برجسته با استفاده از طرح های نور/تاریک از تایید استفاده می کند. برای ایجاد "
+"طرح رنگی خود و استفاده از انتخاب کننده های رنگ زیر ، از انتخاب خود اطمینان "
+"حاصل کنید"
+
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+msgid ""
+"Save my name, email, and website in this browser for the next time I comment."
+msgstr ""
+"نام ایمیل و وب سایت های من در این مرورگر برای دفعه بعد من دیدگاه ذخیره کنید."
+
+msgid "Scale on Hover"
+msgstr "هاور در مقایس"
+
+msgid "Scroll"
+msgstr "اسکرول"
+
+msgid "Scroll Animation"
+msgstr "انیمیشن اسکرول"
+
+msgid "Search"
+msgstr "جستجو"
+
+msgid "Search Font Size"
+msgstr "اندازه فونت جستجو"
+
+msgid "Search Placeholder Text"
+msgstr "مکان نگهدارنده جستجو"
+
+msgid "Search Results Template"
+msgstr "الگو نتایج جستجو"
+
+msgid "Search for:"
+msgstr "جستجو برای :"
+
+msgid "Search..."
+msgstr "جستجو کردن..."
+
+msgid "Secondary Header Background"
+msgstr "پس زمینه سربرگ دوم"
+
+msgid "Secondary Header Bar"
+msgstr "نوار سربرگ ثانویه"
+
+msgid "Secondary Header Font"
+msgstr "فونت سربرگ دوم"
+
+msgid "Secondary Header Font Hover"
+msgstr "هاور فونت سربرگ ثانویه"
+
+msgid "Secondary Header Link URL"
+msgstr "URL پیوند سربرگ ثانویه"
+
+msgid "Secondary Header Mobile Functionality"
+msgstr "عملکرد تلفن همراه سربرگ ثانویه"
+
+msgid "Secondary Header Text"
+msgstr "متن سربرگ ثانویه"
+
+msgid "Section Defaults Restored!"
+msgstr "بخش به طور پیشفرض بازیابی شد!"
+
+msgid "Section via hook"
+msgstr "بخش از طریق جذابیت"
+
+msgid "See Through"
+msgstr "مشاهده از طریق"
+
+msgid "Select Color"
+msgstr "انتخاب رنگ"
+
+msgid "Select Support Type"
+msgstr "انتخاب نوع پشتیبانی"
+
+msgid "Select Your Support Type"
+msgstr "نوع پشتیبانی شما را انتخاب کنید"
+
+msgid "Select an item"
+msgstr "انتخاب یک آیتم"
+
+msgid ""
+"Select any pages you wish to exclude the Call to Action section from. You "
+"can select multiple pages."
+msgstr ""
+"صفحاتی را که مایلید از بخش \"تماس به اقدام\" جدا شوید ، انتخاب کنید. می "
+"توانید چندین صفحه را انتخاب کنید."
+
+msgid "Select column width."
+msgstr "عرض ستون را انتخاب کنید."
+
+msgid "Select columns position within row."
+msgstr "موقعیت ستون ها را در ردیف انتخاب کنید."
+
+msgid "Select content position within columns."
+msgstr "انتخاب موقعیت محتوا در داخل ستون ها ."
+
+msgid "Select gap between columns in row."
+msgstr "فاصله بین ستون های ردیف را انتخاب کنید."
+
+msgid "Select how to display the search results as the user types."
+msgstr "نحوه نمایش نتایج جستجو را به عنوان نوع کاربر انتخاب کنید."
+
+msgid "Select image from media library."
+msgstr "تصویر را از کتابخانه رسانه ها انتخاب کنید."
+
+msgid ""
+"Select stretching options for row and content (Note: stretched may not work "
+"properly if parent container has \"overflow: hidden\" CSS property)."
+msgstr ""
+"انتخاب تنظیمات کشش برای ردیف و محتوا ( کشش ممکن هست به خاطر تنظیمات والد خود "
+"کار نکند )"
+
+msgid "Select the animation to use when dropdowns are revealed."
+msgstr "انیمیشن را انتخاب کنید تا هنگام آشکار کردن کشویی استفاده شود."
+
+msgid ""
+"Select which typography settings the single product price should inherit "
+"styling from."
+msgstr "قیمت تک محصول از بخش تنظیمات را انتخاب و وارد کنید."
+
+msgid ""
+"Select which typography settings the single product tab headings should "
+"inherit styling from. e.g. \"Reviews for ___\", \"Related products\" etc."
+msgstr ""
+"عنوان زبانه یک محصول از کدام تنظیمات تایپوگرافی باید طرح را به ارث برسانند. "
+"به عنوان مثال، \"نظرات برای ___\" ، \"محصولات مرتبط\" و غیره."
+
+msgid ""
+"Select which typography settings the single product title headings should "
+"inherit styling from."
+msgstr "عناوین عنوان تک محصول را از کدام تنظیمات تایپوگرافی استفاده کنید."
+
+msgid ""
+"Select your desired style which will be used for submit buttons throughout "
+"your site"
+msgstr ""
+"طرح مورد نظر خود را انتخاب کنید که برای دکمه های ارسال در سایت شما مورد "
+"استفاده قرار می گیرد"
+
+msgid "Select your loading icon style here"
+msgstr "طرح آیکون بارگیری خود را در اینجا انتخاب کنید"
+
+msgid "Separate Dropdown Parent Link From Dropdown Toggle"
+msgstr "جدا کردن لینک والد دراپ داون از تاگل دراپ داون"
+
+msgid "Server Environment"
+msgstr "محیط سرور"
+
+msgid "Server Info"
+msgstr "اطلاعات سرور"
+
+msgid "Set a custom font size (in px) for the header search navigation."
+msgstr "اندازه فونت سفارشی (در px) را برای پیمایش جستجوی سربرگ تنظیم کنید."
+
+msgid ""
+"Set the amount (in %) you would like each heading tag to decrease by for "
+"every viewport. For example, a value of \"100\" would mean the font stays at "
+"100% of the font size defined and a value of \"50\" would mean the font "
+"shrinks to \"50%\" of the font size defined. Note: these will apply to all "
+"heading tags defined by you throughout your site, but some Nectar Elements "
+"will override the sizing within themselves."
+msgstr ""
+"مقدار (در)) را که می خواهید هر برچسب عنوان برای هر نمای نمای کاهش یابد ، "
+"تنظیم کنید. به عنوان مثال ، مقدار \"100\" بدین معنی است که قلم در 100٪ "
+"اندازه فونت تعریف شده باقی می ماند و مقدار \"50\" به معنی کوچک شدن قلم به "
+"\"50٪\" از اندازه فونت تعریف شده است. توجه: این موارد برای همه برچسب های "
+"عنوان تعریف شده توسط شما در کل سایت شما اعمال می شوند ، اما برخی از عناصر "
+"نکتار اندازه خود را لغو می کنند."
+
+msgid ""
+"Set the padding that will display on each side of your header menu items - "
+"space will be set in pixels."
+msgstr ""
+"فاصله داخلی را تنظیم کنید که در هر طرف از موارد منوی سرصفحه شما نمایش داده "
+"شود - فضا بر اساس پیکسل تنظیم می شود."
+
+msgid "Set this to match the BG color of your product images."
+msgstr "برای مطابقت با رنگ پس زمینه تصاویر محصول خود را تنظیم کنید."
+
+msgid "Sets the style of all form elements used."
+msgstr "مجموعه طرح از همه عناصر فرم استفاده می شود."
+
+msgid "Settings Imported!"
+msgstr "تنظیمات وارد شد!"
+
+msgid "Settings Saved!"
+msgstr "تنظیمات ذخیره شدند!"
+
+msgid "Settings have changed, you should save them!"
+msgstr "تنظیمات تغییر کردند ، باید ذخیره شون کنید!"
+
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" "
+"target=\"_blank\">following article</a> before asking for support from us "
+"directly."
+msgstr ""
+"باید توسعه واکنشگرا نمی باشد، به عنوان خوانده شده <a href=\"%s\" "
+"target=\"_blank\">مقاله زیر</a> قبل از پرسیدن برای حمایت از ما به طور مستقیم."
+
+msgid "Show"
+msgstr "نمایش"
+
+msgid "Show Arrow"
+msgstr "نمایش فلش"
+
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+msgid "Show Last Edited Date"
+msgstr "نمایش تاریخ آخرین ویرایش"
+
+msgid "Show More or Less Locations"
+msgstr "افزودن آدرس های دیگر"
+
+msgid "Show Object in Javascript Console Object"
+msgstr "نمایش شی در جاوا اسکریپت آبجکت"
+
+msgid "Show Published Date"
+msgstr "نمایش تاریخ انتشار"
+
+msgid "Show first gallery image on Product hover"
+msgstr "اولین تصویر گالری را در هاور محصول نشان دهید"
+
+msgid "Sidebar - Left*/"
+msgstr "نوارکناری - چپ * /"
+
+msgid "Sidebar*/"
+msgstr "نوارکناری */"
+
+msgid "Sidebar/Footer Headers"
+msgstr "ستون کناری / سربرگ های پاورقی"
+
+msgid "Similar Posts"
+msgstr "مطالب مشابه"
+
+msgid "Simple"
+msgstr "ساده"
+
+msgid "Simple Dropdown"
+msgstr "کشویی ساده"
+
+msgid "Simple List"
+msgstr "لیست ساده"
+
+msgid "Single Post Header Inherits Featured Image"
+msgstr "تصویر شاخص برای سربرگ نوشته واحد"
+
+msgid "Single Post Template"
+msgstr "طرح نوشته واحد"
+
+msgid "Single Product"
+msgstr "تک محصول"
+
+msgid "Single Product Gallery Type"
+msgstr "نوع گالری محصول واحد"
+
+msgid "Single Product Image Dimensions"
+msgstr "ابعاد تصویر تک محصول"
+
+msgid "Single Product Layout"
+msgstr "چیدمان محصول تکی"
+
+msgid "Single Project"
+msgstr "تک پروژه"
+
+msgid "Single Project Layout"
+msgstr "طرح بندی تک پروژه"
+
+msgid "Single Project Nav Arrows Limited To Same Category"
+msgstr "تک پروژه فلش های Nav محدود به همان گروه"
+
+msgid "Single Project Page Navigation"
+msgstr "تنها پروژه صفحه کنترل"
+
+msgid "Single Project Remove Default Header"
+msgstr "تک پروژه حذف سرصفحه پیش فرض"
+
+msgid "Site URL"
+msgstr "لینک سایت"
+
+msgid "Size"
+msgstr "سایز"
+
+msgid "Skip to main content"
+msgstr "رفتن به محتوای اصلی"
+
+msgid "Slack URL"
+msgstr "آدرس Slack"
+
+msgid "Slide"
+msgstr "اسلاید"
+
+msgid "Slide Down"
+msgstr "اسلاید پایین"
+
+msgid "Slide Out From Right"
+msgstr "اسلاید از راست"
+
+msgid "Slide Out From Right Hover Triggered"
+msgstr "اسلاید از سمت راست حرکت و هاور شد"
+
+msgid "Slide down:"
+msgstr "پایین کشیدن :"
+
+msgid "Slider Advance Speed"
+msgstr "سرعت نمایش اسلاید شو"
+
+msgid "Slider Background Color"
+msgstr "رنگ پشت زمینه اسلاید"
+
+msgid "Slider Caption Animations"
+msgstr "انیمیشن اسلاید شو"
+
+msgid "Slider Height"
+msgstr "ارتفاع اسلایدر"
+
+msgid "Slider Image Resize"
+msgstr "تغیر اندازه تصویر"
+
+msgid "Slight Zoom Out"
+msgstr "کمی بزرگنمایی کنید"
+
+msgid "Slight zoom out:"
+msgstr "کوچک کردن کوچک :"
+
+msgid "Slightly Rounded"
+msgstr "اندکی گرد"
+
+msgid "Slightly Rounded W/ Shadow"
+msgstr "سایه/اندکی گرد"
+
+msgid "Small"
+msgstr "کوچک"
+
+msgid "Smooth Spin"
+msgstr "چرخش صاف"
+
+msgid "Snapchat URL"
+msgstr "آدرس اسنپ چت"
+
+msgid "Social Media"
+msgstr "رسانه های اجتماعی"
+
+msgid "Solid"
+msgstr "ساده"
+
+msgid "Something went wrong with the plugin API."
+msgstr "مشکلی با API افزونه ها وجود دارد."
+
+msgid "Sorry, no results were found."
+msgstr "متاسفم، هیچ نتیجه ای یافت نشد."
+
+msgid "Sort Portfolio"
+msgstr "مرتب سازی نمونه کارها"
+
+msgid "SoundCloud URL"
+msgstr "آدرس SoundCloud"
+
+msgid "Source"
+msgstr "سورس"
+
+msgid ""
+"Specify a custom width for your product gallery to be used on desktop views."
+msgstr "عرض گالری محصول خود را برای استفاده در نمای دسکتاپ مشخص کنید."
+
+msgid ""
+"Specify html Label properties. When using the \"Material\" theme skin, "
+"sidebar links will inherit this as well."
+msgstr ""
+"خصوصیات برچسب html را مشخص کنید. هنگام استفاده از پوسته قالب \"متریال\" ، "
+"پیوندهای نوار کناری نیز این امر را به ارث می برند."
+
+msgid "Specify the Body font properties."
+msgstr "فونت و خصوصیات فونت بدنه وب سایت را انتخاب کنید."
+
+msgid "Specify the H1 Text properties."
+msgstr "مشخص خواص متن H1."
+
+msgid "Specify the H2 Text properties."
+msgstr "مشخص خواص متن H2."
+
+msgid "Specify the H3 Text properties."
+msgstr "مشخص خواص متن H3."
+
+msgid "Specify the H4 Text properties."
+msgstr "مشخص خواص متن H4."
+
+msgid "Specify the H5 Text properties."
+msgstr "مشخص خواص متن H5."
+
+msgid "Specify the H6 Text properties."
+msgstr "مشخص خواص متن H6."
+
+msgid "Specify the Logo font properties."
+msgstr "مشخصات فونت لوگو را مشخص کنید."
+
+msgid "Specify the Navigation Dropdown font properties."
+msgstr "مشخص خواص فونت ناوبری کرکره."
+
+msgid "Specify the Navigation font properties."
+msgstr "مشخص خواص فونت ناوبری."
+
+msgid "Specify the Nectar Slider Caption font properties."
+msgstr "خصوصیات فونت توضیات اسلایدر نکتار را مشخص کنید."
+
+msgid "Specify the Nectar Slider Heading font properties."
+msgstr "خصوصیات فونت عنوان اسلایدر را مشخص کنید."
+
+msgid "Specify the Off Canvas Navigation properties."
+msgstr "مشخص خواص فعال بوم ناوبری."
+
+msgid "Specify the Off Canvas Navigation/Dropdown Description Text properties."
+msgstr "خصوصیات متن کشویی/پیمایش بوم خاموش را مشخص کنید."
+
+msgid "Specify the Page Heading Subtitle font properties."
+msgstr "مشخص صفحه عنوان خواص فونت زیرنویس."
+
+msgid "Specify the Page Heading font properties."
+msgstr "خصوصیات فونت هدینگ صفحه را مشخص کنید."
+
+msgid "Specify the Portfolio project caption/excerpt font properties."
+msgstr "ویژگی های فونت عنوان/گزیده ای از پروژه نمونه کار را مشخص کنید."
+
+msgid "Specify the Sub-headers & Team Member Name properties."
+msgstr "مشخص زیر سربرگ و خواص نام عضو تیم."
+
+msgid "Specify the Testimonial Slider/Blockquote font properties."
+msgstr "مشخص خواص فونت اسلایدر گواهی نامه/نقل قول."
+
+msgid "Specify the WooCommerce Product Secondary font properties."
+msgstr "خصوصیات فونت دوم عنوان محصول ووکامرس را مشخص کنید."
+
+msgid "Specify the WooCommerce Product Title font properties."
+msgstr "خصوصیات فونت عنوان محصول ووکامرس را مشخص کنید."
+
+msgid ""
+"Specify the bold text font & weight. (Other properties will inherit from the "
+"body font)"
+msgstr ""
+"فونت و وزن متن ضخیم را مشخص کنید. (سایر خواص از فونت بدنه به ارث می برند)"
+
+msgid "Specify the dropcap font properties."
+msgstr "خصوصیات فونت کشویی را مشخص کنید."
+
+msgid "Specify the filter font properties."
+msgstr "خصوصیات فونت فیلتر را مشخص کنید."
+
+msgid "Specify the font properties for Nectar Buttons."
+msgstr "خصوصیات فونت را برای دکمه های نکتار مشخص کنید."
+
+msgid "Specify the font properties for headers used in sidebars & the footer."
+msgstr ""
+"خصوصیات فونت برای سربرگ مورد استفاده در ستون های فرعی و پایین صفحه را مشخص "
+"کنید."
+
+msgid "Specify the italic Text properties."
+msgstr "مشخص خواص متن italic."
+
+msgid "Spotify URL"
+msgstr "آدرس شاپیفای"
+
+msgid "Square Based Grid"
+msgstr "مربع مبتنی بر شبکه"
+
+msgid "Square Grid Based (Default)"
+msgstr "شبکه مربع (پیشفرض)"
+
+msgid "StackExchange URL"
+msgstr "آدرس StackExchange"
+
+msgid "Standard"
+msgstr "استاندارد"
+
+msgid "Standard Blog No Sidebar"
+msgstr "وبلاگ استاندارد بدون نوارکناری"
+
+msgid "Standard Blog Style"
+msgstr "ظرح وبلاگ استاندارد"
+
+msgid "Standard Blog W/ Sidebar"
+msgstr "وبلاگ استاندارد با نوارکناری"
+
+msgid "Standard Fonts"
+msgstr "فونت های استاندارد"
+
+msgid "Standard Header"
+msgstr "سربرگ استاندارد"
+
+msgid "Start Typing..."
+msgstr "شروع به تایپ کنید..."
+
+msgid "Status"
+msgstr "وضعیت"
+
+msgid "Stretch"
+msgstr "گسترش دادن"
+
+msgid "Stretch row"
+msgstr "ردیف کشیده"
+
+msgid "Stretch row and content"
+msgstr "کشیدگی ردیف و محتوا"
+
+msgid "Stretch row and content (no paddings)"
+msgstr "کشیدگی ردیف و محتوا  ( بدون حاشیه داخلی )"
+
+msgid "Style"
+msgstr "ظاهر"
+
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"ظاهردهی یک المان خاص به طور جداگانه - یک نام کلاس اضافه کرده و در CSS سفارشی "
+"به آن ارجاع دهید."
+
+msgid "Styling"
+msgstr "طراحی ظاهر"
+
+msgid "Sub-headers & Team Member Names Font"
+msgstr "متن زیر معرفی تیم"
+
+msgid "Submit"
+msgstr "تایید"
+
+msgid "Submit Comment"
+msgstr "ثبت کردن دیدگاه"
+
+msgid "Submit a Support Request"
+msgstr "ارسال تیکت"
+
+msgid "Subscribe"
+msgstr "مشترک شوید"
+
+msgid "Subsets"
+msgstr "زیر مجموعه"
+
+msgid "Subtotal"
+msgstr "جمع جزء"
+
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+"Suhosin یک سیستم حفاظت پیشرفته برای نصب های PHP است. این برنامه برای محافظت "
+"از سرورهای شما از یک سو در برابر تعدادی از مشکلات شناخته شده در برنامه های "
+"PHP و از سوی دیگر در برابر آسیب پذیری های ناشناخته احتمالی در داخل این "
+"برنامه ها یا خود PHP طراحی شده است. اگر روی سرور شما فعال باشد ، ممکن است "
+"Suhosin به پیکربندی شود تا محدوده ارسال اطلاعات خود را افزایش دهد."
+
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+"تجربه ردوکس خود را شارژ کنید. برنامه های افزودنی ما ویژگی هایی را در اختیار "
+"شما قرار می دهد که محصولات شما را به سطح بعدی سوق می دهد."
+
+msgid "Support"
+msgstr "حمایت کردن"
+
+msgid "Support Forum"
+msgstr "فرم پشتیبانی"
+
+msgid "Support hash could not be generated. Please try again later."
+msgstr "هش پشتیبانی ایجاد نمی شود. لطفا بعدا دوباره امتحان کنید."
+
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+msgid "Tag"
+msgstr "برچسب"
+
+msgid "Tags:"
+msgstr "برچسب ها :"
+
+msgid "Tall"
+msgstr "ارتفاع"
+
+msgid "Telegram URL"
+msgstr "آدرس تلگرام"
+
+msgid "Testimonial Slider/Blockquote Font"
+msgstr "فونت اسلایدر/بلوک توصیف نامه"
+
+msgid "Testimonial/Blockquote Font Phone"
+msgstr "فونت تلفن همراه برای گواهی نامه/مسابقه"
+
+msgid "Testimonial/Blockquote Font Small Desktop"
+msgstr "فونت دسکتاپ کوچک برای گواهی نامه/مسابقه"
+
+msgid "Testimonial/Blockquote Font Tablet"
+msgstr "فونت تبلت برای گواهی نامه/مسابقه"
+
+msgid "Text Align"
+msgstr "تراز نوشته"
+
+msgid "Text Color"
+msgstr "رنگ متن"
+
+msgid "Text Decoration"
+msgstr "دکوراسیون متن"
+
+msgid "Text To Display In Header"
+msgstr "متن برای نمایش در سربرگ"
+
+msgid "Text Transform"
+msgstr "شکل متن"
+
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+"با تشکر از شما برای به روز رسانی به آخرین نسخه! چارچوب ردوکس %s یک گام بزرگ "
+"به جلو در توسعه ردوکس به است. نگاه به همه چیزهای جدید."
+
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+"URL مثل حلزون  در حال استفاده است، لطفا دیگری را انتخاب کنید. <code>%s</code>"
+" برای استفاده باز است."
+
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+"<a href=\"%s\"> افزونه پشتیبانی فروشنده </a> (یا برنامه افزودنی) نصب نشده "
+"است یا فعال نشده است و بنابراین ، برخی از کنترل ها ممکن است به درستی ارائه "
+"نشوند. لطفا مطمئن شوید که نصب شده و <a href=\"%s\"> فعال شده است </a>"
+
+msgid "The ABSPATH variable on the server."
+msgstr "متغیر ABSPATH در سرور."
+
+msgid "The URL of your site's homepage."
+msgstr "نشانی اینترنتی صفحه اصلی سایت شما."
+
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"مقدار زمانی (برحسب ثانیه) که سایت شما می تواند بدون قطع شدن یک دستور را اجرا "
+"کند(برای جلوگیری از مسدود شدن سرور)"
+
+msgid "The area above your footer, after all page content."
+msgstr "بعد از تمام محتوای صفحه ، قسمت بالای پاورقی شما باشد."
+
+msgid ""
+"The area below your header navigation bar, before all page content. Note "
+"that assigning a template to this area will disable the Transparent Header "
+"Effect."
+msgstr ""
+"منطقه زیر نوار پیمایش سربرگ شما ، قبل از تمام محتوای صفحه. توجه داشته باشید "
+"که اختصاص الگویی به این قسمت ، جلوه سربرگ شفاف را غیرفعال می کند."
+
+msgid ""
+"The column number to be displayed on product archive pages when viewed on a "
+"desktop monitor ( > 1300px)"
+msgstr ""
+"شماره ستونی که هنگام مشاهده در مانیتور دسکتاپ در صفحات بایگانی محصول نمایش "
+"داده می شود ( > 1300px )"
+
+msgid ""
+"The column number to be displayed on product archive pages when viewed on a "
+"phone ( < 690px)"
+msgstr ""
+"شماره ستونی که هنگام مشاهده از طریق تلفن همراه در صفحات بایگانی محصول نمایش "
+"داده می شود ( < 690px)"
+
+msgid ""
+"The column number to be displayed on product archive pages when viewed on a "
+"small desktop monitor (1000px - 1300px)"
+msgstr ""
+"شماره ستونی که در صفحات بایگانی محصول نمایش داده می شود ، در صفحه نمایش کوچک "
+"دسکتاپ (1000px - 1300px) مشاهده شود"
+
+msgid ""
+"The column number to be displayed on product archive pages when viewed on a "
+"tablet (690px - 1000px)"
+msgstr ""
+"شماره ستونی که هنگام مشاهده در تبلت در صفحات بایگانی محصول نمایش داده می شود "
+"(690px - 1000px)"
+
+msgid "The current Reading mode of Wordpress."
+msgstr "حالت خواندن فعلی وردپرس."
+
+msgid "The current language used by WordPress. Default = English"
+msgstr "زبان جاری که توسط وردپرس استفاده می شود. پیشفرض = انگلیسی"
+
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr "ساختارپیوند یکتا جاری در وردپرس تنظیمات-> پیوند پیوسته تعریف شده است."
+
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+"صفحه انتخاب شده در حال حاضر در جایی که نوشته های وبلاگ نمایش داده می شود."
+
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr "صفحه انتخابی که در حال حاضر به عنوان صفحه اصلی سایت عمل می کند."
+
+msgid "The default timezone for your server."
+msgstr "منطقه زمانی پیشفرض سرور شما."
+
+msgid "The following Salient plugins are not installed or activated: "
+msgstr "افزونه های سالینت زیر نصب یا فعال نمی شوند : "
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"افزونه زیر، برای اطمینان از حداکثر سازگاری با قالب %1$s ،نیاز به بروزرسانی "
+"به آخرین نگارش را دارد."

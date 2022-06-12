@@ -1,0 +1,116 @@
+@import "../mixins";
+@import '../../../../SCSS_JS_Source/_vendor/foundation/scss/foundation';
+
+.novaworks-subscribe-form {
+	max-width: 100%;
+	position: relative;
+
+	&__fields {
+
+		@include ad_display;
+		@include flex-flow(column nowrap);
+		@include justify-content(flex-start);
+		@include align-items(stretch);
+	}
+
+	&__submit {
+		@include ad_display;
+		@include justify-content(center);
+		@include align-items(center);
+		@include ad_flex(0 1 auto);
+		position: relative;
+		max-width: 100%;
+
+		span {
+			vertical-align: middle;
+			display: inline-block;
+		}
+
+		&:before {
+			box-sizing: border-box;
+			position: absolute;
+			visibility: hidden;
+			top: 50%;
+			left: 50%;
+			width: 26px;
+			height: 26px;
+			margin-top: -13px;
+			margin-left: -13px;
+			border-radius: 50%;
+			border: 3px solid #fff;
+			border-top-color: #000;
+			content: '';
+			animation: novaworks-spinner .6s linear infinite;
+		}
+
+		&.loading {
+
+			i {
+				visibility: hidden;
+			}
+
+			span {
+				visibility: hidden;
+			}
+
+			&:before {
+				visibility: visible;
+			}
+		}
+	}
+
+	&__message {
+		position: absolute;
+		top: 100%;
+		width: 100%;
+		visibility: hidden;
+		color: #4ab866;
+		font-size: 14px;
+
+		.novaworks-subscribe-form__message-inner {
+			@include ad_display;
+			@include justify-content(center);
+			@include align-items(center);
+			text-align: center;
+			padding: rem-calc(15) 0;
+		}
+	}
+}
+
+.novaworks-subscribe-form--response-error{
+	.novaworks-subscribe-form__message{
+		color: #d94f4f;
+	}
+}
+
+.novaworks-subscribe-form--inline-layout {
+	.novaworks-subscribe-form__input-group {
+		@include ad_display;
+		@include flex-flow(row wrap);
+		@include justify-content(flex-start);
+		@include align-items(flex-start);
+
+		.novaworks-subscribe-form__fields {
+			@include ad_flex(1 1 auto);
+			width: 150px;
+		}
+
+		.novaworks-subscribe-form__submit {
+			@include ad_flex(0 1 auto);
+			width: auto;
+		}
+	}
+}
+
+.novaworks-subscribe-form--block-layout {
+	.novaworks-subscribe-form__input-group {
+		@include ad_display;
+		@include flex-flow(column wrap);
+		@include justify-content(flex-start);
+		@include align-items(center);
+
+		.novaworks-subscribe-form__fields {
+			width: 100%;
+		}
+	}
+}

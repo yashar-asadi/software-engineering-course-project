@@ -1,0 +1,19 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "185.185.126.101",
+  "port": "22",
+  "target": "/irina.novaworks.net/public_html/wp-content/plugins/novaworks",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "irinanoeup0",
+  "password": "3WWLzaDWA5GuA38",
+  "watch": [],
+  "transport": "scp"
+}

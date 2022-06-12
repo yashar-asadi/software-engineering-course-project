@@ -1,0 +1,21 @@
+# Translation of Plugins - Persian Elementor - Development (trunk) in Persian
+# This file is distributed under the same license as the Plugins - Persian Elementor - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-18 10:40:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Persian Elementor - Development (trunk)\n"
+
+#: includes/library/fonts.php:9
+msgid "فونت فارسی"
+msgstr "فونت فارسی"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "المنتور فارسی"
+msgstr "المنتور فارسی"

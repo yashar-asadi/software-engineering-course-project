@@ -1,0 +1,109 @@
+# Translation of Plugins - Duplicate Page - Development (trunk) in Persian
+# This file is distributed under the same license as the Plugins - Duplicate Page - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-28 18:11:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fa\n"
+"Project-Id-Version: Plugins - Duplicate Page - Development (trunk)\n"
+
+#: inc/admin-settings.php:51
+msgid "Gutenberg Editor"
+msgstr "ویرایشگر گوتنبرگ"
+
+#: inc/admin-settings.php:50
+msgid "Classic Editor"
+msgstr "ویرایشگر کلاسیک"
+
+#: inc/admin-settings.php:46
+msgid "Choose Editor"
+msgstr "انتخاب ویرایشگر"
+
+#: duplicatepage.php:312
+msgid "Duplicate This as "
+msgstr "کپی کردن به عنوان"
+
+#: inc/admin-settings.php:63
+msgid "Pending"
+msgstr "در انتظار"
+
+#: inc/admin-settings.php:62
+msgid "Private"
+msgstr "خصوصی"
+
+#: inc/admin-settings.php:61
+msgid "Publish"
+msgstr "منتشر شده"
+
+#: inc/admin-settings.php:60
+msgid "Draft"
+msgstr "پیش‌نویس"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/mndpsingh287/"
+msgstr "https://profiles.wordpress.org/mndpsingh287/"
+
+#. Author of the plugin
+msgid "mndpsingh287"
+msgstr "mndpsingh287"
+
+#. Description of the plugin
+msgid "Duplicate Posts, Pages and Custom Posts using single click."
+msgstr "تکثیر برگه‌ها، نوشته‌ها، و انواع پست با یک کلیک"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/duplicate-page/"
+msgstr "https://wordpress.org/plugins/duplicate-page/"
+
+#: duplicatepage.php:245 duplicatepage.php:261 duplicatepage.php:284
+msgid "Duplicate This"
+msgstr "کپی"
+
+#. Plugin Name of the plugin
+#: duplicatepage.php:91 duplicatepage.php:341
+msgid "Duplicate Page"
+msgstr "Duplicate Page"
+
+#: duplicatepage.php:78
+msgid "Donate"
+msgstr "کمک مالی"
+
+#: duplicatepage.php:77
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: inc/admin-settings.php:78
+msgid "Duplicate Post Suffix"
+msgstr "پسوند پست کپی شده"
+
+#: inc/admin-settings.php:81
+msgid "Add a suffix for duplicate or clone post as Copy, Clone etc. It will show after title."
+msgstr "پسوندی را برای پست کپی یا کلون اضافه کنید به عنوان مثال: کپی، تکثیر و ... این پس این عنوان نشان داده می شود."
+
+#: inc/admin-settings.php:57
+msgid "Duplicate Post Status"
+msgstr "وضعیت پست کپی شده"
+
+#: inc/admin-settings.php:9
+msgid "Buy PRO"
+msgstr "نسخه پرو"
+
+#: inc/admin-settings.php:9
+msgid "Duplicate Page Settings "
+msgstr "تنظیمات Duplicate Page"
+
+#: inc/admin-settings.php:71
+msgid "To All Posts List"
+msgstr "به همه پست‌ها"
+
+#: inc/admin-settings.php:72
+msgid "To Duplicate Edit Screen"
+msgstr "به صفحه ویرایش"
+
+#: inc/admin-settings.php:69
+msgid "Redirect to after click on <strong>Duplicate This Link</strong>"
+msgstr "انتقال به: پس از کلیک بر روی <strong>کپی</strong>"

@@ -1,0 +1,138 @@
+/**
+ * Foundation for Sites
+ * Version 6.6.3
+ * https://get.foundation
+ * Licensed under MIT Open Source
+ */
+.novaworks-carousel-wrap.novaworks-equal-cols .slick-track {
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .slick-track:before, .novaworks-carousel-wrap.novaworks-equal-cols .slick-track:after {
+  display: none;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item-link {
+  display: -ms-flexbox;
+  display: flex;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item {
+  float: none;
+  height: auto;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item img {
+  object-fit: cover;
+  margin: 0 auto;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item .novaworks-carousel__item-inner,
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item .novaworks-banner,
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item .novaworks-banner__link {
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item .novaworks-carousel__item-inner,
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item .novaworks-carousel__item-inner > *:last-child,
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item .novaworks-banner__link {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+}
+.novaworks-carousel-wrap.novaworks-equal-cols .novaworks-carousel__item.brand-items img {
+  object-fit: contain;
+}
+.novaworks-carousel__item {
+  padding: 10px;
+  vertical-align: middle;
+}
+.novaworks-carousel__item .novaworks-banner {
+  float: none;
+}
+.novaworks-carousel__item .novaworks-banner img {
+  width: 100%;
+}
+.novaworks-carousel__content {
+  position: relative;
+  z-index: 2;
+  max-width: 100%;
+}
+.novaworks-carousel__content, .novaworks-carousel__item-title, .novaworks-carousel__item-text {
+  transition: all 200ms linear;
+}
+
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item .novaworks-carousel__item-link {
+  position: relative;
+  display: block;
+  background-color: #f2f4f5;
+  overflow: hidden;
+  text-align: center;
+  padding: 30px;
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item .novaworks-carousel__item-link:before {
+  content: "";
+  height: 100%;
+  width: 100%;
+  display: block;
+  visibility: hidden;
+  background-color: var(--site-accent-color);
+  position: absolute;
+  top: 100%;
+  z-index: 0;
+  left: 0;
+  transition: 0.4s cubic-bezier(1, 0.35, 0.24, 1.05);
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item .novaworks-carousel__icon {
+  position: relative;
+  font-size: 50px;
+  color: var(--site-accent-color);
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item .novaworks-carousel__icon i {
+  transition: 0.4s ease;
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item .novaworks-carousel__item-text {
+  transition: 0.4s ease;
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item .novaworks-carousel__item-title {
+  transition: 0.4s ease;
+  font-size: 16px;
+  font-weight: normal;
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item:hover .novaworks-carousel__item-link:before {
+  top: 0;
+  visibility: inherit;
+}
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item:hover .novaworks-carousel__item-title,
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item:hover .novaworks-carousel__item-text,
+.novaworks-advance-carousel-layout-icon .novaworks-carousel__item:hover .novaworks-carousel__icon {
+  color: #fff;
+}
+
+.novaworks-advance-carousel-layout-banners .novaworks-carousel__item {
+  padding: 0;
+}
+.novaworks-advance-carousel-layout-banners .slick-dots {
+  position: absolute;
+  bottom: 30px;
+}
+.novaworks-advance-carousel-layout-banners .slick-dots li button {
+  width: 15px;
+  height: 15px;
+  background: transparent;
+  border: solid 1px #fff;
+}
+.novaworks-advance-carousel-layout-banners .slick-dots li.slick-active button {
+  background-color: #fff;
+}

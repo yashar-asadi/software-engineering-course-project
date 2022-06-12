@@ -1,0 +1,1040 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Irina Core\n"
+"POT-Creation-Date: 2019-10-09 10:23+0700\n"
+"PO-Revision-Date: 2019-10-09 09:51+0700\n"
+"Last-Translator: \n"
+"Language-Team: d@novaworks.net\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;esc_html__;"
+"esc_html_e;esc_html_x;esc_attr__;esc_attr_e;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class/nova-vc-autocomplete-filters.php:170
+#: class/nova-vc-autocomplete-filters.php:213
+#: class/nova-vc-autocomplete-filters.php:242
+#: class/nova-vc-autocomplete-filters.php:268
+msgid "Id"
+msgstr ""
+
+#: class/nova-vc-autocomplete-filters.php:172
+msgid "Name"
+msgstr ""
+
+#: class/nova-vc-autocomplete-filters.php:174
+#: class/nova-vc-autocomplete-filters.php:205
+#: class/nova-vc-autocomplete-filters.php:262
+msgid "Slug"
+msgstr ""
+
+#: class/nova-vc-autocomplete-filters.php:210
+#: class/nova-vc-autocomplete-filters.php:244
+#: class/nova-vc-autocomplete-filters.php:266
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:26
+#: includes/shortcodes/vc/wc/nova_featured_products.php:26
+#: includes/shortcodes/vc/wc/nova_recent_products.php:26
+#: includes/shortcodes/vc/wp/nova-collection.php:49
+#: includes/shortcodes/vc/wp/nova-heading.php:19
+msgid "Title"
+msgstr ""
+
+#: class/nova-vc-init.php:17
+msgid "9AMstudio"
+msgstr ""
+
+#: class/nova-vc-init.php:73
+msgid "Widget title"
+msgstr ""
+
+#: class/nova-vc-init.php:74
+msgid ""
+"Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: class/nova-vc-init.php:80
+msgid "Reddot 01"
+msgstr ""
+
+#: class/nova-vc-init.php:81
+msgid "Classic"
+msgstr ""
+
+#: class/nova-vc-init.php:82
+msgid "Modern"
+msgstr ""
+
+#: class/nova-vc-init.php:83
+msgid "Flat"
+msgstr ""
+
+#: class/nova-vc-init.php:84
+msgid "Outline"
+msgstr ""
+
+#: class/nova-vc-init.php:86
+msgid "Style"
+msgstr ""
+
+#: class/nova-vc-init.php:87
+msgid "Select tabs display style."
+msgstr ""
+
+#: class/nova-vc-init.php:93
+msgid "Rounded"
+msgstr ""
+
+#: class/nova-vc-init.php:94
+msgid "Square"
+msgstr ""
+
+#: class/nova-vc-init.php:95
+msgid "Round"
+msgstr ""
+
+#: class/nova-vc-init.php:97
+msgid "Shape"
+msgstr ""
+
+#: class/nova-vc-init.php:98
+msgid "Select tabs shape."
+msgstr ""
+
+#: class/nova-vc-init.php:107
+msgid "Color"
+msgstr ""
+
+#: class/nova-vc-init.php:108
+msgid "Select tabs color."
+msgstr ""
+
+#: class/nova-vc-init.php:121
+msgid "Do not fill content area?"
+msgstr ""
+
+#: class/nova-vc-init.php:123
+msgid "Do not fill content area with color."
+msgstr ""
+
+#: class/nova-vc-init.php:133 class/nova-vc-init.php:158
+#: class/nova-vc-init.php:205 class/nova-vc-init.php:237
+msgid "None"
+msgstr ""
+
+#: class/nova-vc-init.php:146
+msgid "Spacing"
+msgstr ""
+
+#: class/nova-vc-init.php:147
+msgid "Select tabs spacing."
+msgstr ""
+
+#: class/nova-vc-init.php:171
+msgid "Gap"
+msgstr ""
+
+#: class/nova-vc-init.php:172
+msgid "Select tabs gap."
+msgstr ""
+
+#: class/nova-vc-init.php:183
+#: includes/shortcodes/vc/wp/nova-collection.php:27
+msgid "Top"
+msgstr ""
+
+#: class/nova-vc-init.php:184
+#: includes/shortcodes/vc/wp/nova-collection.php:28
+msgid "Bottom"
+msgstr ""
+
+#: class/nova-vc-init.php:186
+msgid "Position"
+msgstr ""
+
+#: class/nova-vc-init.php:187
+msgid "Select tabs navigation position."
+msgstr ""
+
+#: class/nova-vc-init.php:193
+msgid "Left"
+msgstr ""
+
+#: class/nova-vc-init.php:194
+msgid "Right"
+msgstr ""
+
+#: class/nova-vc-init.php:195
+msgid "Center"
+msgstr ""
+
+#: class/nova-vc-init.php:197
+msgid "Alignment"
+msgstr ""
+
+#: class/nova-vc-init.php:198
+msgid "Select tabs section title alignment."
+msgstr ""
+
+#: class/nova-vc-init.php:219
+msgid "Autoplay"
+msgstr ""
+
+#: class/nova-vc-init.php:220
+msgid ""
+"Select auto rotate for tabs in seconds (Note: disabled by default)."
+msgstr ""
+
+#: class/nova-vc-init.php:229
+msgid "Active section"
+msgstr ""
+
+#: class/nova-vc-init.php:231
+msgid ""
+"Enter active section number (Note: to have all sections closed on "
+"initial load enter non-existing number)."
+msgstr ""
+
+#: class/nova-vc-init.php:238
+msgid "Square Dots"
+msgstr ""
+
+#: class/nova-vc-init.php:239
+msgid "Radio Dots"
+msgstr ""
+
+#: class/nova-vc-init.php:240
+msgid "Point Dots"
+msgstr ""
+
+#: class/nova-vc-init.php:241
+msgid "Fill Square Dots"
+msgstr ""
+
+#: class/nova-vc-init.php:242
+msgid "Rounded Fill Square Dots"
+msgstr ""
+
+#: class/nova-vc-init.php:244
+msgid "Pagination style"
+msgstr ""
+
+#: class/nova-vc-init.php:245
+msgid "Select pagination style."
+msgstr ""
+
+#: class/nova-vc-init.php:255
+msgid "Pagination color"
+msgstr ""
+
+#: class/nova-vc-init.php:256
+msgid "Select pagination color."
+msgstr ""
+
+#: class/nova-vc-init.php:266
+msgid "Extra class name"
+msgstr ""
+
+#: class/nova-vc-init.php:268
+msgid ""
+"If you wish to style particular content element differently, then use "
+"this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: class/nova-vc-init.php:272
+msgid "CSS box"
+msgstr ""
+
+#: class/nova-vc-init.php:274
+msgid "Design Options"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:47
+msgid "Responsive Options"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:58
+msgid "Large Desktop"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:69
+msgid "Desktop"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:81
+msgid "Tablet"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:93
+msgid "Tablet Portrait"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:104
+msgid "Mobile Landscape"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:114
+msgid "Mobile"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:194 includes/vc-params.php:16
+msgid "Vertical"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:195 includes/vc-params.php:15
+msgid "Horizontal"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:196
+msgid "Custom"
+msgstr ""
+
+#: class/nova-vc-shortcode-param.php:199
+msgid "Choose Colors"
+msgstr ""
+
+#: includes/helpers.php:230
+msgid "Column"
+msgstr ""
+
+#: includes/helpers.php:442
+#, php-format
+msgid "Could not write file %s"
+msgstr ""
+
+#: includes/helpers.php:477
+#, php-format
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/helpers.php:487
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/metaboxes/page.php:12
+msgid "Page Options"
+msgstr ""
+
+#: includes/metaboxes/page.php:23
+msgid "Header Template"
+msgstr ""
+
+#: includes/metaboxes/page.php:27 includes/metaboxes/page.php:36
+#: includes/metaboxes/post.php:28
+msgid "Inherit"
+msgstr ""
+
+#: includes/metaboxes/page.php:28
+msgid "Header 01"
+msgstr ""
+
+#: includes/metaboxes/page.php:29
+msgid "Header 02"
+msgstr ""
+
+#: includes/metaboxes/page.php:32
+msgid "Header Transparency"
+msgstr ""
+
+#: includes/metaboxes/page.php:37 includes/metaboxes/post.php:29
+msgid "Light"
+msgstr ""
+
+#: includes/metaboxes/page.php:38 includes/metaboxes/post.php:30
+msgid "Dark"
+msgstr ""
+
+#: includes/metaboxes/page.php:39 includes/metaboxes/post.php:31
+msgid "No Transparency"
+msgstr ""
+
+#: includes/metaboxes/page.php:45
+msgid "Show Page Header"
+msgstr ""
+
+#: includes/metaboxes/post.php:13
+msgid "Post Options"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/contact-stores/build/index-min.js:20
+#: includes/nova-gutenberg-blocks/contact-stores/build/index.js:20
+msgid "Contact Stores"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/contact-stores/build/index-min.js:73
+#: includes/nova-gutenberg-blocks/contact-stores/build/index.js:73
+#: includes/nova-gutenberg-blocks/social_media_profiles/block.js:65
+msgid "Icons Font Size"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/contact-stores/build/index-min.js:84
+#: includes/nova-gutenberg-blocks/contact-stores/build/index-min.js:86
+#: includes/nova-gutenberg-blocks/contact-stores/build/index.js:84
+#: includes/nova-gutenberg-blocks/contact-stores/build/index.js:86
+#: includes/nova-gutenberg-blocks/social_media_profiles/block.js:75
+#: includes/nova-gutenberg-blocks/social_media_profiles/block.js:78
+msgid "Icons Color"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:22
+msgid "Posts Grid"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:185
+msgid "Update"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:187
+msgid "Updating"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:389
+msgid "Categories:"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:409
+msgid "Order By"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:428
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/posts_grid/block.js:459
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:58
+#: includes/shortcodes/vc/wc/nova_featured_products.php:58
+#: includes/shortcodes/vc/wc/nova_recent_products.php:58
+#: includes/shortcodes/vc/wp/instagram.php:81
+msgid "Columns"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:30
+msgid "Slide"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:109
+msgid "Slide Link"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:122
+msgid "Slide Button"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:134
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:216
+msgid "Colors"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:137
+#: includes/shortcodes/vc/wp/nova-banner.php:35
+msgid "Text Color"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:144
+msgid "Slide Background"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:183
+msgid "Add Image"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:199
+msgid "Remove Image"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:267
+msgid "Add Title"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:293
+msgid "Add Subtitle"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slide.js:320
+msgid "Button Text"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:26
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:51
+#: includes/shortcodes/vc/wc/nova_featured_products.php:51
+#: includes/shortcodes/vc/wc/nova_recent_products.php:51
+#: includes/shortcodes/vc/wp/instagram.php:74
+msgid "Slider"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:135
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:205
+msgid "Pagination Bullets"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:162
+msgid "Full Height"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:179
+msgid "Custom Desktop Height"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/slider/blocks/slider.js:194
+msgid "Number of Slides"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/social_media_profiles/block.js:20
+msgid "Social Media Profiles"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/social_media_profiles/block.js:127
+msgid "Social Media Icons"
+msgstr ""
+
+#: includes/nova-gutenberg-blocks/social_media_profiles/block.js:135
+msgid "Setup profile links under Appearance > Customize > Social Media"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:5
+#: includes/shortcodes/vc/wc/nova_featured_products.php:5
+#: includes/shortcodes/vc/wc/nova_recent_products.php:5
+msgid "Categories"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:12
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:29
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:42
+#: includes/shortcodes/vc/wc/nova_featured_products.php:12
+#: includes/shortcodes/vc/wc/nova_featured_products.php:29
+#: includes/shortcodes/vc/wc/nova_featured_products.php:42
+#: includes/shortcodes/vc/wc/nova_recent_products.php:12
+#: includes/shortcodes/vc/wc/nova_recent_products.php:29
+#: includes/shortcodes/vc/wc/nova_recent_products.php:42
+#: includes/shortcodes/vc/wp/instagram.php:13
+#: includes/shortcodes/vc/wp/instagram.php:26
+#: includes/shortcodes/vc/wp/instagram.php:34
+#: includes/shortcodes/vc/wp/instagram.php:41
+#: includes/shortcodes/vc/wp/instagram.php:48
+#: includes/shortcodes/vc/wp/instagram.php:66
+msgid "Data Setting"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:16
+#: includes/shortcodes/vc/wc/nova_featured_products.php:16
+#: includes/shortcodes/vc/wc/nova_recent_products.php:16
+msgid "Order by"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:20
+#: includes/shortcodes/vc/wc/nova_featured_products.php:20
+#: includes/shortcodes/vc/wc/nova_recent_products.php:20
+msgid "Date"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:21
+#: includes/shortcodes/vc/wc/nova_featured_products.php:21
+#: includes/shortcodes/vc/wc/nova_recent_products.php:21
+msgid "ID"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:22
+#: includes/shortcodes/vc/wc/nova_featured_products.php:22
+#: includes/shortcodes/vc/wc/nova_recent_products.php:22
+msgid "Menu order"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:23
+#: includes/shortcodes/vc/wc/nova_featured_products.php:23
+#: includes/shortcodes/vc/wc/nova_recent_products.php:23
+msgid "Random"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:24
+#: includes/shortcodes/vc/wc/nova_featured_products.php:24
+#: includes/shortcodes/vc/wc/nova_recent_products.php:24
+msgid "Popularity"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:25
+#: includes/shortcodes/vc/wc/nova_featured_products.php:25
+#: includes/shortcodes/vc/wc/nova_recent_products.php:25
+msgid "Rating"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:30
+#: includes/shortcodes/vc/wc/nova_featured_products.php:30
+#: includes/shortcodes/vc/wc/nova_recent_products.php:30
+#, php-format
+msgid "Select how to sort retrieved products. More at %s."
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:34
+#: includes/shortcodes/vc/wc/nova_featured_products.php:34
+#: includes/shortcodes/vc/wc/nova_recent_products.php:34
+msgid "Sort order"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:38
+#: includes/shortcodes/vc/wc/nova_featured_products.php:38
+#: includes/shortcodes/vc/wc/nova_recent_products.php:38
+msgid "Descending"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:39
+#: includes/shortcodes/vc/wc/nova_featured_products.php:39
+#: includes/shortcodes/vc/wc/nova_recent_products.php:39
+msgid "Ascending"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:43
+#: includes/shortcodes/vc/wc/nova_featured_products.php:43
+#: includes/shortcodes/vc/wc/nova_recent_products.php:43
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:47
+#: includes/shortcodes/vc/wc/nova_featured_products.php:47
+#: includes/shortcodes/vc/wc/nova_recent_products.php:47
+#: includes/shortcodes/vc/wp/instagram.php:70
+msgid "Layout"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:50
+#: includes/shortcodes/vc/wc/nova_featured_products.php:50
+#: includes/shortcodes/vc/wc/nova_recent_products.php:50
+#: includes/shortcodes/vc/wp/instagram.php:73
+msgid "Grid"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:54
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:68
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:82
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:89
+#: includes/shortcodes/vc/wc/nova_featured_products.php:54
+#: includes/shortcodes/vc/wc/nova_featured_products.php:68
+#: includes/shortcodes/vc/wc/nova_featured_products.php:82
+#: includes/shortcodes/vc/wc/nova_featured_products.php:89
+#: includes/shortcodes/vc/wc/nova_recent_products.php:54
+#: includes/shortcodes/vc/wc/nova_recent_products.php:68
+#: includes/shortcodes/vc/wc/nova_recent_products.php:82
+#: includes/shortcodes/vc/wc/nova_recent_products.php:89
+#: includes/shortcodes/vc/wp/instagram.php:77
+#: includes/shortcodes/vc/wp/instagram.php:91
+#: includes/shortcodes/vc/wp/instagram.php:104
+#: includes/shortcodes/vc/wp/instagram.php:116
+#: includes/shortcodes/vc/wp/instagram.php:129
+msgid "Layout Setting"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:61
+#: includes/shortcodes/vc/wc/nova_featured_products.php:61
+#: includes/shortcodes/vc/wc/nova_recent_products.php:61
+#: includes/shortcodes/vc/wp/instagram.php:84
+msgid "2 Columns"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:62
+#: includes/shortcodes/vc/wc/nova_featured_products.php:62
+#: includes/shortcodes/vc/wc/nova_recent_products.php:62
+#: includes/shortcodes/vc/wp/instagram.php:85
+msgid "3 Columns"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:63
+#: includes/shortcodes/vc/wc/nova_featured_products.php:63
+#: includes/shortcodes/vc/wc/nova_recent_products.php:63
+#: includes/shortcodes/vc/wp/instagram.php:86
+msgid "4 Columns"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:64
+#: includes/shortcodes/vc/wc/nova_featured_products.php:64
+#: includes/shortcodes/vc/wc/nova_recent_products.php:64
+#: includes/shortcodes/vc/wp/instagram.php:87
+msgid "5 Columns"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:65
+#: includes/shortcodes/vc/wc/nova_featured_products.php:65
+#: includes/shortcodes/vc/wc/nova_recent_products.php:65
+#: includes/shortcodes/vc/wp/instagram.php:88
+msgid "6 Columns"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:76
+#: includes/shortcodes/vc/wc/nova_featured_products.php:76
+#: includes/shortcodes/vc/wc/nova_recent_products.php:76
+msgid "Total items"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:77
+#: includes/shortcodes/vc/wc/nova_featured_products.php:77
+#: includes/shortcodes/vc/wc/nova_recent_products.php:77
+msgid ""
+"The \"limit\" shortcode determines how many products to show on the "
+"page"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:86
+#: includes/shortcodes/vc/wc/nova_featured_products.php:86
+#: includes/shortcodes/vc/wc/nova_recent_products.php:86
+msgid "Enable Ajax Loading"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:88
+#: includes/shortcodes/vc/wc/nova_featured_products.php:88
+#: includes/shortcodes/vc/wc/nova_recent_products.php:88
+#: includes/vc-params.php:44 includes/vc-params.php:68
+#: includes/vc-params.php:115 includes/vc-params.php:127
+#: includes/vc-params.php:141 includes/vc-params.php:152
+#: includes/vc-params.php:163 includes/vc-params.php:176
+#: includes/vc-params.php:187
+msgid "Yes"
+msgstr ""
+
+#: includes/shortcodes/vc/wc/nova_best_selling_products.php:102
+#: includes/shortcodes/vc/wc/nova_featured_products.php:102
+#: includes/shortcodes/vc/wc/nova_recent_products.php:102
+msgid "Display featured products"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:9
+msgid "Instagram Access Token"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:10
+msgid ""
+"In order to display your photos you need an Access Token from "
+"Instagram."
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:16
+msgid "Feed Type"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:20
+msgid "Images with a specific tag"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:21
+msgid "Images from a location."
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:22
+msgid "Images from a user"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:29
+msgid "Hashtag"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:30
+msgid "Only Alphanumeric characters are allowed (a-z, A-Z, 0-9)"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:37
+msgid "Location ID"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:38
+msgid "Unique id of a location to get"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:44
+msgid "User ID"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:45
+msgid "Unique id of a user to get"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:51
+msgid "Sort By"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:56
+msgid "Default"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:57
+msgid "Newest to oldest"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:58
+msgid "Oldest to newest"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:59
+msgid "Highest # of likes to lowest."
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:60
+msgid "Lowest # likes to highest."
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:61
+msgid "Highest # of comments to lowest"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:62
+msgid "Lowest # of comments to highest."
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:63
+msgid "Random order"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:98
+msgid "Limit"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:99
+msgid "Maximum number of Images to add. Max of 60"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:107
+msgid "Image size"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:111
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:112
+msgid "Low Resolution"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:113
+msgid "Standard Resolution"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:119
+msgid "Image Aspect Ration"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:123
+msgid "1:1"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:124
+msgid "16:9"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:125
+msgid "4:3"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:126
+msgid "2.35:1"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/instagram.php:139
+msgid "Display Instagram photos from any non-private Instagram accounts"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:20
+msgid "Upload the banner image"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:25
+msgid "Background Overlay"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:31
+#: includes/shortcodes/vc/wp/nova-banner.php:41
+#: includes/shortcodes/vc/wp/nova-banner.php:51
+msgid "Design"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:45
+msgid "Background Overlay On Hover"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:55
+msgid "Banner Link"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:57
+msgid "Add link / select existing page to link to this banner"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-banner.php:65
+msgid "Description"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-collection.php:19
+msgid "Upload the collection image"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-collection.php:23
+msgid "Image Position"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-collection.php:34
+msgid "Collection Link"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-collection.php:36
+msgid "Add link / select existing page to link to this collection"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-collection.php:44
+msgid "Label"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-collection.php:54
+#: includes/shortcodes/vc/wp/nova-heading.php:24
+msgid "Sub Title"
+msgstr ""
+
+#: includes/shortcodes/vc/wp/nova-spacer.php:19
+msgid "Space Height"
+msgstr ""
+
+#: includes/shortcodes/wc/woocommerce_products_user_bought.php:34
+msgid "Your Products"
+msgstr ""
+
+#: includes/shortcodes/wp/custom-button.php:16
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: includes/vc-params.php:4
+msgid "Slider Setting"
+msgstr ""
+
+#: includes/vc-params.php:12
+msgid "Slider Type"
+msgstr ""
+
+#: includes/vc-params.php:23
+msgid "Slides to Scroll"
+msgstr ""
+
+#: includes/vc-params.php:26
+msgid "All visible"
+msgstr ""
+
+#: includes/vc-params.php:27
+msgid "One at a Time"
+msgstr ""
+
+#: includes/vc-params.php:33
+msgid "Items to Show"
+msgstr ""
+
+#: includes/vc-params.php:40
+msgid "Infinite loop"
+msgstr ""
+
+#: includes/vc-params.php:41
+msgid "Restart the slider automatically as it passes the last slide."
+msgstr ""
+
+#: includes/vc-params.php:52
+msgid "Transition speed"
+msgstr ""
+
+#: includes/vc-params.php:59
+msgid "Speed at which next slide comes."
+msgstr ""
+
+#: includes/vc-params.php:65
+msgid "Autoplay Slides"
+msgstr ""
+
+#: includes/vc-params.php:75
+msgid "Autoplay Speed"
+msgstr ""
+
+#: includes/vc-params.php:89
+msgid "Navigation Arrows"
+msgstr ""
+
+#: includes/vc-params.php:90
+msgid "Display next / previous navigation arrows"
+msgstr ""
+
+#: includes/vc-params.php:93 includes/vc-params.php:104
+msgid "Show"
+msgstr ""
+
+#: includes/vc-params.php:100
+msgid "Dots Navigation"
+msgstr ""
+
+#: includes/vc-params.php:101
+msgid "Display dot navigation"
+msgstr ""
+
+#: includes/vc-params.php:111
+msgid "Draggable Effect"
+msgstr ""
+
+#: includes/vc-params.php:112
+msgid "Allow slides to be draggable"
+msgstr ""
+
+#: includes/vc-params.php:123
+msgid "Touch Move"
+msgstr ""
+
+#: includes/vc-params.php:124
+msgid "Enable slide moving with touch"
+msgstr ""
+
+#: includes/vc-params.php:137
+msgid "RTL Mode"
+msgstr ""
+
+#: includes/vc-params.php:138
+msgid "Turn on RTL mode"
+msgstr ""
+
+#: includes/vc-params.php:148
+msgid "Adaptive Height"
+msgstr ""
+
+#: includes/vc-params.php:149
+msgid "Turn on Adaptive Height"
+msgstr ""
+
+#: includes/vc-params.php:159
+msgid "Pause on hover"
+msgstr ""
+
+#: includes/vc-params.php:160
+msgid "Pause the slider on hover"
+msgstr ""
+
+#: includes/vc-params.php:172
+msgid "Center mode"
+msgstr ""
+
+#: includes/vc-params.php:173
+msgid ""
+"Enables centered view with partial prev/next slides. <br>Animations do "
+"not work with center mode.<br>Slides to scroll -> 'All Visible' do not "
+"work with center mode."
+msgstr ""
+
+#: includes/vc-params.php:183
+msgid "Item Auto Width"
+msgstr ""
+
+#: includes/vc-params.php:184
+msgid "Variable width slides"
+msgstr ""
+
+#: updater.php:434
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please "
+"reactivate it manually."
+msgstr ""
+
+#: updater.php:435
+msgid "Plugin reactivated successfully."
+msgstr ""

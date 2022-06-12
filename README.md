@@ -8,7 +8,7 @@
 
 برای طراحی UI/UX از Adobe XD  استفاده شده است.
 
-آدرس سایت : www.atlasbile.ir
+آدرس سایت : www.atlasbike.ir
 
 
 

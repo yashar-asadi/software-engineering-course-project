@@ -1,0 +1,148 @@
+@import "../mixins";
+@import '../../../../SCSS_JS_Source/_vendor/foundation/scss/foundation';
+
+.novaworks-carousel {
+
+	&-wrap {
+		&.novaworks-equal-cols {
+			.slick-track {
+				@include ad_display();
+				@include align-items(center);
+				&:before,
+				&:after{
+					display: none;
+				}
+			}
+			.novaworks-carousel__item-link{
+				@include ad_display();
+			}
+			.novaworks-carousel__item {
+				float: none;
+				height: auto;
+				@include ad_display();
+				@include flex-direction(column);
+				img {
+					object-fit: cover;
+					margin: 0 auto;
+					@include flex-grow(1);
+				}
+				.novaworks-carousel__item-inner,
+				.novaworks-banner,
+				.novaworks-banner__link {
+					@include ad_display();
+					@include flex-direction(column);
+					@include align-items(center);
+				}
+				.novaworks-carousel__item-inner,
+				.novaworks-carousel__item-inner > *:last-child,
+				.novaworks-banner__link {
+					@include flex-grow(1);
+				}
+				&.brand-items {
+					img  {
+						object-fit: contain;
+					}
+				}
+			}
+		}
+	}
+
+	&__item {
+		padding: 10px;
+		vertical-align: middle;
+		.novaworks-banner {
+			float: none;
+			img{
+				width: 100%;
+			}
+		}
+	}
+	&__content {
+		position: relative;
+		z-index: 2;
+		max-width: 100%;
+	}
+
+	&__content,
+	&__item-title,
+	&__item-text {
+		transition: all 200ms linear;
+	}
+}
+
+.novaworks-advance-carousel-layout-icon{
+	.novaworks-carousel__item{
+		.novaworks-carousel__item-link{
+			position: relative;
+			display: block;
+			background-color: #f2f4f5;
+			overflow: hidden;
+			text-align: center;
+			padding: 30px;
+			&:before{
+				content: "";
+				height: 100%;
+				width: 100%;
+				display: block;
+				visibility: hidden;
+				background-color: var(--site-accent-color);
+				position: absolute;
+				top: 100%;
+				z-index: 0;
+				left: 0;
+				transition: 0.4s cubic-bezier(1, 0.35, 0.24, 1.05);
+			}
+		}
+		.novaworks-carousel__icon {
+			position: relative;
+			font-size: 50px;
+			color: var(--site-accent-color);
+			i{
+				transition: 0.4s ease;
+			}
+		}
+		.novaworks-carousel__item-text{
+			transition: 0.4s ease;
+		}
+		.novaworks-carousel__item-title{
+			transition: 0.4s ease;
+			font-size: 16px;
+			font-weight: normal;
+		}
+		&:hover{
+			.novaworks-carousel__item-link{
+				&:before{
+					top: 0;
+					visibility: inherit;
+				}
+			}
+			.novaworks-carousel__item-title,
+			.novaworks-carousel__item-text,
+			.novaworks-carousel__icon{
+				color: #fff;
+			}
+		}
+	}
+}
+.novaworks-advance-carousel-layout-banners {
+	.novaworks-carousel__item {
+		padding: 0;
+	}
+	.slick-dots {
+		position: absolute;
+		bottom: 30px;
+		li {
+			button {
+				width: 15px;
+				height: 15px;
+				background: transparent;
+				border: solid 1px #fff;
+			}
+			&.slick-active {
+				button {
+					background-color: #fff;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,57 @@
+@import "../mixins";
+@import '../../../../SCSS_JS_Source/_vendor/foundation/scss/foundation';
+.pricing-table {
+	position: relative;
+	&__icon {
+		&-box {
+			i {
+				display: -webkit-inline-flex;
+				display: inline-flex;
+				@include justify-content(center);
+				@include align-items(center);
+			}
+		}
+	}
+	&__title {
+		margin-bottom: 0;
+	}
+	&__subtitle {
+		margin-bottom: 0;
+	}
+	&__badge {
+		position: absolute;
+		right: 20px;
+		top: 20px;
+	}
+
+	.pricing-table-button {
+		overflow: hidden;
+
+		&.button-full-size {
+			width: 100%;
+		}
+	}
+	.button-icon {
+		margin-right: 5px;
+	}
+}
+
+.pricing-feature {
+	&:not(:first-child):before {
+		content: "";
+		display: block;
+		height: 0;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	&__inner {
+		display: -webkit-inline-flex;
+		display: inline-flex;
+		@include align-items(center);
+	}
+	.item-bullet {
+		@include ad_display;
+		@include align-items(center);
+		margin-right: 0.8em;
+	}
+}

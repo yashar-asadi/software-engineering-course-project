@@ -1,0 +1,373 @@
+@font-face{
+  font-family: 'nova-elements';
+  src: url('../../public/fonts/nova-elements.eot?n7pshk');
+  src: url('../../public/fonts/nova-elements.eot?n7pshk#iefix') format('embedded-opentype'),
+  url('../../public/fonts/nova-elements.ttf?n7pshk') format('truetype'),
+  url('../../public/fonts/nova-elements.woff?n7pshk') format('woff'),
+  url('../../public/fonts/nova-elements.svg?n7pshk#nova-elements') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+[class^="nova-elements-icon-"], [class*=" nova-elements-icon-"]{
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'nova-elements' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.elementor-panel [class^="nova-elements-icon-"]:before,
+.elementor-panel [class*=" nova-elements-icon-"]:before{
+  display: block;
+  font-size: 36px;
+  line-height: 29px;
+}
+.nova-elements-icon-1:before{
+  content: "\e900";
+}
+.nova-elements-icon-2:before{
+  content: "\e901";
+}
+.nova-elements-icon-3:before{
+  content: "\e902";
+}
+.nova-elements-icon-4:before{
+  content: "\e903";
+}
+.nova-elements-icon-5:before{
+  content: "\e904";
+}
+.nova-elements-icon-6:before{
+  content: "\e905";
+}
+.nova-elements-icon-7:before{
+  content: "\e906";
+}
+.nova-elements-icon-8:before{
+  content: "\e907";
+}
+.nova-elements-icon-9:before{
+  content: "\e908";
+}
+.nova-elements-icon-10:before{
+  content: "\e909";
+}
+.nova-elements-icon-11:before{
+  content: "\e90a";
+}
+.nova-elements-icon-12:before{
+  content: "\e90b";
+}
+.nova-elements-icon-13:before{
+  content: "\e90c";
+}
+.nova-elements-icon-14:before{
+  content: "\e90d";
+}
+.nova-elements-icon-15:before{
+  content: "\e90e";
+}
+.nova-elements-icon-16:before{
+  content: "\e90f";
+}
+.nova-elements-icon-17:before{
+  content: "\e910";
+}
+.nova-elements-icon-18:before{
+  content: "\e911";
+}
+.nova-elements-icon-19:before{
+  content: "\e912";
+}
+.nova-elements-icon-20:before{
+  content: "\e913";
+}
+.nova-elements-icon-21:before{
+  content: "\e914";
+}
+.nova-elements-icon-22:before{
+  content: "\e915";
+}
+.nova-elements-icon-23:before{
+  content: "\e916";
+}
+.nova-elements-icon-24:before{
+  content: "\e917";
+}
+.nova-elements-icon-25:before{
+  content: "\e918";
+}
+.nova-elements-icon-26:before{
+  content: "\e919";
+}
+.nova-elements-icon-27:before{
+  content: "\e91a";
+}
+.nova-elements-icon-28:before{
+  content: "\e91b";
+}
+.nova-elements-icon-29:before{
+  content: "\e91c";
+}
+.nova-elements-icon-30:before{
+  content: "\e91d";
+}
+.nova-elements-icon-31:before{
+  content: "\e91e";
+}
+.nova-elements-icon-32:before{
+  content: "\e91f";
+}
+.nova-elements-icon-33:before{
+  content: "\e920";
+}
+.nova-elements-icon-34:before{
+  content: "\e921";
+}
+.nova-elements-icon-35:before{
+  content: "\e922";
+}
+.nova-elements-icon-36:before{
+  content: "\e923";
+}
+.nova-elements-icon-37:before{
+  content: "\e924";
+}
+.nova-elements-icon-38:before{
+  content: "\e925";
+}
+.nova-elements-icon-39:before{
+  content: "\e926";
+}
+.nova-elements-icon-40:before{
+  content: "\e927";
+}
+.nova-elements-icon-41:before{
+  content: "\e928";
+}
+.nova-elements-icon-42:before{
+  content: "\e929";
+}
+.nova-elements-icon-43:before{
+  content: "\e92a";
+}
+.nova-elements-icon-44:before{
+  content: "\e92b";
+}
+.nova-elements-icon-45:before{
+  content: "\e92c";
+}
+.nova-elements-icon-46:before{
+  content: "\e92d";
+}
+#elementor-preview-responsive-wrapper{
+  transition: none !important;
+}
+.elementor-device-laptop1 #elementor-preview-responsive-wrapper{
+  width: 1680px;
+  height: 1050px;
+  padding: 40px 10px 70px
+}
+.elementor-device-laptop2 #elementor-preview-responsive-wrapper{
+  width: 1440px;
+  height: 900px;
+  padding: 40px 10px 70px
+}
+.elementor-device-laptop #elementor-preview-responsive-wrapper{
+  width: 1366px;
+  height: 800px;
+  padding: 40px 10px 70px
+}
+/*.is-localhost.elementor-device-laptop #elementor-preview-responsive-wrapper{*/
+/*  width: 1440px;*/
+/*  height: 900px;*/
+/*}*/
+.elementor-device-tablet #elementor-preview-responsive-wrapper{
+  width: 1024px;
+  height: 768px;
+  padding: 20px 55px;
+}
+.elementor-device-tabletportrait #elementor-preview-responsive-wrapper{
+  width: 768px;
+  height: 1025px;
+  padding: 40px 10px 70px;
+}
+/*Show only controls related to specific device and hide rest*/
+body:not(.elementor-device-laptop) .elementor-control.elementor-control-responsive-laptop,
+body:not(.elementor-device-tabletportrait) .elementor-control.elementor-control-responsive-tabletportrait{
+  display: none;
+}
+body.elementor-device-laptop .elementor-panel .elementor-panel-footer-sub-menu-item[data-device-mode="laptop"],
+body.elementor-device-tablet .elementor-panel .elementor-panel-footer-sub-menu-item[data-device-mode="tablet"],
+body.elementor-device-tabletportrait .elementor-panel .elementor-panel-footer-sub-menu-item[data-device-mode="tabletportrait"]{
+  background-color: rgba(0, 0, 0, .3);
+}
+/* Using Device Width instead of icon for convinence to specify type of device used */
+.eicon-device-tabletportrait:before{
+  content: '\e886';
+}
+.eicon-device-tablet{
+  transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+}
+/* Styling Responsive Switchers as grid instead of Horizonal columns */
+/*.elementor-control-responsive-switchers {*/
+/*  flex-wrap: wrap !important;*/
+/*  width: 100% !important;*/
+/*  margin: 5px 0 !important;*/
+/*}*/
+/* indicating active responsive switcher */
+.elementor-device-laptop .elementor-responsive-switcher-laptop,
+.elementor-device-tabletportrait .elementor-responsive-switcher-tabletportrait{
+  opacity: 1;
+  transform: scale(1);
+  height: 100%;
+}
+.elementor-responsive-switcher-tablet .eicon-device-tablet{
+  left: -9px;
+  top: 9px;
+}
+div#elementor-panel.ui-resizable{
+  transition: none !important;
+  min-height: 90vh;
+}
+div#elementor-panel.ui-draggable-dragging ~ #elementor-preview{
+  pointer-events: none;
+}
+div#novaworks-elementor-collapse-vertical-panel{
+  position: relative;
+}
+div#novaworks-elementor-collapse-vertical-panel input#elementor-vertical-mode-switcher-preview-input{
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  left: 0;
+  top: 0;
+}
+div#elementor-panel.ui-resizable.active #novaworks-elementor-collapse-vertical-panel i:before{
+  content: "\eab0";
+}
+div#elementor-panel.ui-resizable.active #elementor-panel-footer,
+div#elementor-panel.ui-resizable.active #elementor-panel-content-wrapper{
+  display: none;
+}
+div#elementor-panel.ui-resizable.active{
+  max-height: 40px;
+  min-height: 40px;
+}
+#novaworks-tabs-template-edit-modal .dialog-widget-content{
+  width: 100%;
+  height: 90vh;
+  min-height: 700px;
+  background-color: #f1f3f5;
+}
+@media (min-width: 1440px){
+  #novaworks-tabs-template-edit-modal .dialog-widget-content{
+    max-width: 90vw;
+  }
+}
+#novaworks-tabs-template-edit-modal .dialog-close-button{
+  font-size: 40px;
+}
+#novaworks-tabs-template-edit-modal .dialog-header{
+  display: none;
+}
+#novaworks-tabs-template-edit-modal .dialog-message{
+  padding: 0;
+  height: 100%;
+}
+#novaworks-tabs-template-edit-modal .dialog-message iframe{
+  height: 100%;
+}
+#novaworks-tabs-template-edit-modal #novaworks-tabs-loading{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #f1f3f5;
+  z-index: 9999;
+  transform: translateZ(0);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#novaworks-tabs-template-edit-modal #novaworks-tabs-loading .elementor-loader-wrapper{
+  top: auto;
+  left: auto;
+  transform: none;
+}
+#elementor-widget-template-empty-templates{
+  margin-top: 15px;
+  text-align: center;
+}
+#elementor-widget-template-empty-templates .elementor-widget-template-empty-templates-title{
+  padding: 25px 0 25px;
+}
+#elementor-widget-template-empty-templates .elementor-widget-template-empty-templates-icon{
+  font-size: 96px;
+  color: #d5dadf;
+}
+#elementor-widget-template-empty-templates .elementor-widget-template-empty-templates-footer{
+  font-style: italic;
+  margin-bottom: 15px;
+}
+.elementor-label-inline > .elementor-control-content > .elementor-control-field > .elementor-control-input-wrapper{
+  min-width: 55px;
+}
+#novaworks-tabs-template-edit-modal i.dialog-close-button-icon:before{
+  content: "\e803";
+  display: inline-block;
+  font-family: eicons;
+  font-size: inherit;
+  font-weight: 400;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.elementor-icons-manager__tab__item__content i[class*="novaworksicon-"],
+.elementor-icons-manager__tab__item__content .dlicon{
+  font-size: 25px;
+}
+.elementor-element-edit-mode[class*="elementor-widget-novaworks-"] i.elementor-widget-empty-icon{
+  display: none;
+}
+.elementor-element-edit-mode[class*="elementor-widget-novaworks-"]{
+  background: none;
+}
+@media(max-width: 1800px){
+  .fix-small-browser.elementor-device-desktop #elementor-preview-responsive-wrapper{
+    min-width: 1700px;
+    height: calc(100% - 10px);
+  }
+}
+
+.elementor-device-laptop #elementor-preview-responsive-wrapper[style*="preview-width:1280px"]{
+  width: 1366px !important;
+  height: 800px !important;
+  padding: 20px;
+}
+.elementor-device-tablet #elementor-preview-responsive-wrapper[style*="preview-width:992px"]{
+  width: 1024px !important;
+  height: 768px !important;
+  padding: 20px;
+}
+.elementor-device-tabletportrait #elementor-preview-responsive-wrapper[style*="preview-width:576px"]{
+  width: 768px !important;
+  height: 1024px !important;
+  padding: 20px;
+}
+.elementor-device-mobile #elementor-preview-responsive-wrapper[style*="preview-width:320px"]{
+  width: 360px !important;
+  height: 640px !important;
+  padding: 20px;
+}
