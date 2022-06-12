@@ -1,0 +1,352 @@
+@import "../../../../SCSS_JS_Source/scss/components/globals/mixins";
+@import "../mixins";
+@import '../../../../SCSS_JS_Source/_vendor/foundation/scss/foundation';
+
+.novaworks-testimonials {
+	width: 100%;
+	position: relative;
+
+	&__instance {
+		position: relative;
+		&:not(.slick-initialized) {
+			@include ad_display;
+			visibility: hidden;
+			width: 100%;
+		}
+
+		&.novaworks-testimonials--comment-corner {
+			.novaworks-testimonials__comment {
+				&:after {
+					content: '';
+				}
+			}
+		}
+	}
+
+	&__item {
+		outline: none;
+	}
+
+	&__figure {
+		position: relative;
+		.novaworks-testimonials__tag-img {
+			background-size: cover;
+			background-repeat: no-repeat;
+			max-width: 100%;
+			object-fit: cover;
+			position: relative;
+			display: inline-block;
+			@include size(80px,80px);
+			@include border-radius(50%);
+		}
+	}
+
+	&__comment {
+		max-width: 100%;
+	}
+
+	&__name {
+		max-width: 100%;
+	}
+
+	&__position {
+		max-width: 100%;
+	}
+}
+
+.novaworks-testimonials--comment-corner{
+	.novaworks-testimonials__comment {
+		position: relative;
+		&:after {
+			content: '';
+			height: 0;
+			width: 0;
+			display: block;
+			position: absolute;
+			border: 0 solid;
+		}
+	}
+}
+
+.novaworks-testimonials {
+
+	&.preset-type-1 {
+		.novaworks-testimonials {
+			&__figure {
+				display: inline-flex;
+				margin: 0 auto;
+			}
+			&__content {
+				@include ad_display;
+				@include flex-flow(column nowrap);
+			}
+			&__comment {
+				font-size: 16px;
+				line-height: 2;
+				margin-bottom: 10px;
+				@include order(3);
+			}
+			&__name{
+				@include order(1);
+				font-size: 24px;
+				font-weight: bold;
+				color: $secondary-color;
+				margin-bottom: 15px;
+				&:after{
+					display: block;
+					line-height: 1;
+					font-size: 20px;
+					margin-top: 5px;
+					color: $primary-color;
+				}
+			}
+			&__rating {
+				.star-rating {
+					position: relative;
+					@include nova_icon('');
+				}
+				.star-rating {
+					display: inline-block;
+					line-height: 1;
+			    font-size: rem-calc(14);
+					color: #999999;
+					width: 6em;
+					height:1em;
+					letter-spacing: .2em;
+					&:before {
+						content: "\ea03\ea03\ea03\ea03\ea03";
+				    float: left;
+				    top: 0;
+				    left: 0;
+				    position: absolute;
+					}
+					> span {
+					    overflow: hidden;
+					    float: left;
+					    top: 0;
+					    left: 0;
+					    position: absolute;
+					    padding-top: 1.5em;
+					    color: #FFDB01;
+							&:before {
+								content: "\ea03\ea03\ea03\ea03\ea03";
+						    top: 0;
+						    position: absolute;
+						    left: 0;
+							}
+					}
+				}
+			}
+			&__position{
+				@include order(2);
+			}
+			&__figure {
+				@include order(0);
+			}
+			&__rating{
+				@include order(3)
+			}
+			&__comment {
+				@include order(4);
+			}
+		}
+	}
+
+	&.preset-type-2 {
+		.novaworks-testimonials{
+			&__content{
+				@include ad_display;
+				@include flex-flow(column nowrap);
+			}
+			&__comment{
+				@include order(1);
+			}
+			&__rating{
+				@include order(2)
+			}
+			&__name{
+				@include order(3);
+			}
+			&__position{
+				@include order(4);
+			}
+		}
+	}
+	&.preset-type-3 {
+		.novaworks-testimonials{
+			&__content {
+				text-align: center;
+				font-size: 14px;
+			}
+			&__comment {
+				font-size: 16px;
+				line-height: 1.56;
+				margin-bottom: 12px;
+			}
+			&__name{
+				font-weight: bold;
+				display: inline-block;
+				color: $secondary-color;
+			}
+			&__position{
+				display: inline-block;
+				color: $secondary-color;
+				padding-left: 5px;
+			}
+			&__figure {
+				margin-bottom: 15px;
+			}
+			&__rating{
+				display: none;
+			}
+		}
+	}
+	&.preset-type-4 {
+		.novaworks-testimonials{
+			&__content {
+				text-align: center;
+				@include ad_display;
+				@include flex-flow(column nowrap);
+			}
+			&__tag-img{
+				width: 70px;
+				height: 70px;
+			}
+			&__comment {
+				@include order(-1);
+			}
+			&__name{
+				display: inline-block;
+			}
+			&__position{
+				display: inline-block;
+			}
+			&__rating{
+				display: none;
+			}
+		}
+	}
+	&.preset-type-5 {
+		.novaworks-testimonials{
+			&__content {
+				background-color: #fff;
+				position: relative;
+				padding: 45px 45px 65px;
+				border: 1px solid var(--site-border-color);
+				font-style: italic;
+				margin-bottom: 45px;
+			}
+			&__tag-img{
+				width: 88px;
+				height: 88px;
+				display: block;
+			}
+			&__comment {
+				color: var(--site-heading-color);
+				font-size: 22px;
+				line-height: 1.8;
+				margin-bottom: 15px;
+				&:after{
+					content: '';
+					width: 100px;
+					border-top: 1px solid var(--site-border-color);
+					display: block;
+					margin-top: 15px;
+				}
+			}
+			&__name{
+				color: var(--site-accent-color);;
+				font-size: 18px;
+			}
+			&__rating{
+				display: none;
+			}
+			&__figure{
+				position: absolute;
+				left: 60px;
+				bottom: -44px;
+				&:before{
+					content: '';
+					border-top: 1px solid #fff;
+					width: 15px;
+					position: absolute;
+					right: 100%;
+					top: 50%;
+				}
+				&:after{
+					content: '';
+					border-top: 1px solid #fff;
+					width: 15px;
+					position: absolute;
+					left: 100%;
+					top: 50%;
+				}
+			}
+		}
+	}
+	&.preset-type-6{
+		.novaworks-testimonials{
+			&__item-inner {
+				background: #FFFFFF;
+				box-shadow: 0 0 10px 0 rgba(0,0,0,0.1);
+				padding: 30px;
+			}
+			&__content{
+				@include ad_display;
+				@include flex-flow(row wrap);
+				@include align-items(center);
+			}
+			&__comment{
+				@include order(1);
+				width: 100%;
+				margin-bottom: 15px;
+			}
+			&__rating{
+				@include order(2);
+				width: 100%;
+				margin-bottom: 14px;
+			}
+			&__name{
+				@include order(4);
+				font-size: 18px;
+			}
+			&__position{
+				display: none;
+			}
+			&__figure{
+				@include order(3);
+				margin-right: 20px;
+				.novaworks-testimonials__tag-img{
+					width: 50px;
+					height: 50px;
+					vertical-align: middle;
+				}
+			}
+		}
+	}
+}
+@media(max-width: 1279px){
+	.novaworks-testimonials.preset-type-5 .novaworks-testimonials__content{
+		padding: 35px 35px 65px;
+	}
+	.novaworks-testimonials.preset-type-5 .novaworks-testimonials__comment{
+		font-size: 18px;
+	}
+	.novaworks-testimonials.preset-type-5 .novaworks-testimonials__name{
+		font-size: 16px;
+	}
+}
+
+@media(max-width: 800px){
+	.novaworks-testimonials.preset-type-2 .novaworks-testimonials__item-inner {
+		padding-left: 100px;
+	}
+}
+@media(max-width: 600px){
+	.novaworks-testimonials.preset-type-2 .novaworks-testimonials__item-inner {
+		padding-left: 0;
+	}
+	.novaworks-testimonials.preset-type-2 .novaworks-testimonials__tag-img {
+		position: static;
+	}
+}

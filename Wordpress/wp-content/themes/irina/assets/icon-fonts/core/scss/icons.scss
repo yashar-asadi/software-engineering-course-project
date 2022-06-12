@@ -1,0 +1,373 @@
+/* --------------------------------
+
+iNova Web Font
+Generated using nucleoapp.com
+
+-------------------------------- */
+$inova-font-path: "../fonts" !default;
+
+@font-face {
+  font-family: 'iNova';
+  src: url('#{$ic-font-path}/iNova.eot');
+  src: url('#{$ic-font-path}/iNova.eot') format('embedded-opentype'),
+    url('#{$ic-font-path}/iNova.woff2') format('woff2'),
+    url('#{$ic-font-path}/iNova.woff') format('woff'),
+    url('#{$ic-font-path}/iNova.ttf') format('truetype'),
+    url('#{$ic-font-path}/iNova.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/*------------------------
+	base class definition
+-------------------------*/
+
+.inova {
+  display: inline-block;
+  font: normal normal normal 1em/1 'iNova';
+  color: inherit;
+  flex-shrink: 0;
+  speak: none;
+  text-transform: none;
+  /* Better Font Rendering */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*------------------------
+  change icon size
+-------------------------*/
+
+/* relative units */
+.inova-sm {
+  font-size: 0.8em;
+}
+.inova-lg {
+  font-size: 1.2em;
+}
+/* absolute units */
+.inova-16 {
+  font-size: 16px;
+}
+.inova-32 {
+  font-size: 32px;
+}
+
+/*------------------------
+  spinning icons
+-------------------------*/
+
+.inova-is-spinning {
+  animation: inova-spin 1s infinite linear;
+}
+
+@keyframes inova-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/*------------------------
+  rotated/flipped icons
+-------------------------*/
+
+.inova-rotate-90  {
+	transform: rotate(90deg);
+}
+
+.inova-rotate-180 {
+	transform: rotate(180deg);
+}
+
+.inova-rotate-270 {
+	transform: rotate(270deg);
+}
+
+.inova-flip-y {
+	transform: scaleY(-1);
+}
+.inova-flip-x {
+	transform: scaleX(-1);
+}
+
+/*------------------------
+	icons
+-------------------------*/
+@function unicode($str) {
+  @return unquote("\"\\#{$str}\"");
+}
+
+$ic-down-arrow: unicode(ea02);
+$ic-star-rate: unicode(ea03);
+$ic-right-arrow: unicode(ea04);
+$ic-e-add: unicode(ea05);
+$ic-e-delete: unicode(ea06);
+$ic-storage-unit: unicode(ea07);
+$ic-support-email: unicode(ea09);
+$ic-support-phone: unicode(ea0a);
+$ic-support-chat: unicode(ea0b);
+$ic-arrow-left: unicode(ea0c);
+$ic-arrow-right: unicode(ea0d);
+$ic-f-dashboard: unicode(ea0e);
+$ic-single-01: unicode(ea0f);
+$ic-p-edit: unicode(ea10);
+$ic-left-arrow: unicode(ea11);
+$ic-up-arrow: unicode(ea12);
+$ic-e-remove: unicode(ea13);
+$ic-download: unicode(ea14);
+$ic-t-warning: unicode(ea15);
+$ic-s-info: unicode(ea16);
+$ic-dots: unicode(ea17);
+$ic-log-out: unicode(ea18);
+$ic-small-triangle-right: unicode(ea19);
+$ic-small-triangle-left: unicode(ea1a);
+$ic-load-more: unicode(ea1b);
+$ic-fav-empty: unicode(ea1c);
+$ic-c-remove: unicode(ea1d);
+$ic-money: unicode(ea1e);
+$ic-payment-method: unicode(ea1f);
+$ic-order: unicode(ea20);
+$ic-favorite: unicode(ea21);
+$ic-favorite-2: unicode(ea22);
+$ic-quote: unicode(ea23);
+$ic-zoom: unicode(ea24);
+$ic-submit: unicode(ea25);
+$ic-check-single: unicode(ea26);
+$ic-shopping-cart: unicode(ea27);
+$ic-bag-20: unicode(ea28);
+$ic-save-to-list: unicode(ea29);
+$ic-reply: unicode(ea2a);
+$ic-squares: unicode(ea2b);
+$ic-launch-app: unicode(ea2e);
+$ic-star: unicode(ea2f);
+$ic-star_empty: unicode(ea30);
+$ic-loading: unicode(ea31);
+$ic-play: unicode(ea32);
+$ic-quick-view: unicode(ea34);
+$ic-loop-cart: unicode(ea35);
+$ic-configuration-tools: unicode(ea36);
+$ic-setup-preferences: unicode(ea37);
+$ic-shopping-bag: unicode(ea38);
+$ic-options: unicode(ea39);
+$ic-slider-prev: unicode(ea3a);
+$ic-slider-next: unicode(ea3b);
+
+.ic-down-arrow::before {
+  content: $ic-down-arrow;
+}
+
+.ic-star-rate::before {
+  content: $ic-star-rate;
+}
+
+.ic-right-arrow::before {
+  content: $ic-right-arrow;
+}
+
+.ic-e-add::before {
+  content: $ic-e-add;
+}
+
+.ic-e-delete::before {
+  content: $ic-e-delete;
+}
+
+.ic-storage-unit::before {
+  content: $ic-storage-unit;
+}
+
+.ic-support-email::before {
+  content: $ic-support-email;
+}
+
+.ic-support-phone::before {
+  content: $ic-support-phone;
+}
+
+.ic-support-chat::before {
+  content: $ic-support-chat;
+}
+
+.ic-arrow-left::before {
+  content: $ic-arrow-left;
+}
+
+.ic-arrow-right::before {
+  content: $ic-arrow-right;
+}
+
+.ic-f-dashboard::before {
+  content: $ic-f-dashboard;
+}
+
+.ic-single-01::before {
+  content: $ic-single-01;
+}
+
+.ic-p-edit::before {
+  content: $ic-p-edit;
+}
+
+.ic-left-arrow::before {
+  content: $ic-left-arrow;
+}
+
+.ic-up-arrow::before {
+  content: $ic-up-arrow;
+}
+
+.ic-e-remove::before {
+  content: $ic-e-remove;
+}
+
+.ic-download::before {
+  content: $ic-download;
+}
+
+.ic-t-warning::before {
+  content: $ic-t-warning;
+}
+
+.ic-s-info::before {
+  content: $ic-s-info;
+}
+
+.ic-dots::before {
+  content: $ic-dots;
+}
+
+.ic-log-out::before {
+  content: $ic-log-out;
+}
+
+.ic-small-triangle-right::before {
+  content: $ic-small-triangle-right;
+}
+
+.ic-small-triangle-left::before {
+  content: $ic-small-triangle-left;
+}
+
+.ic-load-more::before {
+  content: $ic-load-more;
+}
+
+.ic-fav-empty::before {
+  content: $ic-fav-empty;
+}
+
+.ic-c-remove::before {
+  content: $ic-c-remove;
+}
+
+.ic-money::before {
+  content: $ic-money;
+}
+
+.ic-payment-method::before {
+  content: $ic-payment-method;
+}
+
+.ic-order::before {
+  content: $ic-order;
+}
+
+.ic-favorite::before {
+  content: $ic-favorite;
+}
+
+.ic-favorite-2::before {
+  content: $ic-favorite-2;
+}
+
+.ic-quote::before {
+  content: $ic-quote;
+}
+
+.ic-zoom::before {
+  content: $ic-zoom;
+}
+
+.ic-submit::before {
+  content: $ic-submit;
+}
+
+.ic-check-single::before {
+  content: $ic-check-single;
+}
+
+.ic-shopping-cart::before {
+  content: $ic-shopping-cart;
+}
+
+.ic-bag-20::before {
+  content: $ic-bag-20;
+}
+
+.ic-save-to-list::before {
+  content: $ic-save-to-list;
+}
+
+.ic-reply::before {
+  content: $ic-reply;
+}
+
+.ic-squares::before {
+  content: $ic-squares;
+}
+
+.ic-launch-app::before {
+  content: $ic-launch-app;
+}
+
+.ic-star::before {
+  content: $ic-star;
+}
+
+.ic-star_empty::before {
+  content: $ic-star_empty;
+}
+
+.ic-loading::before {
+  content: $ic-loading;
+}
+
+.ic-play::before {
+  content: $ic-play;
+}
+
+.ic-quick-view::before {
+  content: $ic-quick-view;
+}
+
+.ic-loop-cart::before {
+  content: $ic-loop-cart;
+}
+
+.ic-configuration-tools::before {
+  content: $ic-configuration-tools;
+}
+
+.ic-setup-preferences::before {
+  content: $ic-setup-preferences;
+}
+
+.ic-shopping-bag::before {
+  content: $ic-shopping-bag;
+}
+
+.ic-options::before {
+  content: $ic-options;
+}
+
+.ic-slider-prev::before {
+  content: $ic-slider-prev;
+}
+
+.ic-slider-next::before {
+  content: $ic-slider-next;
+}
+

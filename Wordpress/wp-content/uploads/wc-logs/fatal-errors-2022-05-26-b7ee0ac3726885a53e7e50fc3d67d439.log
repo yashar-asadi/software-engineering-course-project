@@ -1,0 +1,14 @@
+2022-05-26T06:47:50+00:00 CRITICAL Out of memory (allocated 105906176) (tried to allocate 32768 bytes) در /home/atlasbik/public_html/wp-content/plugins/elementor-pro/core/utils.php در خط 175
+
+2022-05-26T06:47:53+00:00 CRITICAL Out of memory (allocated 82837504) (tried to allocate 20480 bytes) در /home/atlasbik/public_html/wp-content/plugins/kirki/packages/kirki-framework/compatibility/src/Field.php در خط 338
+
+2022-05-26T06:47:53+00:00 CRITICAL Out of memory (allocated 84934656) (tried to allocate 20480 bytes) در /home/atlasbik/public_html/wp-includes/class-wp-hook.php در خط 76
+
+2022-05-26T06:47:57+00:00 CRITICAL Out of memory (allocated 91226112) (tried to allocate 32768 bytes) در /home/atlasbik/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/icons/custom-icons.php در خط 1
+
+2022-05-26T06:48:04+00:00 CRITICAL Out of memory (allocated 95420416) (tried to allocate 528384 bytes) در /home/atlasbik/public_html/wp-includes/pomo/streams.php در خط 125
+
+2022-05-26T06:48:09+00:00 CRITICAL Out of memory (allocated 114294784) (tried to allocate 32768 bytes) در /home/atlasbik/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation.php در خط 1
+
+2022-05-26T06:48:35+00:00 CRITICAL Out of memory (allocated 99614720) (tried to allocate 327680 bytes) در /home/atlasbik/public_html/wp-includes/pomo/mo.php در خط 297
+

@@ -1,5 +1,0 @@
-<?php
-
-/* nectar addition */
-
-?>

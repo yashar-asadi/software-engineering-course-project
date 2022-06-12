@@ -1,6 +1,0 @@
-[26-Mar-2022 19:08:56 UTC] خطای Unknown column 'wp_' in 'field list' در پایگاه‌دادهٔ وردپرس برای دستور SELECT wp_
-[21-May-2022 18:59:16 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/atlasbik/public_html/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39
-[21-May-2022 19:21:24 UTC] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x8 in Entity, line: 68 in /home/atlasbik/public_html/wp-content/plugins/novaworks/includes/mega-menu.php on line 51
-[21-May-2022 19:51:13 UTC] PHP Warning:  DOMDocument::loadHTML(): Invalid char in CDATA 0x8 in Entity, line: 68 in /home/atlasbik/public_html/wp-content/plugins/novaworks/includes/mega-menu.php on line 51
-[26-May-2022 06:48:31 UTC] PHP Fatal error:  Out of memory (allocated 71827456) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/src/Admin/Notes/Notes.php on line 1
-[28-May-2022 17:28:25 UTC] PHP Warning:  php_uname() has been disabled for security reasons in /home/atlasbik/public_html/wp-content/plugins/wordpress-seo/admin/tracking/class-tracking-server-data.php on line 39

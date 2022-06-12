@@ -1,0 +1,266 @@
+[11-May-2022 09:33:18 UTC] PHP Warning:  require(/home/atlasbik/public_html/wp-content/plugins/elementor-pro/plugin.php): failed to open stream: No such file or directory in /home/atlasbik/public_html/wp-content/plugins/elementor-pro/elementor-pro.php on line 66
+[11-May-2022 09:33:18 UTC] PHP Warning:  require(/home/atlasbik/public_html/wp-content/plugins/elementor-pro/plugin.php): failed to open stream: No such file or directory in /home/atlasbik/public_html/wp-content/plugins/elementor-pro/elementor-pro.php on line 66
+[11-May-2022 09:33:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/atlasbik/public_html/wp-content/plugins/elementor-pro/plugin.php' (include_path='/home/atlasbik/public_html/wp-content/plugins/kirki/:/home/atlasbik/public_html/wp-content/plugins/kirki/core:.:/opt/alt/php74/usr/share/pear') in /home/atlasbik/public_html/wp-content/plugins/elementor-pro/elementor-pro.php on line 66
+[21-May-2022 19:03:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-May-2022 19:03:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-May-2022 20:18:30 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[21-May-2022 20:18:30 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:49:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:49:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:50:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:50:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:53:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:53:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:54:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[22-May-2022 06:54:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[22-May-2022 06:54:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[22-May-2022 06:54:15 UTC] The Automattic\WooCommerce\Admin\API\Options::update_options function is deprecated since version 3.1.
+[22-May-2022 06:57:04 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:57:04 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:58:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:58:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:58:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 06:58:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:00:31 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:00:31 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:00:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:00:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:02:24 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:02:24 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:02:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:02:55 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:04:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:04:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:06:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:06:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:06:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:06:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:08:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:08:43 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:10:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:10:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:12:33 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:12:33 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:14:20 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:14:20 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:14:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:14:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:15:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:15:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:15:50 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:15:50 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:17:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:17:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:17:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:17:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:18:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:18:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:19:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:19:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:19:23 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:19:23 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:20:23 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:20:23 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:20:40 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 07:20:40 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:48:35 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:48:35 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:53:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:53:25 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:53:35 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:53:35 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:53:58 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[22-May-2022 09:53:58 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[26-May-2022 06:47:46 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 114688 bytes) in /home/atlasbik/public_html/wp-includes/wp-db.php on line 2135
+[26-May-2022 06:47:46 UTC] PHP Fatal error:  Out of memory (allocated 67633152) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/includes/class-wc-order.php on line 503
+[26-May-2022 06:47:46 UTC] PHP Fatal error:  Out of memory (allocated 46661632) (tried to allocate 69632 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/includes/class-woocommerce.php on line 595
+[26-May-2022 06:47:46 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 114688 bytes) in /home/atlasbik/public_html/wp-includes/wp-db.php on line 2135
+[26-May-2022 06:47:46 UTC] PHP Fatal error:  Out of memory (allocated 59244544) (tried to allocate 4096 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 315
+[26-May-2022 06:47:47 UTC] PHP Fatal error:  Out of memory (allocated 78643200) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 323
+[26-May-2022 06:47:47 UTC] PHP Fatal error:  Out of memory (allocated 57147392) (tried to allocate 4096 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 315
+[26-May-2022 06:47:47 UTC] PHP Fatal error:  Out of memory (allocated 57147392) (tried to allocate 4096 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 315
+[26-May-2022 06:47:50 UTC] PHP Fatal error:  Out of memory (allocated 73924608) (tried to allocate 5242880 bytes) in /home/atlasbik/public_html/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/includes/class-yit-assets.php on line 51
+[26-May-2022 06:47:50 UTC] PHP Fatal error:  Out of memory (allocated 57147392) (tried to allocate 4096 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 315
+[26-May-2022 06:47:50 UTC] PHP Fatal error:  Out of memory (allocated 105906176) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/elementor-pro/core/utils.php on line 175
+[26-May-2022 06:47:53 UTC] PHP Fatal error:  Out of memory (allocated 84934656) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/class-wp-hook.php on line 76
+[26-May-2022 06:47:53 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 452
+[26-May-2022 06:47:53 UTC] PHP Fatal error:  Out of memory (allocated 82837504) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-content/plugins/kirki/packages/kirki-framework/compatibility/src/Field.php on line 338
+[26-May-2022 06:47:53 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2621440 bytes) in /home/atlasbik/public_html/wp-content/plugins/revslider/includes/output.class.php on line 1959
+[26-May-2022 06:47:53 UTC] PHP Fatal error:  Out of memory (allocated 20971520) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php on line 452
+[26-May-2022 06:47:54 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 73728 bytes) in /home/atlasbik/public_html/wp-content/plugins/novaworks/includes/extensions/elementor/manager.php on line 34
+[26-May-2022 06:47:57 UTC] PHP Fatal error:  Out of memory (allocated 73924608) (tried to allocate 5242880 bytes) in /home/atlasbik/public_html/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/includes/class-yit-assets.php on line 51
+[26-May-2022 06:47:57 UTC] PHP Fatal error:  Out of memory (allocated 82837504) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-content/plugins/kirki/packages/kirki-framework/compatibility/src/Field.php on line 338
+[26-May-2022 06:47:57 UTC] PHP Fatal error:  Out of memory (allocated 91226112) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/icons/custom-icons.php on line 1
+[26-May-2022 06:47:57 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/novaworks/includes/extensions/elementor/override/widgets.php on line 335
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/theme.php on line 4081
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 93323264) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-content/plugins/elementor-pro/modules/custom-code/module.php on line 404
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 114688 bytes) in /home/atlasbik/public_html/wp-includes/wp-db.php on line 2135
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 114688 bytes) in /home/atlasbik/public_html/wp-includes/wp-db.php on line 2135
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 95420416) (tried to allocate 528384 bytes) in /home/atlasbik/public_html/wp-includes/pomo/streams.php on line 125
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 655360 bytes) in /home/atlasbik/public_html/wp-includes/user.php on line 2075
+[26-May-2022 06:48:04 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/theme.php on line 4081
+[26-May-2022 06:48:05 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 655360 bytes) in /home/atlasbik/public_html/wp-includes/user.php on line 2075
+[26-May-2022 06:48:07 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 131072 bytes) in /home/atlasbik/public_html/wp-includes/script-loader.php on line 902
+[26-May-2022 06:48:07 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/comment.php on line 3395
+[26-May-2022 06:48:07 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 131072 bytes) in /home/atlasbik/public_html/wp-includes/script-loader.php on line 902
+[26-May-2022 06:48:07 UTC] PHP Fatal error:  Out of memory (allocated 23068672) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 1
+[26-May-2022 06:48:07 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 12288 bytes) in /home/atlasbik/public_html/wp-includes/media.php on line 2500
+[26-May-2022 06:48:07 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 655360 bytes) in /home/atlasbik/public_html/wp-includes/user.php on line 2075
+[26-May-2022 06:48:08 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 131072 bytes) in /home/atlasbik/public_html/wp-includes/script-loader.php on line 902
+[26-May-2022 06:48:08 UTC] PHP Fatal error:  Out of memory (allocated 20971520) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php on line 669
+[26-May-2022 06:48:09 UTC] PHP Warning:  mysqli_query(): (HY000/2008): MySQL client ran out of memory in /home/atlasbik/public_html/wp-includes/wp-db.php on line 2169
+[26-May-2022 06:48:09 UTC] PHP Fatal error:  Out of memory (allocated 114294784) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/templates/single-product/add-to-cart/variation.php on line 1
+[26-May-2022 06:48:09 UTC] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 4096 bytes) in /home/atlasbik/public_html/wp-includes/media.php on line 2523
+[26-May-2022 06:48:09 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/theme.php on line 4081
+[26-May-2022 06:48:27 UTC] PHP Fatal error:  Out of memory (allocated 55050240) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 323
+[26-May-2022 06:48:27 UTC] PHP Fatal error:  Out of memory (allocated 52953088) (tried to allocate 4096 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 315
+[26-May-2022 06:48:27 UTC] PHP Fatal error:  Out of memory (allocated 67633152) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/src/Internal/Admin/Notes/WooSubscriptionsNotes.php on line 361
+[26-May-2022 06:48:27 UTC] PHP Fatal error:  Out of memory (allocated 71827456) (tried to allocate 69632 bytes) in /home/atlasbik/public_html/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/yit-plugin.php on line 16
+[26-May-2022 06:48:29 UTC] PHP Fatal error:  Out of memory (allocated 71827456) (tried to allocate 69632 bytes) in /home/atlasbik/public_html/wp-content/plugins/yith-woocommerce-wishlist/plugin-fw/yit-plugin.php on line 16
+[26-May-2022 06:48:29 UTC] PHP Fatal error:  Out of memory (allocated 46661632) (tried to allocate 528384 bytes) in /home/atlasbik/public_html/wp-includes/pomo/streams.php on line 125
+[26-May-2022 06:48:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /home/atlasbik/public_html/wp-includes/sodium_compat/src/Compat.php on line 1232
+[26-May-2022 06:48:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /home/atlasbik/public_html/wp-includes/sodium_compat/src/Compat.php on line 1232
+[26-May-2022 06:48:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /home/atlasbik/public_html/wp-includes/sodium_compat/src/Compat.php on line 1232
+[26-May-2022 06:48:31 UTC] PHP Fatal error:  Out of memory (allocated 89128960) (tried to allocate 65536 bytes) in /home/atlasbik/public_html/wp-content/plugins/elementor/includes/tracker.php on line 215
+[26-May-2022 06:48:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /home/atlasbik/public_html/wp-includes/sodium_compat/src/Compat.php on line 1232
+[26-May-2022 06:48:32 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 12288 bytes) in /home/atlasbik/public_html/wp-includes/sodium_compat/src/Compat.php on line 1232
+[26-May-2022 06:48:32 UTC] PHP Fatal error:  Out of memory (allocated 101711872) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 323
+[26-May-2022 06:48:34 UTC] PHP Fatal error:  Out of memory (allocated 99614720) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/elementor/core/common/app.php on line 1
+[26-May-2022 06:48:34 UTC] PHP Fatal error:  Out of memory (allocated 70254592) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/woo-variation-swatches/includes/functions.php on line 1980
+[26-May-2022 06:48:34 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-includes/theme.php on line 4081
+[26-May-2022 06:48:34 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 655360 bytes) in /home/atlasbik/public_html/wp-includes/user.php on line 2075
+[26-May-2022 06:48:35 UTC] PHP Fatal error:  Out of memory (allocated 99614720) (tried to allocate 327680 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 297
+[26-May-2022 06:49:13 UTC] PHP Fatal error:  Out of memory (allocated 26214400) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/functions.php on line 4801
+[26-May-2022 06:49:13 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 327680 bytes) in /home/atlasbik/public_html/wp-content/plugins/revslider/revslider.php on line 74
+[26-May-2022 06:49:13 UTC] PHP Fatal error:  Out of memory (allocated 35651584) (tried to allocate 2621440 bytes) in /home/atlasbik/public_html/wp-content/plugins/revslider/includes/output.class.php on line 1959
+[26-May-2022 06:49:13 UTC] PHP Fatal error:  Out of memory (allocated 26214400) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-includes/pomo/mo.php on line 323
+[26-May-2022 06:49:14 UTC] PHP Fatal error:  Out of memory (allocated 42467328) (tried to allocate 32768 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 2432
+[26-May-2022 06:49:14 UTC] PHP Fatal error:  Out of memory (allocated 73924608) (tried to allocate 5242880 bytes) in /home/atlasbik/public_html/wp-content/plugins/woo-variation-swatches/includes/class-wvs-term-meta.php on line 43
+[26-May-2022 06:49:14 UTC] PHP Fatal error:  Out of memory (allocated 40370176) (tried to allocate 45056 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/includes/wc-core-functions.php on line 23
+[26-May-2022 06:49:14 UTC] PHP Fatal error:  Out of memory (allocated 44564480) (tried to allocate 20480 bytes) in /home/atlasbik/public_html/wp-content/plugins/woocommerce/includes/data-stores/class-wc-product-data-store-cpt.php on line 507
+[28-May-2022 16:55:38 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:55:38 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:55:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:55:46 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:56:07 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:56:07 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:56:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 16:56:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:01:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:01:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:01:28 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:01:28 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:12 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:36 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:36 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:40 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:40 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:04:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:06:49 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:06:49 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:07:03 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:07:03 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:07:05 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:07:05 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:07:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:07:59 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:09:54 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:09:54 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:10:24 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:10:24 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:10:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:10:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:11:31 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:11:31 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:16:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:16:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:17:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:17:21 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:17:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:17:34 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:17:41 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:17:41 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:18:28 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:18:28 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:18:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:18:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:19:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:19:09 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:19:39 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:19:39 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:28 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:28 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:36 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:36 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:56 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:20:56 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:21:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:21:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:22:53 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:22:53 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:23:30 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:23:30 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:24:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:24:00 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:24:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:24:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:24:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:24:29 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:25:41 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:25:41 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:26:05 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:26:05 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:26:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:26:13 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:33 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:33 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:42 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:42 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:53 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:27:53 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:28:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:28:22 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:15 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:24 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:24 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:32 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:32 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:33 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:29:33 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:30:36 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:30:36 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:31:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:31:45 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:32:07 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:32:07 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:32:19 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:32:19 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:33:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:33:18 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:34:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:34:47 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:35:01 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:35:01 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:35:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:35:26 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:36:02 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:36:02 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:39:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:39:11 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:39:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:39:44 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:40:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:40:08 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:42:03 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:42:03 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:42:42 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:42:42 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:42:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.
+[28-May-2022 17:42:48 UTC] The Automattic\WooCommerce\Admin\API\Options::get_options function is deprecated since version 3.1.

@@ -1,0 +1,14 @@
+@import "../mixins";
+@import '../../../../SCSS_JS_Source/_vendor/foundation/scss/foundation';
+.nova-business-hours {
+  &__item {
+    display: flex;
+    padding: rem-calc(10) 0;
+    span {
+      flex: 1;
+      &.nova-business-time {
+        align-self: flex-end;
+      }
+    }
+  }
+}
